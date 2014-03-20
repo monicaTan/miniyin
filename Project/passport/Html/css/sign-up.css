@@ -1,9 +1,0 @@
-
-.module-content-form .form-group-sex .control-label{padding-top: 2px;}
-.module-content-form .form-group-sex .radio{padding-top: 0;}
-.module-content-form .form-group-sex .radio{font-size: 12px;}
-.agreement{font-size: 12px; color: #4b89dc;}
-@media (max-width: 767px){
-	.module-agreement{padding:0 20px;}
-}/*手机竖屏和横屏*/
-
