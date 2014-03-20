@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>域聘网 - 职天下，域未来</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+    <link href="css/header.css" rel="stylesheet" media="screen">
+</head>
+<body>
+    
+<div class="footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="row-fluid">
+        <div class="span3">
+          <dl class="footer-first-dl dl-odd">
+            <dt >关于cn.jobs</dt>
+            <dd class="title1-dd"></dd>
+            <dd>
+              <ul>
+                <li><a href="http://www.cn.jobs/footers/about_us">关于我们</a></li>
+                <li><a href="http://www.cn.jobs/footers/partners">合作伙伴</a></li>
+                <li><a href="http://www.cn.jobs/footers/advisory_team">顾问团队</a></li>
+                <li><a href="http://www.cn.jobs/footers/management_team">管理团队</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+
+        <div class="span3">
+          <dl>
+            <dt class="title2">产品介绍</dt>
+            <dd class="title2-dd"></dd>
+            <dd>
+              <ul>
+                <li><a href="http://www.cn.jobs/footers/dingjiyuming">国际顶级域名.jobs</a></li>
+                <li><a href="http://www.cn.jobs/footers/zhaopinweiwangzhan">jobs招聘微网站</a></li>
+                <li><a href="http://www.cn.jobs/footers/difanghangye">地方及行业招聘网站</a></li>
+                <li><a href="http://www.cn.jobs/footers/daxuesheng">大学生招聘网站</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div class="span3">
+          <dl class="dl-odd">
+            <dt>客户与案例</dt>
+            <dd class="title3-dd"></dd>
+            <dd>
+              <ul>
+                <li><a href="http://www.cn.jobs/footers/member">会员企业</a></li>
+                <li><a href="http://www.cn.jobs/footers/anli">案例分析</a></li>
+                <li><a href="http://www.cn.jobs/footers/ganyan">用户感言</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div class="span3">
+          <dl>
+            <dt class="title4">其他</dt>
+            <dd class="title4-dd"></dd>
+            <dd>
+              <ul>
+                <li><a href="http://www.cn.jobs/cnjobs_news?category_id=1">公司动态</a></li>
+                <li><a href="http://www.cn.jobs/cnjobs_news?category_id=2">媒体报道</a></li>
+                <li><a href="http://www.cn.jobs/cnjobs_news?category_id=3">职场资讯</a></li>
+                <li><a href="http://www.cn.jobs/footers/question">常见问题</a></li>
+                <li><a href="http://www.cn.jobs/footers/contact_us">联系我们</a></li>
+                <li><a href="http://www.cn.jobs/footers/jiamengzhengce">加盟政策</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div class="span3">
+          <dl class="footer-last-dl dl-odd">
+            <dt>关注我们</dt>
+            <dd class="title5-dd"></dd>
+            <dd>
+              <ul class="inline">
+                <li><a class="sinat text-hide" href="http://weibo.com/cnjobsv" target="_blank">新浪微博</a></li>
+                <li><a class="qqt text-hide" href="http://t.qq.com/cnjobsv" target="_blank">腾讯微博</a></li>
+                <li><a title="" data-original-title="" class="wechat text-hide" href="javascript:void(0)" rel="popover" data-html="true" data-toggle="tooltip"  data-trigger="focus"  data-placement="top" data-title="微信公众帐号：&lt;strong&gt;cnjobs&lt;/strong&gt;，用手机扫一扫↓" data-content="&lt;img alt=&quot;Qrcode for gh 258&quot; src=&quot;http://asset15.cn.jobs/assets/qrcode_for_gh_258-3e95fdfc71d1e1379d0cb55bc122489a.jpg&quot; /&gt;">微信</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="CopyRight">
+  <div class="container">
+    <div class="row-fluid">
+      <div class="span2">
+        <span class="copy">© 2013 中广互联 </span>
+      </div>
+
+      <div class="span8">
+        <span class="copy">未经同意，不得转载本网站之所有招聘信息及作品</span>
+      </div>
+      
+      <div class="span2">
+        <div class="mmi">京ICP备12034693号</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <script src="js/jquery-1.9.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+      $(function(){
+    $('[rel="popover"]').popover();
+    $(':not(#anything)').on('click', function (e) {
+        $('[rel="popover"]').each(function () {
+            //the 'is' for buttons that trigger popups
+            //the 'has' for icons and other elements within a button that triggers a popup
+            if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                $(this).popover('hide');
+                return;
+            }
+        });
+    });
+
+    })
+     
+    </script>
+
+</body>
+</html>

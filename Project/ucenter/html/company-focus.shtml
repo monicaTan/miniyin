@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>我关注的企业</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/company-focus.css">
+</head>
+<body>
+<!--#include virtual="cnjobs/inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner wrap-inner-ucenter">
+			<div class="row">
+
+<!-- col-main -->
+				<!--#include file="inc/ucenter-left.shtml"-->
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-14 col-md-15 col-lg-15">
+					<div class="col-sub">
+						<div class="module module-ucenter-right">
+
+							<div class="module-right-box">
+
+								<div class="ucenter-title">
+									<div class="row">
+										<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+											<h3>我关注的企业</h3>
+										</div>
+									</div>
+								</div>
+								<div class="ucenter-content">
+									<div class="company-focus-box">
+								    	<div class="row">
+								    		<div class="col-xs-5 col-sm-4 col-md-3 col-lg-3"><a class="company-icon" href="#"><img class="img-responsive" src="../images/dsad.jpg"></a></div>
+								    		<div class="col-xs-10 col-sm-12 col-md-14 col-lg-14">
+								    			<div  class="company-job-info">
+								    				<h4><a href="#">中广互联科技有限公司</a></h4>
+								    				<div class="job-link">
+									    				<a href="#">平面设计师</a>
+									    				<a href="#">网络工程师</a>
+									    				<a href="#">销售主管</a>
+								    				</div>
+								    				<div class="more-job-link">
+								    					<a href="#">更多职位》</a>
+								    				</div>
+								    			</div>
+								    		</div>
+								    		<div class="col-xs-5 col-sm-4 col-md-3 col-lg-3">
+												<a class="btn btn-warning btn-sm" href="#">取消关注</a>
+								    		</div>
+								    	</div>
+								    </div>
+
+								    <div class="company-focus-box">
+								    	<div class="row">
+								    		<div class="col-xs-5 col-sm-4 col-md-3 col-lg-3"><a class="company-icon" href="#"><img src="../images/company.jpg"></a></div>
+								    		<div class="col-xs-10 col-sm-12 col-md-14 col-lg-14">
+								    			<div  class="company-job-info">
+								    				<h4><a href="#">中广互联科技有限公司</a></h4>
+								    				<div class="job-link">
+									    				<a href="#">平面设计师</a>
+									    				<a href="#">网络工程师</a>
+									    				<a href="#">销售主管</a>
+								    				</div>
+								    				<div class="more-job-link">
+								    					<a href="#">更多职位》</a>
+								    				</div>
+								    			</div>
+								    		</div>
+								    		<div class="col-xs-5 col-sm-4 col-md-3 col-lg-3">
+								    			<a class="btn btn-warning btn-sm" href="#">取消关注</a>
+								    		</div>
+								    	</div>
+								    </div>
+
+									<!-- 分页2 --><!-- 个人中心所用分页2 -->
+									<div class="ucenter-pagination-box clearfix">
+
+										<ul class="pagination pull-right">
+										  <li class="disabled"><span class="pagination-previous">上一页</span></li>
+										  <li class="active"><span>1 <span class="sr-only">(current)</span></span></li>
+										  <li><a href="#">2</a></li>
+										  <li><a href="#">3</a></li>
+										  <li><a href="#">4</a></li>
+										  <li class="disabled"><span>...</span></li>
+										  <li><a href="#">20</a></li>
+										  <li class=""><span class="pagination-next">下一页</span></li>
+										</ul>
+
+									</div>
+									<!-- / 分页2 -->
+
+								</div>
+
+							</div>
+
+							<div class="module-right-box">
+
+								<div class="ucenter-title">
+									<div class="row">
+										<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+											<h3>你可能感兴趣的企业</h3>
+										</div>
+									</div>
+								</div>
+								<div class="ucenter-content">
+								    
+								 	<div class="interest-company-box">
+								 		<form class="form-inline interest-form">
+									 		<div class="row">
+									 			<div class="col-xs-20 col-sm-20 col-md-10 col-lg-10">
+										 			<div class="row">
+										 				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+											 			<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+											 				<div class="interest-company">
+											 					<input type="checkbox" value="" name="">
+											 					<a href="#"><img class="img-responsive" src="../images/company.jpg"></a>
+											 				</div>
+											 			</div>
+										 			</div>
+
+										 			<div class="interest-select">
+														<a href="#" class="btn btn-warning">关 注</a>
+														<a href="#" class="change-a">换一换</a>
+										 			</div>
+
+												</div>
+									 			<div class="col-xs-20 col-sm-20 col-md-10 col-lg-10">
+									 				<div class="interest-search">
+									 					<div class="input-group has-error">
+														  	<input type="text" class="form-control">
+														  	<span class="input-group-addon">搜索公司</span>
+														</div>
+														<p>您可以搜索你感兴趣的企业进行关注</p>
+
+														<div class="company-focus-box">
+													    	<div class="row">
+													    		<div class="col-xs-6 col-sm-5 col-md-4 col-lg-4"><a class="company-icon" href="#"><img src="../images/company.jpg"></a></div>
+													    		<div class="col-xs-15 col-sm-11 col-md-12 col-lg-12">
+													    			<div  class="company-job-info">
+													    				<h4><a href="#">中广互联科技有限公司</a></h4>
+													    				<div class="job-link">
+														    				<a href="#">平面设计师</a>
+														    				<a href="#">网络工程师</a>
+														    				<a href="#">销售主管</a>
+													    				</div>
+													    				<div class="more-job-link">
+													    					<a href="#">更多职位》</a>
+													    				</div>
+													    			</div>
+													    		</div>
+													    		<div class="col-xs-5 col-sm-4 col-md-4 col-lg-4">
+													    			<div class="focus-link">
+																		<a href="#">取消关注</a>
+																	</div>
+													    		</div>
+													    	</div>
+													    </div>
+
+													    <div class="company-focus-box">
+													    	<div class="row">
+													    		<div class="col-xs-6 col-sm-5 col-md-4 col-lg-4"><a class="company-icon" href="#"><img src="../images/company.jpg"></a></div>
+													    		<div class="col-xs-15 col-sm-11 col-md-12 col-lg-12">
+													    			<div  class="company-job-info">
+													    				<h4><a href="#">中广互联科技有限公司</a></h4>
+													    				<div class="job-link">
+														    				<a href="#">平面设计师</a>
+														    				<a href="#">网络工程师</a>
+														    				<a href="#">销售主管</a>
+													    				</div>
+													    				<div class="more-job-link">
+													    					<a href="#">更多职位》</a>
+													    				</div>
+													    			</div>
+													    		</div>
+													    		<div class="col-xs-5 col-sm-4 col-md-4 col-lg-4">
+													    			<div class="focus-link">
+																		<a href="#">取消关注</a>
+																	</div>
+													    		</div>
+													    	</div>
+													    </div>
+
+									 				</div>
+									 			</div>
+
+
+									 		</div>
+								 		</form>
+								 	</div>
+
+								</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+<!-- /col-sub -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include virtual="cnjobs/inc/footer.shtml"-->
+
+</body>
+</html>

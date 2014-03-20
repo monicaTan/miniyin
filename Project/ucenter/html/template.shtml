@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>_Template</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include virtual="cnjobs/inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<!--#include file="inc/ucenter-left.shtml"-->
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-14 col-md-15 col-lg-15">
+					<div class="col-sub">
+						<div class="module">cdfd
+						</div>
+					</div>
+				</div>
+<!-- /col-sub -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include virtual="cnjobs/inc/footer.shtml"-->
+</body>
+</html>

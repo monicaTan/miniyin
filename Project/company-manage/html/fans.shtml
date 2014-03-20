@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>粉丝团</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/fans.css">
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+			<div class="col-xs-20 col-sm-5 col-md-5 col-lg-5">
+				<div class="module module-left-box">
+					<div class="module module-left-box-inner">
+
+	                  <div class="fans-left-box">
+	                  	<div class="fans-logo-box"><img class="img-responsive" src="../images/fans-logo.jpg" alt="facebook"></div>
+	                  	<p><a href="#">Facebook</a></p>
+	                  	<p>公司类型：互联网行业</p>
+	                  </div>
+	                  <div class="row fans-row">
+	                  	<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+	                  		<div class="fans1">
+	                  			<div class="fans1-inner">
+	                  				<span>粉丝</span><span>1,260</span>
+	                  			</div>
+	                  		</div>
+	                  	</div>
+	                  	<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+	                  		<div class="fans2">
+	                  			<div class="fans2-inner">
+	                  				<span>职位</span><span>1,260</span>
+	                  			</div>
+	                  		</div>
+	                  	</div>
+	                  </div>
+	                  <div class="company-introduce">
+	                  	<h4>公司简介</h4>
+	                  	<p>中广互联（北京）科技有限公司是中广国际广告公司的战略合作伙伴，拥有国际顶级域名.jobs在大中华区的独家商业开发权。</p>
+	                  </div>
+
+		            </div>
+	            </div>
+			</div>
+			<!-- col-main -->
+			<div class="col-xs-20 col-sm-15 col-md-15 col-lg-15">
+				<div class="col-main">
+
+<!-- module -->
+					<div class="module module-admin-box">
+						<div class="module-title">
+							<div class="row">
+								<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h2>粉丝团</h2></div>
+							</div>
+						</div>
+						<div class="module-content module-height module-fans">
+
+						    <div class="fans-introduce-box">
+						    	<div class="row">
+						    		<div class="col-xs-4 col-sm-4 col-md-3 col-lg-3"><a class="fans-icon" href="#"><img src="../images/fans-logo.jpg"></a></div>
+						    		<div class="col-xs-11 col-sm-12 col-md-14 col-lg-14">
+						    			<div  class="fans-introduce">
+						    				<h4><a href="#">张三/北京市 朝阳区</a></h4>
+						    				<p>中广互联（北京）科技有限公司是中广国际广告公司的战略合作伙伴，拥有国际顶级域名.jobs在大中华区的独家商业开发权。</p>
+						    			</div>
+						    		</div>
+						    		<div class="col-xs-5 col-sm-4 col-md-3 col-lg-3">
+						    			<div class="read-resume-box">
+											<div class="dropdown">
+											  <a class="btn btn-link dropdown-toggle" data-toggle="dropdown">
+											    查看简历
+											    <span class="caret"></span>
+											  </a>
+											  <ul class="dropdown-menu pull-right" role="menu" aria-labelledby="dropdownMenu1">
+											    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">未命名简历1</a></li>
+											    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">未命名简历2</a></li>
+											    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">未命名简历2</a></li>
+											  </ul>
+											</div>
+										</div>
+						    		</div>
+						    	</div>
+						    </div>
+
+
+
+						    <!-- 分页 -->
+							<div class="pagination-box clearfix">
+								<div class="pagination pull-right">
+									<span class="previous_page disabled">上一页</span>
+									<em class="current">1</em>
+									<a href="#" rel="next">2</a>
+									<a href="#">3</a>
+									<a href="#" rel="next" class="next_page">下一页</a>
+								</div>
+							</div>
+							<!-- / 分页 -->
+
+						</div>
+					</div>
+<!-- /module -->
+
+				</div>
+			</div>
+<!-- /col-main -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

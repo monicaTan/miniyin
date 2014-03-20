@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>job-detail</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+  <link href="css/detail.css" rel="stylesheet" media="screen">
+  </head>
+  <body>
+<!--#include file="inc/header.shtml"-->
+
+    <div class="main">
+
+      <div class="container">
+        <div class="main-box">
+
+          <div class="row">
+            <div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+              <div class="left-box detail-box">
+
+                <div class="module-box">
+                    <div class="detail-content detail-title">
+                        <div class="row">
+                            <div class="col-xs-20 col-sm-15 col-md-16 col-lg-17">
+                              <div class="company-horizontal">
+                                  <h3>商务经理&客户经理</h3>
+                                  <h4><a href="company-detail.shtml">美通云动（北京）科技有限公司</a></h4>
+                                  <dl class="dl-horizontal dl-horizontal2 clearfix">
+                                      <dt>公司规模:</dt><dd>&nbsp;20-99人</dd>
+                                      <dt>公司性质:</dt><dd>&nbsp;民营</dd>
+                                      <dt>公司行业:</dt><dd>&nbsp;IT服务（系统/数据/维护）/多领域经营</dd>
+                                  </dl>
+                              </div>
+                            </div>
+                            <div class="col-xs-10 col-sm-5 col-md-4 col-lg-3">
+                              <div class="detail-title-btn text-right">
+                                <span class="fav-js">
+                                  <a id="follow_show_1" class="btn btn-default" href="#"><i class="glyphicon glyphicon-star-empty"></i>收藏</a>
+                                </span>
+                                <div class="company-logo text-right">
+                                  <img class="img-responsive" src="images/hhy_25.jpg" alt="公司logo">
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="module-box">
+                  <div class="detail-content">
+                    <div class="row">
+                      <div class="col-xs-20 col-sm-20 col-md-12 col-lg-12">
+                        <dl class="dl-horizontal dl-horizontal2 clearfix">
+                          <dt>工作经验:</dt><dd>&nbsp;不限</dd>
+                          <dt>最低学历:</dt><dd>&nbsp;不限</dd>
+                          <dt>工作性质:</dt><dd>&nbsp;全职</dd>
+                          <dt>职位类别:</dt><dd>&nbsp;客户服务/售前/售后支持-客户服务经理</dd>
+                        </dl>
+                      </div>
+                      <div class="col-xs-20 col-sm-20 col-md-8 col-lg-8">
+                        <dl class="dl-horizontal dl-horizontal2 clearfix">
+                          <dt>发布日期:</dt><dd>&nbsp;2013-10-17</dd>
+                          <dt>管理经验:</dt><dd>&nbsp;否</dd>
+                          <dt>招聘人数:</dt><dd>&nbsp;若干</dd>
+                          <dt>工作地点:</dt><dd>&nbsp;海淀区</dd>
+                        </dl>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="module-box description-module">
+
+                  <ul class="nav nav-tabs detail-tabbox">
+                    <li class="active"><a href="#job-description">职位描述</a></li>
+                    <li><a href="#company-introduce">公司介绍</a></li>
+                    <li><a href="#job-contact">职位联系方式</a></li>
+                    <li><a href="#other-positions">公司其他职位</a></li>
+                  </ul>
+
+                  <div class="detail-content description-box" id="job-description">
+                    <div class="description-text diffrent_style">
+                      <p>
+                      <h4>岗位职责：</h4>
+                      向客户正确地介绍公司理念、产品、服务项目；<br>
+                      了解客户需求，提出解决方案与策划；<br>
+                      建立客户与公司的整体合作关系；<br>
+                      行业与竞争分析；<br>
+                      根据对市场的了解，对公司产品、技术、运营策略等提出建议；<br>
+                      完成公司内配合工作、后台服务工作。
+                     <h4> 任职条件：</h4>
+                      大学本科以上学历；5年以上工作经验，2年互联网行业经验；<br>
+                      热爱IT、互联网、移动互联网行业；<br>
+                      热爱销售与客户服务工作，具有较强的洞察力；<br>
+                      热爱传播价值观念的事业，热情、直诚、勤奋；<br>
+                      认同企业价值观；<br>
+                      有医药行业、教育行业、家居建材 、IT互联网行业、资源者优先考虑。
+                      </p>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-20 col-sm-11 col-md-13 col-lg-14">
+                        <span class="apply-js"><a target="_blank" href="http://jcnlx.com/4ee78d3ddd5e495684d5e8fd421775fa98" class="btn btn-default purple"><i class="icon-key"></i> 申请链接</a></span>
+                      </div>
+                      <div class="col-xs-20 col-sm-9 col-md-7 col-lg-6">
+
+                        <div class="bshare-custom detail-share">
+                          <a title="分享到QQ空間" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人網" class="bshare-renren"></a><a title="分享到騰訊微博" class="bshare-qqmb"></a><a title="分享到網易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span>
+                        </div>
+                        <script type="text/javascript" charset="utf-8" src="http://static.bshare.com/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh_TW"></script>
+                        <script type="text/javascript" charset="utf-8" src="http://static.bshare.com/b/bshareC0.js"></script>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="module-box clearfix" id="company-introduce">
+                  <div class="title-box">
+                    <div class="row">
+                      <div class="col-xs-15 col-sm-16 col-md-18 col-lg-18"><h2>公司介绍</h2></div>
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 text-right"><a href="#">&nbsp;</a></div>
+                    </div>
+                    <div class="title-hr"></div>
+                  </div>
+                  <div class="detail-content">
+                    <div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+                      <span class="diffrent_style">
+                        <p>2011年，时任微软美国总部IE浏览器核心研发成员陈本峰发现：移动设备技术趋于成熟，全民移动时代已经来临，用户互联 网行为发生颠覆：用户大面积迁徙至移动端，而更多企业还未开始移动化网站建设和营销，用户在移动屏幕上浏览PC网站的体验普遍糟糕，企业的互联网建设的滞 后已远远不能满足用户需求，这种冲突普遍存在于国内外大部分企业和用户之间。多年专注于浏览器内核研发的陈本峰决定用云适配技术改变这个现状，让更多的用 户拥有更为舒适和愉悦的手机上网体验，也帮助企业挖掘用户深层需求，培养用户忠诚度，并促进品牌建设。于是，陈本峰带着他的国际专利在西雅图创立了云适 配。</p>
+                        <p>就像乔氏苹果一样，陈本峰希望将云适配技术引进中国，服务于更多中国企业，帮助中国企业良性成长。不久后，一群对移动互联 网充满追求和梦想的年轻人聚集中国的硅谷-中关村，开始了云适配在中国的传经布道，他们通过跨平台适配技术，在网站插入一行神奇的代码在短时间内迅速建立 企业的手机网站，帮助人们在移动端拥有更好的浏览体验，也为企业打开了移动营销战略的入口！</p>
+                        <p>起初，人们并不明白做这件事的意义何在、前景如何？随着移动互联网浪潮闪电侵袭而来，云适配技术已应用于许多世界500强公司，而云适配的价值正被更多的人验证和认可。</p>
+                        <p>云适配是一项前瞻性的适配技术，在未来，无论人们用什么样的终端上网，云适配都可以帮助其实现自适配。One web，any device！这便是云适配的梦想。</p>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="module-box" id="job-contact">
+                  <div class="title-box">
+                    <div class="row">
+                      <div class="col-xs-15 col-sm-16 col-md-18 col-lg-18"><h2>联系方式</h2></div>
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 text-right"><a href="#">&nbsp;</a></div>
+                    </div>
+                    <div class="title-hr"></div>
+                  </div>
+                  <div class="detail-content contact-way">
+                    <dl class="list-unstyled dl-horizontal dl-horizontal2 clearfix">
+                      <dt>详细地址:</dt><dd>&nbsp;北京市海淀区中关村彩和坊路10号1+1大厦1201室</dd>
+                      <dt>联系人:</dt><dd>&nbsp;(先生)</dd>
+                      <dt>公司电话:</dt><dd>&nbsp;010-53633255</dd>
+                      <dt>公司传真:</dt><dd>&nbsp;010-53633255</dd>
+                      <dt>公司邮箱:</dt><dd>&nbsp;hello@allmobiddze.com</dd>
+                      <dt>公司主页:</dt><dd>&nbsp; http://www.yunshipei.com/</dd>
+                    </dl>
+                  </div>
+                </div>
+
+
+                <div class="module-box" id="other-positions">
+
+                  <div class="title-box">
+                    <div class="row">
+                      <div class="col-xs-15 col-sm-16 col-md-18 col-lg-18"><h2>公司其他职位</h2></div>
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 text-right"><a href="#">更多...</a></div>
+                    </div>
+                  </div>
+
+                  <div class="table-responsive">
+                    <table width="100%" class="table table-hover table-element table-element1">
+                      <thead>                   
+                        <tr>
+                          <th>职位名称</th>
+                          <th width="14%">招聘人数</th>
+                          <th width="15%">地点</th>
+                          <th width="18%">发布时间</th>
+                        </tr>
+                      </thead>
+
+                      <tbody>
+                        <tr>
+                          <td><a href="#">网络推广</a></td>
+                          <td>1</td>
+                          <td>北京</td>
+                          <td>2013-10-14</td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">文员（急聘） </a></td>
+                          <td>1</td>
+                          <td>北京</td>
+                          <td>2013-10-14</td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">前台文员/前台接待 </a></td>
+                          <td>1</td>
+                          <td>北京</td>
+                          <td>2013-10-14</td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">空间设计师 </a></td>
+                          <td>200</td>
+                          <td>北京</td>
+                          <td>2013-10-14</td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">市场策划 </a></td>
+                          <td>1</td>
+                          <td>北京</td>
+                          <td>2013-10-14</td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">电商主管</a></td>
+                          <td>1</td>
+                          <td>北京</td>
+                          <td>2013-10-14</td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">空间设计师 </a></td>
+                          <td>200</td>
+                          <td>北京</td>
+                          <td>2013-10-14</td>
+                        </tr>
+
+                        <tr>
+                          <td><a href="#">电商主管</a></td>
+                          <td>1</td>
+                          <td>北京</td>
+                          <td>2013-10-14</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+
+                
+              </div>
+            </div>
+          </div>
+
+          <ul class="pagination job_list">
+            <li class="disabled"><a href="#">上一页</a></li>
+            <li class="active"><a href="#">1</a></li>
+            <li><a href="#">2</a></li>
+            <li><a href="#">3</a></li>
+            <li><a href="#">4</a></li>
+            <li><a href="#">5</a></li>
+            <li><a href="#">6</a></li>
+            <li><a href="#">7</a></li>
+            <li><a href="#">8</a></li>
+            <li><a href="#">9</a></li>
+            <li><a href="#">...</a></li>
+            <li><a href="#">10</a></li>
+
+            <li><a href="#">下一页</a></li>
+          </ul>
+
+
+        </div>
+      </div>
+      
+    </div>
+
+<!--#include file="inc/footer.shtml"-->
+  </body>
+</html>

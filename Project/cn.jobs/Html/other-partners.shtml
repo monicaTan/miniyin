@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>合作伙伴</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<!--#include file="inc/common.shtml"-->
+	<link href="css/other.css" rel="stylesheet">
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="main">
+			<div class="row">
+
+<!-- left -->
+				<!--#include file="inc/other-left.shtml"-->
+<!-- /left -->
+
+<!-- right -->
+				<div class="col-xs-20 col-sm-15 col-md-15 col-lg-15">
+					<div class="right">
+						<div class="module module-other-right clearfix">
+							<h3>合作伙伴</h3>
+
+							<div class="module module-other-content">
+								<div class="partners">
+									<h4 class="clearfix">
+							            <img width="152" class="img-responsive pull-left" src="images/de.png" alt="De">
+							            <a target="_blank" href="http://www.directemployers.org/">
+							            	<span class="pull-left">Direct Employers 简介</span>
+							            </a>
+							        </h4>
+							        <p>Direct Employers是由全球500强中的多家企业发起，成立于2001年的专业人力资源非盈利组织, 目前该组织有七百多家会员，大多为全球1000强企业，包括IBM、思科、花旗、可口可乐等跨国企业。Direct Employers主旨是让会员共享业界最新技术，寻求更快捷有效的招聘途径，该组织的合作伙伴包括NASWA(National Assocaiton of State Workforce Agencies,美国国家劳动力联合会),NACE(National Association of College and Employers,美国大学雇主联合会)等。2007年Direct Employers和NASWA合作，运营NLX(Natioanl Labor Exchange,美国国家劳动力交流平台)，提供权威的网络真实职位信息，该中心推出后就受到广大雇主欢迎，目前有超过12万家企业在该平台发布职位。2010年Direct Employers和JOBS注册局(Employ Media)合作，运作所有地区性和行业性JOBS站点，把NLX上面的职位发布到california.jobs, dallas.jobs, engineer.jobs等4万个站点。Direct Employers的总裁是Bill Warren，是全球最大招聘网站monster的 创始人。2012年Direct Employers正式与中广互联成为战略合作伙伴，授权搭建大中华地区人力资源平台（cn.jobs）。
+						          </p>
+								</div>
+
+								<div class="partners">
+									<h4 class="clearfix">
+						              	<img width="50" class="img-responsive pull-left" src="images/jobs.png" alt="jobs">
+							            <a target="_blank" href="http://www.goto.jobs/">
+							            	<span class="pull-left">Employ Media 简介</span>
+							            </a>
+							        </h4>
+							        <p> Employ Media位于美国俄亥俄州克利夫兰，是国际顶级域名JOBS的注册局。作为注册局，EMploy Media负责所有JOBS域名注册商的审核。Employ Media LLC和中广互联（北京）科技有限公司于2012年7月签署协议，授权中广互联（北京）科技有限公司独家负责在大中华区的商业开发。
+						          </p>
+								</div>
+
+								<div class="partners">
+									<h4 class="clearfix">
+						              	<img width="27" class="img-responsive pull-left" src="images/crtv.jpg" alt="crtv">
+							            <a target="_blank" href="http://www.crtv.com.cn/">
+							            	<span class="pull-left">中广国际传媒公司简介</span>
+							            </a>
+							        </h4>
+							        <p> 中广国际传媒（北京）有限公司（简称“中广传媒公司”）是国家广电总局直属、中央电视台管理的中国广播电视国际经济技术合作总公司的下属公司。作为中广国际系统内媒体业务的服务平台，中广传媒公司拥有丰富的资源优势，其业务范围已形成包括影视制作、影视发行、电影院线、影院投资与改建、城市文化综合体和文化广场的投资与运营、文化产业园区的规划与建设、农村电影购物、影视设备服务、影院信息服务、城市品牌宣传与包装、大型活动承办与执行等在内的完整的影视文化产业链。   
+						          </p>
+								</div>
+
+								<div class="partners">
+									<h4 class="clearfix">
+						              	<img width="27" class="img-responsive pull-left" src="images/yec.png" alt="yec">
+							            <a target="_blank" href="http://www.21youth.cn/">
+							            	<span class="pull-left">中国国际青年交流中心</span>
+							            </a>
+							        </h4>
+							        <p> 中广国际传媒（北京）有限公司（简称“中广传媒公司”）是国家广电总局直属、中央电视台管理的中国广播电视国际经济技术合作总公司的下属公司。作为中广国际系统内媒体业务的服务平台，中广传媒公司拥有丰富的资源优势，其业务范围已形成包括影视制作、影视发行、电影院线、影院投资与改建、城市文化综合体和文化广场的投资与运营、文化产业园区的规划与建设、农村电影购物、影视设备服务、影院信息服务、城市品牌宣传与包装、大型活动承办与执行等在内的完整的影视文化产业链。   
+						          </p>
+						          <p>中心的宗旨是：致力于增进中国青年与世界各国青年之间相互了解、交流与合作，推动国际间的教育、文化合作和友好事业的发展，促进国家和谐发展和社会进步。</p>
+						          <p> 中心的发展目标是：树立和落实科学的发展观，坚持以发展为第一要务，以国际青年交流事业为主体，构筑信息服务体系、人力资源支持、设施服务平台，建设具有青年特色，集国际青年交流、教育合作、人才培养、信息咨询、经贸合作、康乐休闲等诸多功能于一体，软硬设施相配套、功能齐全有国际先进水准的现代化综合性国际青年交流基地。</p>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+<!-- /right -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

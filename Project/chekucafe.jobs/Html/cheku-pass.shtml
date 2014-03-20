@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>登录。jobs通行证</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="cheku-sign-in">
+				<div class="row">
+
+	<!-- col-main -->
+					<div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+						<div class="col-main">
+
+		<!-- module -->
+							<div class="module module-right-sign-in">
+								<div class="module-title">
+									<h2>登录.jobs通行证<small>登录后，即可畅享全球所有.jobs网站的产品和服务。</small></h2>
+								</div>
+								<div class="alert alert-danger alert-danger-form">
+									<button type="button" class="close" data-dismiss="alert" aria-hidden="true"><i class="fa fa-times-circle"></i></button>
+								您输入的用户名或密码错误
+								</div>
+								<div class="module module-content module-content-form">
+									<form role="form" class="form-horizontal">
+
+										<div class="form-group">
+						                    <label for="inputEmail" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">邮箱</label>
+						                    <div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+						                      <input type="password" class="form-control input-lg">
+						                    </div>
+						                </div>
+									  <div class="form-group">
+									    <label class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label" for="inputPassword3">密码</label>
+									    <div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+									      <input type="password" placeholder="" id="inputPassword3" class="form-control input-lg text-error ">
+									      <div class="error-text-right"><span class="text-error text-error-icon" for="login_password">请输入正确的密码</span></div>
+									    </div>
+									  </div>
+									  <div class="form-group form-group-checkbox-keep">
+									    <div class="col-sm-offset-6 col-sm-12 col-md-offset-6 col-md-11 col-lg-offset-6 col-lg-8">
+										    <div class="row">
+										      	<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+										      		<div class="checkbox">
+												        <label class="checkbox-keep">
+												          <input type="checkbox"> 保持登录状态
+												        </label>
+												     </div>
+										      	</div>
+										      	<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+										      		<a href="#" class="forget-password pull-right">忘记密码？</a>
+										      	</div>
+										     </div>
+									    </div>
+									  </div>
+									  <div class="form-group form-group-btn">
+									    <div class="col-sm-offset-6 col-sm-12 col-md-offset-6 col-md-11 col-lg-offset-6 col-lg-8">
+									      <button class="btn btn-primary" type="submit">登 录</button>
+									    </div>
+									  </div>
+									</form>
+								</div>
+
+							</div>
+		<!-- /module -->
+
+						</div>
+					</div>
+	<!-- /col-main -->
+
+	<!-- col-sub -->
+					<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+						<div class="col-sub">
+							<div class="module module-left-sign-in">
+								<div class="module module-ask">
+									<p>没有.jobs passport账号？</p>
+									<a class="btn btn-default" href="#">免费注册</a>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+	<!-- /col-sub -->
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+
+<script type="text/javascript">
+
+	$(function(){
+      $(".base-content-search .base-content-element:odd").css({"background":"#f6f6f6"})
+    })
+
+</script>
+</body>
+</html>

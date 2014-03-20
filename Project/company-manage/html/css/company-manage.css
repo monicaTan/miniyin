@@ -1,0 +1,306 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2013-10-25 15:19:08
+ * @version $Id$
+ */
+
+body{background-color: #f0f2f5;}
+pre{padding:0;font-size: 14px;background: transparent; border:0;border-radius:0;}
+pre p,
+p{text-indent:2em;}
+a{color: #0063dc;}
+a:hover,
+a:focus{color: #0063dc;}
+
+.dropdown-menu{font-size: 12px;}
+.dropdown-menu>li>a{padding: 8px 20px;}
+
+ /*header*/
+.company-manage-top{background-color: #393f48; padding: 8px 0; font-size: 12px;}
+.company-manage-top-link a{ color: #ffffff; vertical-align: middle;}
+.company-manage-top-link a:hover{ color: #b3b5b9; text-decoration: none;}
+.company-manage-top-user{padding:0; position: relative; z-index: 1001;}
+.company-manage-top-user a.btn{padding:0; background-color: rgba(0, 0, 0, 0); color: #FFFFFF; border:none; font-size: 12px;}
+.company-manage-top-user a.btn:hover{ color: #b3b5b9;}
+.company-manage-top-user a.btn .fa-chevron-down {color: #a4a9ae; font-size: 10px; vertical-align: middle;margin-left: 4px;}
+.company-manage-top-user .dropdown-menu{left: auto; right: 0; font-size: 12px; }
+
+.company-logo{padding: 15px 0;}
+.company-logo img{max-height: 56px;}
+.company-logo .logo-text{padding-left: 15px; line-height: 56px; font-family: "Microsoft YaHei"; font-size: 20px; color: #6c8092;}
+
+
+.navbar-header .navbar-brand{color: #FFFFFF; font-size: 20px;}
+.nav-reset .dropdown-menu{top: 106%; }
+.nav-reset .navbar-inverse{background-color: #434a54; border:0; border-bottom: 3px solid #393f48; }
+.nav-reset .navbar-nav > li >a{font-family: "Microsoft YaHei"; color: #FFFFFF;}
+.nav-reset .navbar-nav > li >a,
+.nav-reset .nav .open>a,
+.nav-reset .nav .open>a:hover,
+.nav-reset .nav .open>a:focus{ border-right: 1px solid #393f48;}
+
+.nav-reset .navbar-inverse .navbar-nav > li > a:focus,
+.nav-reset .navbar-inverse .navbar-nav > .active > a,
+.nav-reset .navbar-inverse .navbar-nav > .active > a:hover,
+.nav-reset .navbar-inverse .navbar-nav > .active > a:focus{background-color: #393f48;}
+
+.nav-reset .dropdown-menu > li >a:hover,
+.nav-reset .dropdown-menu > li >a:focus{color: #262626; background-color: #f5f5f5; }
+.company-manage-top.btn-default:hover,
+.company-manage-top .btn-default:focus,
+.company-manage-top .btn-default:active,
+.company-manage-top .btn-default.active,
+.company-manage-top .open .dropdown-toggle.btn-default { color: #b3b5b9; background-color: rgba(0, 0, 0, 0); border:none;}
+
+.nav-reset .navbar-form{ margin-left: 15px; margin-right: 15px; padding: 3px 0 0; display: inline-block; width: inherit;}
+.nav-reset .navbar-brand{ padding: 15px 20px; }
+.nav-reset .navbar-nav > li > a{ padding: 18px 20px 15px; }
+.nav-reset .navbar-nav{ margin: 0; }
+.nav-reset .btn{ padding: 6px 20px; }
+
+.company-nav-search input{border:none; padding-right: 0; border-radius: 4px 0 0 4px;}
+.company-nav-search .btn{border-color:#ffffff; box-shadow: none; border-radius: 0 4px 4px 0;}
+.company-nav-search .btn-default:hover{color: #393f48;}
+.company-nav-search .btn-default:hover,
+.company-nav-search .btn-default:focus{background-color: #ffffff; color: #707986;}
+.search-ipad{border:2px solid #dddddd; border-radius: 4px; margin: 10px 0 0;}
+.company-nav-search input:focus{ box-shadow: none;}
+
+
+/* ../ header*/
+
+.module-height{min-height: 400px;}
+.module-admin-box{background-color: #FFFFFF;border-bottom: 3px solid #e3e4e8; padding-bottom: 20px; margin-bottom: 10px; border-radius: 5px;}
+.module-alert .alert-danger{color: #5a4143; font-size: 12px; padding: 18px 15px;}
+.module-alert .alert-danger strong{font-size: 14px; margin-right: 15px;}
+.module-alert .alert-danger > span{ padding: 0 4px;}
+.module-alert .alert-danger span{ color: #5a4143;}
+.module-alert .alert-danger a{ color: #ed5565;}
+
+
+.module-title{padding: 12px 20px; border-bottom: 3px solid #e3e4e8;}
+.module-title h2{font-family: "Microsoft YaHei"; font-size: 16px; color: #393f48; margin: 0; line-height: 30px; }
+.module-title h2 small{font-family: "SimSun"; font-size: 12px; vertical-align: middle; padding-left: 8px;}
+.module-title .btn-success{padding: 8px 15px; font-size: 12px;}
+.module-title .module-more{float: right; font-family: "Microsoft YaHei"; font-size: 16px; color: #4b89dc;}
+
+.table-border0 { margin: 0;}
+.table-border0 tbody > tr > th{color: #81b449;white-space: nowrap;}
+.table-border0 tbody > tr > th,
+.table-border0 tbody > tr > td{border-top: 0; font-size: 12px; padding: 16px 20px;}
+.table-border0 tbody > tr > td > a{color: #393f48;}
+.table-border0 tbody > tr > td > a:hover{ text-decoration: none; opacity: 0.70; filter: alpha(opacity=70);}
+.table-border0 tbody > tr > td > a > em{color: #ed5565; font-style: normal; padding-left:4px; }
+.table-border0 tbody > tr > td > span{color: #a4a9ae; padding: 0 10px;}
+.table-border0 tbody tr:hover > td,
+.table-border0 tbody tr:hover > th { background-color: #f6f8fa;}
+
+
+.module-admin-table{font-size: 12px; color: #393f48; margin: 0;}
+.module-admin-table thead > tr > th{ padding: 8px 20px;  background-color: #a4aeb9; font-weight: normal; color: #FFFFFF; border-bottom-color: #93999e;}
+.module-admin-table thead > tr > th > a{color: #FFFFFF;}
+.module-admin-table thead > tr > th.text-center{text-align: center;}
+.module-admin-table tbody > tr > td{padding: 16px 20px; border-bottom: 2px dashed #e3e4e8;}
+.module-admin-table tbody > tr:last-child > td{ border-bottom: 0;}
+.module-admin-table tbody > tr > td a{color: #393f48; }
+.module-admin-table tbody > tr > td:first-child > input{position: relative;top: 3px; margin-right: 4px; margin-top: 0; }
+.module-admin-table tbody > tr > td > a i{ color: #b7bbc2; font-size: 16px; vertical-align: middle;}
+.module-admin-table tbody > tr > td em{ font-style: normal; color: #ed5565;}
+.module-admin-table tbody > tr > td .link-focus{ color: #4b89dc;}
+.module-admin-table-igrey tbody > tr > td > a i{ color: #b7bbc2; font-size: 16px; vertical-align: middle; margin-right: 2px;}
+
+.table-highlight{font-weight: bold; background-color: #fefbf2;}
+
+.module-admin-form-box{ margin: 30px;}
+.module-admin-form-box .form-group{ margin-bottom: 10px;}
+.module-admin-form-box .control-label{ font-weight: normal; color: #393f48;}
+.module-admin-form-box .control-label em{ font-weight: normal; font-style: normal; font-family: "Microsoft YaHei"; vertical-align: middle; color: #ed5565;}
+.module-admin-form-box .form-control{border-radius: 5px;}
+.module-admin-form-box .btn-upload{padding: 6px 20px; background-color: #e1e4e9; font-size: 12px;}
+.module-admin-form-box .upload-tishi{ color: #434a54; font-size: 12px;}
+.company-logo-box{width: 94px; height:45px; overflow: hidden; border:2px solid #e3e4e8; border-radius: 5px;}
+.company-logo-box img{max-width: 94px;width: 100%;}
+.company-logo-info,
+.company-logo-info a{color: #434a54; font-size: 12px;line-height: 24px; white-space: nowrap;}
+.company-logo-info a i{color: #b7bbc2; font-size: 18px; vertical-align: middle;}
+.form-preview{margin-top: 5px;}
+
+.info-descrip{margin-top: 20px;}
+.module-admin-form-box textarea.form-control{ min-height: 150px;}
+.module-admin-form-box .btn-tailor-made{ padding: 10px 30px; font-weight: bold; margin-top: 20px;}
+.module-admin-form-box .btn-publishing{ padding: 10px 20px; font-weight: bold; margin-top: 20px; margin-right: 20px;}
+
+.module-jobs-editing .checkbox,
+.module-jobs-editing .checkbox-inline{font-size: 12px; color: #768082;}
+.module-jobs-editing .checkbox-inline{ margin-left: 0; margin-right: 10px;}
+.module-jobs-editing .checkbox-inline label{font-weight: normal;}
+.label-focus{color: #ED5565;}
+.label-focus span{color: #555555;}
+
+footer{margin: 20px 0;}
+.footer-inner{background-color: #e1e4e9;}
+.footer-inner span{line-height: 80px; padding: 0 20px;}
+.footer-inner span,
+.footer-inner p{text-indent: 0; color: #8f9399;font-size: 14px; font-family: "Microsoft YaHei"; margin: 0;}
+.footer-inner .tel-info{background-color: #d1d4da; padding: 20px;}
+.footer-inner .tel-info p:first-child{background: url(../images/tel-2.png) no-repeat left center; padding-left: 20px;}
+.footer-inner .footer-company{float: right;}
+
+
+
+.module-left-box{background: #FFFFFF; border-radius: 5px; border-bottom: 3px solid #e3e4e8; margin-bottom: 10px;}
+.module-left-box-inner .nav-pills{padding: 10px 0;}
+.module-left-box-inner .divider{border-top: 2px dashed #f1f1f3; height: 1px; margin: 5px 8px 5px 40px;}
+.module-left-box-inner .nav-pills > li > a{border-radius: 0; border-left: 4px solid #ffffff; color: #434a54; padding:15px 15px 15px 20px; font-size: 12px; font-weight: bold; color: #768082;}
+.module-left-box-inner .nav-pills > li > a .fa-chevron-right{line-height: 20px; color: #FFFFFF;}
+.module-left-box-inner .nav-pills > li.active > a .fa-chevron-right{color: #768082;}
+.module-left-box-inner .nav-pills > li > a:hover,
+.module-left-box-inner .nav-pills > li > a:focus,
+.module-left-box-inner .nav-pills > li.active > a,
+.module-left-box-inner .nav-pills > li.active > a:hover,
+.module-left-box-inner .nav-pills > li.active > a:focus{color: #768082; background-color: #f6f8fa; border-left: 4px solid #ed5565; outline: none;}
+
+.operation-line{padding: 20px;}
+.operation-line .btn{padding: 6px 20px; margin-left: 10px;}
+.operation-line .all-select{padding: 6px 0; margin-right: 10px; vertical-align: middle; color: #777777;}
+.operation-line span input{margin: 0 4px 0 0; vertical-align: middle;}
+
+
+/*职位管理*/
+
+.col-main-jobs-management{background: #ffffff;}
+.col-main-jobs-management > ul li a{ color: #888888;}
+.col-main-jobs-management table tr th{ white-space: nowrap;}
+.col-main-jobs-management table tr td:last-child > a{ color: #393F48; margin-right: 6px; white-space: nowrap;}
+.col-main-jobs-management table tr td > a > i{ color: #B7BBC2; font-size: 14px; vertical-align: middle;}
+.col-main-jobs-management table tr .release-end{ color: #999999;}
+.col-main-jobs-management table tr .release-ing{ color: #A0D468;}
+
+/* /职位管理*/
+
+/*新闻预览*/
+.module-news-preview .news-title{text-align: center;}
+.module-news-preview .news-title h3{margin: 0; font-family: "Microsoft YaHei";}
+.module-news-preview .news-title .small-title{font-size: 12px; font-family: "Microsoft YaHei"; margin: 10px 0; display: inline-block; color: #777777;}
+/*新闻预览*/
+
+.module-white-space{padding:30px;}
+
+/*分页*/
+.pagination-box{padding: 0 20px;}
+.pagination-box .pagination > a,
+.pagination-box .pagination > em{margin: 0 5px; border:0; background-color: #FFFFFF; color: #a4a9ae; font-size: 14px; font-style: normal; padding: 4px 10px; margin-bottom: 8px; }
+.pagination-box .pagination > em.current{background-color: #FFFFFF; color: #ed5565;}
+.pagination-box .pagination > a:hover{ text-decoration:underline; color: #555555;}
+
+.pagination-box .pagination > a.previous_page,
+.pagination-box .pagination > a.next_page,
+.pagination-box .pagination > span.previous_page,
+.pagination-box .pagination > span.next_page{ margin-bottom: 5px; padding: 4px 14px; cursor: pointer;background-color: #5d9cec; color: #FFFFFF; border-radius: 4px; border-bottom: 3px solid #4a89dc;}
+
+.pagination-box .pagination > a.previous_page:hover,
+.pagination-box .pagination > a.next_page:hover{ border-bottom: 3px solid #5D9CEC;}
+
+.pagination-box .pagination > span.previous_page,
+.pagination-box .pagination > span.next_page{background-color: #eeeeee; color: #c0c0c0; border-radius: 4px; border-bottom: 3px solid #e2e0e0;}
+
+/*../分页*/
+
+
+
+/* page - template manage */
+.module-template-manage-box .module-content{padding: 30px;}
+.module-template-manage-box .thumb-template img{border-radius: 5px;}
+.module-template-manage-box .detail-template{margin-top: 65px;margin-left: 50px;}
+.module-template-manage-box .detail-template input{margin-right: 50px;}
+.module-template-manage-box .element-template{padding-bottom: 20px;margin-bottom: 20px; border-bottom: solid 1px #e3e4e8;}
+.module-template-manage-box form:last-child .element-template{padding-bottom: 0;margin-bottom: 0; border-bottom: 0;}
+/* /page - template manage */
+
+/* page - template manage */
+.module-template-detail-box .module-content{padding: 30px;}
+.module-template-detail-box .thumb-template img{border-radius: 5px;}
+.module-template-detail-box .detail-template{margin-top: 20px; margin-left: 50px;}
+.module-template-detail-box .element-detail{margin-bottom: 15px;}
+.module-template-detail-box .detail-template .detail-edit{margin-top: 40px;}
+.module-template-detail-box .detail-template .detail-edit a{margin-right: 20px;}
+.module-template-detail-box .detail-template .detail-edit input[type="file"]{width:170px;}
+/* /page - template manage */
+
+/* page - company departments manage */
+.module-company-departments-manage-box .module-content{padding: 30px;}
+.module-company-departments-manage-box .element-template{background: #f6f8fa;padding: 20px;margin-bottom: 20px;}
+.module-company-departments-manage-box .move-departments{border-radius: 5px;margin-left: -20px;}
+.module-company-departments-manage-box .element-checkbox{border-left: solid 2px #e3e4e8;}
+.module-company-departments-manage-box .checkbox{border-left: solid 2px #e3e4e8;padding: 5px 0 10px 35px;margin-bottom: 0;}
+.module-company-departments-manage-box .checkbox1{border-left: 0;}
+.module-company-departments-manage-box .checkbox2{margin-left: 35px;}
+.module-company-departments-manage-box .checkbox3{margin-left: 70px;}
+.module-company-departments-manage-box .checkbox4{margin-left: 105px;}
+.module-company-departments-manage-box .checkbox5{margin-left: 140px;}
+.module-company-departments-manage-box .checkbox6{margin-left: 175px;}
+.module-company-departments-manage-box .checkbox7{margin-left: 210px;}
+.module-company-departments-manage-box .checkbox8{margin-left: 245px;}
+.module-company-departments-manage-box .checkbox9{margin-left: 280px;}
+.module-company-departments-manage-box .checkbox10{margin-left: 315px;}
+/* /page - company departments manage */
+
+/*上传站点logo*/
+.website-logo-up{padding:30px; }
+.website-logo-up .alert-warning{padding: 20px 15px;}
+
+.modal-me .modal-title{ font-family: "Microsoft YaHei";}
+.modal-me .form-control-static-font{  text-indent: 0; font-size: 12px; color: #777777;}
+.modal-me .modal-footer{text-align: center;}
+.modal-body-form .control-label{font-weight: normal;}
+.modal-body-form em{color: #ED5565; font-family: "Microsoft YaHei"; font-style: normal;vertical-align: middle; padding-right: 4px;}
+.modal-me .modal-body-form .form-image{margin-top: 5px;}
+.errore-box {padding: 0 20px;}
+.errore-box .alert{font-size: 12px;}
+.errore-box .alert span{margin-right: 8px;}
+/*上传站点logo*/
+
+
+/*rencaiku*/
+.rencaiku{padding: 40px 100px;}
+.rencaiku table{ width: 100%; border-color: #f0f2f5; border-bottom:1px solid #f0f2f5; border-left:1px solid #f0f2f5;}
+.rencaiku table tr td,
+.rencaiku table tr th{ padding: 12px 10px; border-top:1px solid #f0f2f5; border-right:1px solid #f0f2f5;}
+.rencaiku table tr th{ text-indent: 10px; font-size: 14px; font-weight: normal;  font-family: "Microsoft YaHei"; white-space: nowrap;n}
+.rencaiku table tr th em{ margin-left: -10px; font-style: normal; color: #ed5565; padding-right: 4px;}
+.module-admin-table tbody > tr > td .link-message{display: inline-block; height: 20px; overflow: hidden;}
+/* ./rencaiku*/
+
+@media (max-width: 767px){
+.module-admin-form-box .form-group{ margin-bottom: 5px;}
+.module-admin-form-box .form-control{margin:4px 0;}
+.module-admin-form-box .control-label{padding-top: 0;}
+.module-admin-form-box textarea.form-control{ min-height: 70px;}
+.nav-reset .container,
+.nav-reset .navbar-collapse{ padding: 0;}
+.company-logo{padding: 10px 0;}
+.company-logo img{max-height: 30px;}
+.company-logo .logo-text{line-height: 30px; font-size: 16px; padding-left: 2px;}
+.footer-inner .footer-company{float: left;}
+.footer-inner p{text-align: left;}
+.footer-inner span{line-height: 28px; padding: 0 10px;}
+.footer-inner .tel-info{ padding: 10px;}
+.module-height{min-height: 200px;}
+.module-left-box-inner .nav-pills > li > a{padding: 10px 10px 10px 30px;}
+.module-template-detail-box .detail-template{margin-left: 0;}
+.module-template-detail-box .detail-template .detail-edit{margin-top: 0;}
+}/*手机竖屏和横屏*/
+
+@media (min-width: 768px){
+	.nav-reset .navbar-form{margin-top: -115px;margin-right: -4px; width: 220px;border:2px solid #dddddd; border-radius: 4px; padding: 0}
+}
+
+@media (min-width: 990px) { 
+	.nav-reset .navbar-form{margin-top: 8px;margin-right: 6px; border:none; padding-top: 3px;}
+}
+
+@media (max-width: 480px) { 
+	.rencaiku{padding:10px 0;}
+}

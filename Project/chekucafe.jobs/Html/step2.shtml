@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>step2</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+						<div class="module module-base-box module-pass min-height">
+							<div class="base-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+										<h3>发布职位</h3>
+									</div>
+								</div>
+							</div>
+							<div class="module">
+
+								<div class="module module-step">
+									<div class="row">
+										<div class="col-xs-20 col-sm-3 col-md-4 col-lg-4"></div>
+										<div class="col-xs-20 col-sm-14 col-md-12 col-lg-12">
+											<div class="find-password-step">
+												<div class="row">
+													<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+														<div class="step-bg-box step-bg step-bg-box1">
+															<i class="step1 green-text"></i>
+															<span class="step1-text">注册账号</span>
+															<span class="step1-center-text">1</span>
+															<i class="step2 circle-current"></i>
+															<span class="step2-text">完善公司信息</span>
+															<span class="step2-center-text"></span>
+														</div>
+													</div>
+													<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+														<div class="step-bg-box step-bg-box2">
+															<i class="step3 grey-text"></i>
+															<span class="step3-text">发职位</span>
+															<span class="step3-center-text">3</span>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="col-xs-20 col-sm-3 col-md-4 col-lg-4"></div>
+									</div>
+								</div>
+
+								<div class="module-content module-content-form">
+									<form class="form-horizontal form-cheku" role="form">
+										<div class="form-group">
+										    <label for="inputPassword3" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">公司全称</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="text" class="form-control input-lg" id="inputPassword3" placeholder="">
+										    </div>
+									  	</div>
+
+										<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">公司简称</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="text" class="form-control input-lg" id="inputPassword4" placeholder="">
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">Logo</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input id="" class="form-preview" type="file" name="logo[attachment]" multiple="">
+										    </div>
+									  	</div>
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">&nbsp;</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <span class="upload-tips">上传图片需小于1Mb，格式支持png、jpg、gif，且尺寸为182x92像素或等比</span>
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">经营领域</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="text" class="form-control input-lg" id="inputPassword4" placeholder="">
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">人员规模</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										        <select class="form-control">
+									            	<option value="">1~9人</option>
+									        	</select>
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">公司网址</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="text" class="form-control input-lg" id="inputPassword4" placeholder="">
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">经营领域</label>
+										    <div class="col-xs-20 col-sm-8 col-md-8 col-lg-8">
+										      <textarea rows="3" class="form-control"></textarea>
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">发展阶段</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										        <select class="form-control">
+									            	<option value="">初创阶段-天使轮</option>
+									        	</select>
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">投资机构</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="text" class="form-control input-lg" id="inputPassword4" placeholder="">
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">招聘联系邮箱</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="text" class="form-control input-lg" id="inputPassword4" placeholder="">
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label for="inputPassword4" class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label">招聘联系电话</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="text" class="form-control input-lg" id="inputPassword4" placeholder="">
+										    </div>
+									  	</div>
+
+									  	<div class="form-group form-group-btn">
+										    <div class="col-xs-20 col-sm-offset-7 col-sm-8 col-md-offset-8 col-md-6 col-lg-offset-8 col-lg-5">
+										      <button type="submit" class="btn cheku-btn cheku-btn-info">提 交</button>
+										    </div>
+									  	</div>
+									</form>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- /col-main -->
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+
+<script type="text/javascript">
+
+	$(function(){
+      $(".base-content-search .base-content-element:odd").css({"background":"#f6f6f6"})
+    })
+
+</script>
+</body>
+</html>

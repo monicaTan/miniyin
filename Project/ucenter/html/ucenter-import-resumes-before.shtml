@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>导入简历</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/import-resumes.css">
+</head>
+<body>
+<!--#include virtual="cnjobs/inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner wrap-inner-ucenter">
+			<div class="row">
+
+<!-- col-main -->
+				<!--#include file="inc/ucenter-left.shtml"-->
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-14 col-md-15 col-lg-15">
+					<div class="col-sub">
+						<div class="module module-ucenter-right">
+
+							<div class="module-right-box">
+
+								<div class="ucenter-title">
+									<div class="row">
+										<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+											<h3>导入简历</h3>
+										</div>
+									</div>
+								</div>
+								<div class="ucenter-content">
+									<div class="guide-into">
+
+										<div class="row">
+											<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+												<div class="alert alert-success"><i class="fa fa-check"></i> 登录成功，导入简历省去繁琐的手工填写。<a href="#" class="pull-right">暂时跳过</a></div>
+											</div>
+										</div>
+										<!-- Nav tabs -->
+										<ul class="nav nav-tabs">
+										  <li><a data-toggle="tab" href="#home"><img alt="智联招聘" src="../images/daoru_03.png"></a></li>
+										  <li class="active"><a data-toggle="tab" href="#profile"><img alt="中华英才网" src="../images/daoru_05.png"></a></li>
+										  <li><a data-toggle="tab" href="#messages"><img alt="前程无忧" src="../images/daoru_07.png"></a></li>
+										</ul>
+
+										<!-- Tab panes -->
+
+										<div class="tab-content tab-guide-into">
+										  <div id="home" class="tab-pane fade">
+										  	<div class="alert alert-danger alert-danger-form">
+												<button type="button" class="close" data-dismiss="alert" aria-hidden="true"><i class="fa fa-times-circle"></i></button>
+											您输入的用户名或密码错误
+											</div>
+
+											<div class="guide-into-content">
+												<form class="form-horizontal" role="form">
+													<div class="form-group">
+														<label for="inputEmail3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">常用邮箱或手机</label>
+														<div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+														  <input type="email" class="form-control input-lg" id="inputEmail3" placeholder="">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="inputPassword3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">密码</label>
+														<div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+														  <input type="password" class="form-control input-lg" id="inputPassword3" placeholder="">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="inputPassword3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">验证码</label>
+														<div class="col-xs-10 col-sm-6 col-md-6 col-lg-4">
+														  <input type="password" class="form-control input-lg" id="inputPassword3" placeholder="">
+														</div>
+														<div class="col-xs-10 col-sm-6 col-md-6 col-lg-4">
+															<div class="yanzheng"><img src="../images/yz_03.jpg"></div>
+														</div>
+													</div>
+													<div class="form-group form-group-btn">
+														<div class="col-sm-offset-6 col-sm-12 col-md-offset-6 col-md-11 col-lg-offset-6 col-lg-8">
+														  <a type="submit" class="btn btn-primary">导 入</a>
+														</div>
+													</div>
+												</form>
+											</div>
+
+										  </div>
+										  <div id="profile" class="tab-pane fade in active">
+										  	<div class="alert alert-danger alert-danger-form">
+												<button type="button" class="close" data-dismiss="alert" aria-hidden="true"><i class="fa fa-times-circle"></i></button>
+											您输入的用户名或密码错误
+											</div>
+
+											<div class="guide-into-content">
+												<form class="form-horizontal" role="form">
+													<div class="form-group">
+														<label for="inputEmail3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">常用邮箱或手机</label>
+														<div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+														  <input type="email" class="form-control input-lg" id="inputEmail3" placeholder="">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="inputPassword3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">密码</label>
+														<div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+														  <input type="password" class="form-control input-lg" id="inputPassword3" placeholder="">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="inputPassword3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">验证码</label>
+														<div class="col-xs-10 col-sm-6 col-md-6 col-lg-4">
+														  <input type="password" class="form-control input-lg text-error" id="inputPassword3" placeholder="">
+														  	<div class="error-text-right"><span class="text-error text-error-icon" for="login_password">请输入正确的验证码</span></div>
+														</div>
+														<div class="col-xs-10 col-sm-6 col-md-6 col-lg-4">
+															<div class="yanzheng"><img src="../images/yz_03.jpg"></div>
+														</div>
+													</div>
+													<div class="form-group form-group-btn">
+														<div class="col-sm-offset-6 col-sm-12 col-md-offset-6 col-md-11 col-lg-offset-6 col-lg-8">
+														  <a type="submit" class="btn btn-primary">导 入</a>
+														</div>
+													</div>
+												</form>
+											</div>
+										  </div>
+										  <div id="messages" class="tab-pane fade">
+										  	<div class="alert alert-danger alert-danger-form">
+												<button type="button" class="close" data-dismiss="alert" aria-hidden="true"><i class="fa fa-times-circle"></i></button>
+											您输入的用户名或密码错误
+											</div>
+
+											<div class="guide-into-content">
+												<form class="form-horizontal" role="form">
+													<div class="form-group">
+														<label for="inputEmail3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">常用邮箱或手机</label>
+														<div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+														  <input type="email" class="form-control input-lg" id="inputEmail3" placeholder="">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="inputPassword3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">密码</label>
+														<div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+														  <input type="password" class="form-control input-lg" id="inputPassword3" placeholder="">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="inputPassword3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">验证码</label>
+														<div class="col-xs-10 col-sm-6 col-md-6 col-lg-4">
+														  <input type="password" class="form-control input-lg" id="inputPassword3" placeholder="">
+														</div>
+														<div class="col-xs-10 col-sm-6 col-md-6 col-lg-4">
+															<div class="yanzheng"><img src="../images/yz_03.jpg"></div>
+														</div>
+													</div>
+													<div class="form-group form-group-btn">
+														<div class="col-sm-offset-6 col-sm-12 col-md-offset-6 col-md-11 col-lg-offset-6 col-lg-8">
+														  <a type="submit" class="btn btn-primary">导 入</a>
+														</div>
+													</div>
+												</form>
+											</div>
+										  </div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+<!-- /col-sub -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include virtual="cnjobs/inc/footer.shtml"-->
+
+<script type="text/javascript">
+	$(function(){
+		var options={
+			animation:true,
+			trigger:'hover' //触发tooltip的事件
+		}
+		$('.atip').tooltip(options);
+		//$('#tip1').tooltip('hide');//指定显示某一个tooltip//还可取值hide toggle
+
+	});
+</script>
+</body>
+</html>

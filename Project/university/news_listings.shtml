@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>university-新闻列表</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+  </head>
+  <body>
+<!--#include file="inc/header.shtml"-->
+
+
+    <div class="main">
+
+      <div class="container">
+        <div class="main-box">
+          <div class="row">
+            <div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+              <div class="left-box">
+              
+                <div class="module-box news-list">
+                  <div class="title-box">
+                    <div class="row">
+                      <div class="col-xs-15 col-sm-16 col-md-18 col-lg-18"><h2>就业指导</h2></div>
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 text-right"><a href="#">更多...</a></div>
+                    </div>
+                    <div class="title-hr"></div>
+                  </div>
+                  <div class="module-box careers-guidance">
+                    <ul>
+                      <li><a href="#">二本女求职经历 </a></li>
+                      <li><a href="#">二本学生成功应聘国企</a></li>
+                      <li><a href="#">世界500强的...</a></li>
+                      <li><a href="#"> 吐血的面试经验 </a></li>
+                      <li><a href="#">三国人物的职业发展观 </a></li>
+                      <li><a href="#">大学四年后明白的一百件事</a></li>
+                      <li><a href="#">揭秘2012校园招聘薪酬待遇</a></li>
+                      <li><a href="#">2012校园招聘求职大礼包</a></li>
+                      <li><a href="#">史上最全的名企招聘微博集合</a></li>
+                      <li><a href="#">史上最全的名企招聘微博集合</a></li>
+                      <li><a href="#"> 吐血的面试经验 </a></li>
+                      <li><a href="#">三国人物的职业发展观 </a></li>
+                      <li><a href="#">大学四年后明白的一百件事</a></li>
+                      <li><a href="#">揭秘2012校园招聘薪酬待遇</a></li>
+                      <li><a href="#">2012校园招聘求职大礼包</a></li>
+                      <li><a href="#">史上最全的名企招聘微博集合</a></li>
+                      <li><a href="#">史上最全的名企招聘微博集合</a></li>
+                    </ul>
+                  </div>
+                </div>
+
+                <ul class="pagination job_list">
+                  <li class="disabled"><a href="#">上一页</a></li>
+                  <li class="active"><a href="#">1</a></li>
+                  <li><a href="#">2</a></li>
+                  <li><a href="#">3</a></li>
+                  <li><a href="#">4</a></li>
+                  <li><a href="#">5</a></li>
+                  <li><a href="#">6</a></li>
+                  <li><a href="#">7</a></li>
+                  <li><a href="#">8</a></li>
+                  <li><a href="#">9</a></li>
+                  <li><a href="#">...</a></li>
+                  <li><a href="#">10</a></li>
+
+                  <li><a href="#">下一页</a></li>
+                </ul>
+
+
+              </div>
+            </div>
+
+
+            <div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+              <div class="right-box">
+
+                <div class="module-box">
+                  <div class="title-box">
+                    <div class="row">
+                      <div class="col-xs-15 col-sm-12 col-md-15 col-lg-15"><h2>企业宣讲会</h2></div>
+                      <div class="col-xs-5 col-sm-8 col-md-5 col-lg-5 text-right"><a href="#">更多...</a></div>
+                    </div>
+                    <div class="title-hr"></div>
+                  </div>
+
+                  <ul class="ul-list">
+                    <li><a href="#">二本女求职经历 </a></li>
+                    <li><a href="#">二本学生成功应聘国企</a></li>
+                    <li><a href="#">世界500强的...</a></li>
+                    <li><a href="#"> 吐血的面试经验 </a></li>
+                    <li><a href="#">三国人物的职业发展观 </a></li>
+                    <li><a href="#">大学四年后明白的一百件事</a></li>
+                    <li><a href="#">揭秘2012校园招聘薪酬待遇</a></li>
+                  </ul>
+                </div>
+
+                <div class="module-box  newest-school-recruit">
+                  <div class="title-box">
+                    <div class="row">
+                      <div class="col-xs-15 col-sm-12 col-md-15 col-lg-15"><h2>最新本校职位</h2></div>
+                      <div class="col-xs-5 col-sm-8 col-md-5 col-lg-5 text-right"><a href="#">更多...</a></div>
+                    </div>
+                  </div>
+
+                  <div class="table-responsive">
+                    <table width="100%" class="table table-hover table-element">
+                      <thead>
+                        <tr>
+                          <th>职位名称</th>
+                          <th width="30%">招聘人数</th>
+                        </tr>
+                      </thead>
+
+                      <tbody>
+                        <tr>
+                          <td><a href="#">网络推广</a></td>
+                          <td><a href="#">1</a></td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">前台文员/前台接待 </a></td>
+                          <td><a href="#">1</a></td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">空间设计师 </a></td>
+                          <td><a href="#">1</a></td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">市场策划 </a></td>
+                          <td><a href="#">1</a></td>
+                        </tr>
+                        <tr>
+                          <td><a href="#">电商主管 </a></td>
+                          <td><a href="#">1</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+
+<!--#include file="inc/footer.shtml"-->
+
+  </body>
+</html>

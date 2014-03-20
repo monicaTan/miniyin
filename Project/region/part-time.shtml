@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>地区兼职</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+  </head>
+  <body>
+<!--#include file="inc/header.shtml"-->
+
+    <div class="main">
+
+      <div class="container">
+        <div class="main-box main2">
+
+          <div class="module-box module-box-top">
+            <div class="title-box">
+              <div class="row">
+                <div class="col-xs-15 col-sm-16 col-md-18 col-lg-18"><h2>兼职职位</h2></div>
+                <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 text-right"><a href="#">更多...</a></div>
+              </div>
+            </div>
+
+            <div class="table-responsive">
+              <table width="100%" class="table table-hover table-element table-element1">
+                <thead>                   
+                  <tr>
+                    <th>职位名称</th>
+                    <th width="30%">招聘企业</th>
+                    <th width="12%">招聘人数</th>
+                    <th width="10%">地点</th>
+                    <th width="15%">宣讲会时间</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+                  <tr>
+                    <td><a href="#">网络推广</a></td>
+                    <td><a href="#">美通云动（北京）科技有限公司</a></td>
+                    <td>1</td>
+                    <td>北京</td>
+                    <td>2013-10-14</td>
+                  </tr>
+                  <tr>
+                    <td><a href="#">文员（急聘） </a></td>
+                    <td><a href="#">耐克</a></td>
+                    <td>1</td>
+                    <td>北京</td>
+                    <td>2013-10-14</td>
+                  </tr>
+                  <tr>
+                    <td><a href="#">前台文员/前台接待 </a></td>
+                    <td><a href="#">贝克休斯</a></td>
+                    <td>1</td>
+                    <td>北京</td>
+                    <td>2013-10-14</td>
+                  </tr>
+                  <tr>
+                    <td><a href="#">空间设计师 </a></td>
+                    <td><a href="#">LSI Logic Corporation J&amp;J Family of Comp</a></td>
+                    <td>200</td>
+                    <td>北京</td>
+                    <td>2013-10-14</td>
+                  </tr>
+                  <tr>
+                    <td><a href="#">市场策划 </a></td>
+                    <td><a href="#">LSI Logic Corporation</a></td>
+                    <td>1</td>
+                    <td>北京</td>
+                    <td>2013-10-14</td>
+                  </tr>
+                  <tr>
+                    <td><a href="#">电商主管</a></td>
+                    <td><a href="#">J&amp;J Family of Comp</a></td>
+                    <td>1</td>
+                    <td>北京</td>
+                    <td>2013-10-14</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <ul class="pagination job_list">
+            <li class="disabled"><a href="#">上一页</a></li>
+            <li class="active"><a href="#">1</a></li>
+            <li><a href="#">2</a></li>
+            <li><a href="#">3</a></li>
+            <li><a href="#">4</a></li>
+            <li><a href="#">5</a></li>
+            <li><a href="#">6</a></li>
+            <li><a href="#">7</a></li>
+            <li><a href="#">8</a></li>
+            <li><a href="#">9</a></li>
+            <li><a href="#">...</a></li>
+            <li><a href="#">10</a></li>
+
+            <li><a href="#">下一页</a></li>
+          </ul>
+
+
+        </div>
+      </div>
+      
+    </div>
+
+<!--#include file="inc/footer.shtml"-->
+  </body>
+</html>

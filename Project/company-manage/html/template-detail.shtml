@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>manage-index</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+
+	<!-- module -->
+						<div class="module module-admin-box module-template-detail-box">
+							<div class="module-title">
+								<div class="row">
+									<div class="col-xs-15 col-sm-15 col-md-15 col-lg-15"><h2>模版管理 - 1号模版设置</h2></div>
+									<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5"><button type="button" class="btn btn-success btn-sm pull-right">使 用</button></div>
+								</div>
+							</div>
+							<div class="module-content">
+								<div class="element-template">
+									<div class="row">
+										<div class="col-xs-20 col-sm-9 col-md-9 col-lg-9">
+											<div class="thumb-template">
+												<strong>banner位置</strong>
+												<img src="images/temp-thumb-template-detail.jpg" class="img-responsive">
+											</div>
+										</div>
+										<div class="col-xs-20 col-sm-11 col-md-11 col-lg-11">
+											<div class="detail-template">
+												<div class="element-detail">
+													<div class="row">
+														<div class="col-xs-20 col-sm-10 col-md-10 col-lg-10"><img src="images/temp-thumb-banner.jpg" class="img-responsive"></div>
+														<div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">
+															<div class="detail-edit">
+																<h5>1号图片</h5>
+																<a href="#"><i class="fa fa-edit"></i> 编辑</a> <a href="#"><i class="fa fa-trash-o"></i> 删除</a>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="element-detail">
+													<div class="row">
+														<div class="col-xs-20 col-sm-10 col-md-10 col-lg-10"><img src="images/temp-thumb-banner.png" class="img-responsive"></div>
+														<div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">
+															<div class="detail-edit">
+																<h5>2号图片</h5>
+																<div class="clearfix">
+																	<div class="pull-left"><input type="file" /></div>
+																	<div class="pull-left"><button type="button" class="btn btn-default btn-sm">上传</button></div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+
+	<!-- /module -->
+
+					</div>
+				</div>
+<!-- /col-main -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

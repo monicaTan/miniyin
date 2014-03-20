@@ -1,0 +1,141 @@
+/*** blue ***/
+/*字体颜色*/
+a {
+  color: #2666a4;
+}
+a:focus,
+a:hover {
+  color: rgba(38, 102, 164, 0.8);
+}
+header .user .dropdown-menu > span a,
+.title-box a {
+  color: #2666a4;
+}
+.btn-default {
+  border-color: #2666a4;
+}
+.btn:hover,
+.btn:focus,
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active {
+  background: #225c94;
+  border-color: #2666a4;
+}
+
+.btn.purple {
+  background: #2666a4;
+  color: #FFFFFF;
+  border-color: #2666a4;
+}
+
+.btn.purple:hover {
+  background: #225c94;
+  color: #FFFFFF;
+  border-color: #225c94;
+}
+.pagination > li > a,
+.pagination > li > span {
+  background-color: #f4f7fa;
+  border: 1px solid #bed1e4;
+  color: #2666a4;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #2666a4;
+  border-color: #2666a4;
+}
+/*border-color*/
+.nav-main .navbar-toggle,
+.carousel-indicators li,
+.title-box .title-hr {
+  border-color: #2666a4;
+}
+.nav-main {
+  border: 1px solid #1c4c7b;
+  border-left: 0;
+  border-right: 0;
+}
+.nav-main .navbar-form {
+  border-color: rgba(38, 102, 164, 0.88);
+}
+.table-element1 thead tr th,
+.table-element1 thead:first-child tr:first-child th {
+  border-color: #d4e0ed;
+}
+/*背景颜色*/
+.nav-main,
+.search button,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus,
+.carousel-indicators .active,
+.table-element thead tr th,
+.foot {
+  background: #2666a4;
+}
+.search .form-control {
+  border-color: #d4e0ed;
+}
+.search .form-control:focus {
+  border-color: #2666a4;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #7da3c8;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #7da3c8;
+}
+.nav-main {
+  box-shadow: 0 1px 5px #1c4c7b inset;
+}
+/*.table-element1 thead tr th{background: lighten(@main-color, 49%),desaturate(@main-color, 57%);}*/
+.table-element1 thead tr th {
+  background: #f4f7fa;
+}
+.table-element.table-hover > tbody > tr:hover > td,
+.table-element.table-hover > tbody > tr:hover > th {
+  background-color: #f4f7fa;
+}
+.careers-guidance ul {
+  color: #dee8f1;
+}
+/*背景颜色透明度*/
+.nav-main .navbar-nav > .active > a:hover,
+.nav-main .navbar-nav > .active > a:focus,
+.nav-main .navbar-toggle:hover,
+.nav-main .navbar-toggle:focus {
+  background: rgba(38, 102, 164, 0.88);
+}
+.nav-main .navbar-nav > .active > a,
+.nav-main .navbar-nav > .active > a:hover,
+.nav-main .navbar-nav > .active > a:focus {
+  color: #FFF;
+  background-color: #1b4773;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.35);
+}
+.detail-title-btn .btn {
+  color: #2666a4;
+  background: #FFF;
+  box-shadow: none;
+}
+.detail-title-btn .btn:hover{color: #FFF; background-color: #2666a4;}
+.detail-tabbox.nav-tabs{background: #f5f5f5;  border-bottom: 1px solid #2666a4; padding-left: 20px;}
+.detail-tabbox.nav-tabs > li > a {border: 1px solid #dedfe0; border-bottom:0; border-left: 0; border-radius: 0 0 0 0;  margin: 0; padding: 5px 15px;background: #FFF; font-size: 14px;}
+.detail-tabbox.nav-tabs > li{margin-bottom: 0;}
+.detail-tabbox.nav-tabs > li.active > a,
+.detail-tabbox.nav-tabs > li.active > a:hover,
+.detail-tabbox.nav-tabs > li.active > a:focus {
+  border: 1px solid #2666a4;
+  border-top: 2px solid #2666a4;
+  border-bottom: 1px solid #FFF;
+  opacity: 1;
+  margin-bottom: -1px;
+}
+.detail-title-job-module,
+.job-detail-date-module {
+  border-bottom: 1px dashed #d4e0ed;
+}

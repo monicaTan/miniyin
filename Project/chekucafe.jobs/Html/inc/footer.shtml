@@ -1,0 +1,45 @@
+
+
+<footer>
+  <div class="container">
+    <div class="footer-inner">
+      <div class="row">
+        <div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">&copy; 2014 车库咖啡</div>
+        <div class="col-xs-20 col-sm-10 col-md-10 col-lg-10 footer-right"><span>由中广互联提供技术与数据支持</span><span>京ICP备12034693号</span></div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="assets/js/jquery/jquery-1.10.1.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="assets/bootstrap-3.0.0/dist/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+
+  $(function(){
+      $(".nav2 .nav2-ul > li").hover(function(){
+        $(this).find('.down-div').css({"display":"block"});
+      },function(){
+        $(this).find('.down-div').css({"display":"none"});
+        })  
+    })
+
+	$(function(){
+      $(".down-nav-box").hover(function(){
+        $(this).find('.down-nav').css({"border":"1px solid #000000","border-right":"0","z-index":"20","padding-left":"29px","padding-top":"11px","padding-bottom":"11px"});
+        $(this).find('.down-nav-sub-hover').css({"display":"block","z-index":"18"});
+      },function(){
+          $(this).find('.down-nav').css({"border":"0","z-index":"0","padding-left":"30px","padding-top":"12px","padding-bottom":"12px"});
+          $(this).find('.down-nav-sub-hover').css({"display":"none","z-index":"0"});
+        })  
+		});
+
+
+</script>
+
+
+
+<script src="assets/js/jquery-plugin/retina.js"></script>

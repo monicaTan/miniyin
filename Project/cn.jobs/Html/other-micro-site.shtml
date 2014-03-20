@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>微站点</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<!--#include file="inc/common.shtml"-->
+	<link href="css/other.css" rel="stylesheet">
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="main">
+			<div class="row">
+
+<!-- left -->
+				<!--#include file="inc/other-left.shtml"-->
+<!-- /left -->
+
+<!-- right -->
+				<div class="col-xs-20 col-sm-15 col-md-15 col-lg-15">
+					<div class="right">
+						<div class="module module-other-right clearfix">
+							<h3>JOBS招聘微网站</h3>
+
+							<div class="module module-other-content">
+									<div class="module">
+							          <p>
+							          企业JOBS 招聘微站点，既是企业发布职位信息的渠道，也是宣传企业形象的窗口，所有职位信息会自动同步到相应的地区性和行业性JOBS 网站，目前全球1000 强中的700 家正在使用该服务。该服务分成两类，一类是企业JOBS 信息检索站点，方便求职者查找数量众多的职位信息，IBM、惠普等公司都在使用该服务；另一类是域聘网为中国企业量身定做的JOBS 全功能招聘微站点，不仅可以发布职位信息，查看简历，同时集成世界先进的“人力资源圈”（Talent circle) 概念，深度整合社交平台招聘，让您的企业接触到更多求职者的同时，招聘流程更易于管理。现在就开始体验JOBS 招聘微网站，和国际巨头站在同一起跑线。
+							          </p>
+							        </div>
+							        <div class="module text-center"><img class="img-responsive" src="images/about0_14.jpg"></div>
+
+							</div>
+
+						</div>
+
+						
+					</div>
+				</div>
+<!-- /right -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

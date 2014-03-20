@@ -1,0 +1,204 @@
+<!-- 表单 -->
+
+			<div class="row">
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<form class="form-horizontal" role="form">
+						<div class="row">
+							<div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label"><em>*</em> 公司名称</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">公司简介</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">公司主页</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label"><em>*</em> 公司地址</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+																			<div class="form-group">
+									<label for="" class="col-sm-6 control-label">邮编</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">联系电话</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">联系人</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">公司logo管理</label>
+									<div class="col-sm-8">
+										<select class="form-control">
+								            <option value="">上传文件</option>
+								        </select>
+									</div>
+									<div class="col-sm-4">
+										<button type="submit" class="btn btn-default btn-upload">上传</button>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<div class="col-sm-offset-6 col-sm-12">
+										<span class="upload-tishi">只能上传小于100kb的图片，最好是100*50大小</span>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">公司logo管理</label>
+									<div class="col-sm-6">
+										<div class="company-logo-box">
+											<img src="../images/daoru_07.png">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="company-logo-info">文件名：公司图标</div>
+										<div class="company-logo-info"><a href="#"><i class="fa fa-edit"></i> 编辑</a>
+			            					<a href="#"><i class="fa fa-trash-o"></i> 删除</a></div>
+									</div>
+								</div>
+
+								
+							</div>
+							
+							<div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label"><em>*</em> 所在城市</label>
+									<div class="col-sm-12">
+										<select class="form-control">
+								            <option value="">北京</option>
+								        </select>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label"><em>*</em> 公司所属行业</label>
+									<div class="col-sm-12">
+										<select class="form-control">
+								            <option value="">行业1</option>
+								        </select>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">公司类型</label>
+									<div class="col-sm-12">
+										<select class="form-control">
+								            <option value="">类型1</option>
+								        </select>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">公司规模</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">传真</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-6 control-label">邮箱</label>
+									<div class="col-sm-12">
+										<input type="text" class="form-control" id="" placeholder="">
+									</div>
+								</div>
+
+							</div>
+
+						</div>
+
+						<div class="row">
+							<div  class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+								<div class="form-group">
+									<label for="" class="col-sm-3 control-label"><em>*</em>其他联系方式</label>
+									<div class="col-sm-16">
+										<textarea class="form-control" rows="3"></textarea>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label for="" class="col-sm-3 control-label"><em>*</em>公司介绍</label>
+									<div class="col-sm-16">
+										<textarea class="form-control" rows="3"></textarea>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-sm-offset-3 col-sm-16">
+										<button type="submit" class="btn btn-primary btn-tailor-made">保 存</button>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</form>
+				</div>
+			</div>
+
+<!-- /表单 -->
+
+<!-- 分页 --><!-- 企业后台所用分页 -->
+<div class="pagination-box clearfix">
+	<div class="pagination pull-right">
+		<span class="previous_page disabled">上一页</span>
+		<em class="current">1</em>
+		<a href="#" rel="next">2</a>
+		<a href="#">3</a>
+		<a href="#" rel="next" class="next_page">下一页</a>
+	</div>
+</div>
+<!-- / 分页 -->
+
+
+<!-- 分页2 --><!-- 个人中心所用分页2 -->
+<div class="ucenter-pagination-box clearfix">
+
+	<ul class="pagination pull-right">
+	  <li class="disabled"><span class="pagination-previous">上一页</span></li>
+	  <li class="active"><span>1 <span class="sr-only">(current)</span></span></li>
+	  <li><a href="#">2</a></li>
+	  <li><a href="#">3</a></li>
+	  <li><a href="#">4</a></li>
+	  <li class="disabled"><span>...</span></li>
+	  <li><a href="#">20</a></li>
+	  <li class=""><span class="pagination-next">下一页</span></li>
+	</ul>
+
+</div>
+<!-- / 分页2 -->

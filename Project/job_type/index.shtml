@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>行业</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+  </head>
+  <body>
+<!--#include file="inc/header.shtml"-->
+
+    <div class="main">
+
+      <div class="container">
+        <div class="module-banner-and-right">
+          <div class="row">
+            <div class="col-xs-20 col-sm-20 col-md-14 col-lg-14">
+              <div class="banner-box">
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                  <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                  </ol>
+
+                  <div class="carousel-inner">
+                    <div class="item active">
+                      <a href="#"><img class="img-responsive" src="images/type.jpg" alt="banner1"></a>
+                    </div>
+
+                    <div class="item">
+                      <a href="#"><img class="img-responsive" src="images/type.jpg" alt="banner2"></a>
+                    </div>
+
+                    <div class="item">
+                      <a href="#"><img class="img-responsive" src="images/type.jpg" alt="banner1"></a>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-20 col-sm-20 col-md-6 col-lg-6">
+              <div class="module-right-text">
+                <p>国际顶级域名.jobs和专用于教育组织的.edu、政府机构的.gov域名类似，.jobs专用于招聘。企业名字加.jobs后缀组成网址，简洁易记，方便求职者快速定位查找，在搜索引擎中也能轻松排在前列，利于企业推广。</p>
+                <p><a href="#">详细了解.jobs域名 ...</a></p>
+                <div class="text-center"><a href="#" class="btn btn-primary btn-login">注册.jobs域名</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="main-box">
+
+          <div class="main2">
+            <div class="row">
+              <div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+                <div class="left-box">
+
+                  <div class="module-box">
+                    <div class="title-box">
+                      <div class="row">
+                        <div class="col-xs-15 col-sm-16 col-md-18 col-lg-18"><h2>最新酒店招聘职位</h2></div>
+                        <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 text-right"><a href="#">更多...</a></div>
+                      </div>
+                    </div>
+
+                    <div class="table-responsive">
+                      <table width="100%" class="table table-hover table-element table-element1">
+                        <thead>                   
+                          <tr>
+                            <th>职位名称</th>
+                            <th width="35%">招聘企业</th>
+                            <th width="12%">招聘人数</th>
+                            <th width="15%">宣讲会时间</th>
+                          </tr>
+                        </thead>
+
+                        <tbody>
+                          <tr>
+                            <td><a href="job-detail.shtml">网络推广</a></td>
+                            <td class="td-second"><a href="company-detail.shtml">美通云动（北京）科技有限公司</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">文员（急聘） </a></td>
+                            <td class="td-second"><a href="#">耐克</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">前台文员/前台接待 </a></td>
+                            <td class="td-second"><a href="#">贝克休斯</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">空间设计师 </a></td>
+                            <td class="td-second"><a href="#">LSI Logic Corporation J&J Family of Comp</a></td>
+                            <td>200</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">市场策划 </a></td>
+                            <td class="td-second"><a href="#">LSI Logic Corporation</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">电商主管</a></td>
+                            <td class="td-second"><a href="#">J&J Family of Comp</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="job-detail.shtml">网络推广</a></td>
+                            <td class="td-second"><a href="company-detail.shtml">美通云动（北京）科技有限公司</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">文员（急聘） </a></td>
+                            <td class="td-second"><a href="#">耐克</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">前台文员/前台接待 </a></td>
+                            <td class="td-second"><a href="#">贝克休斯</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">空间设计师 </a></td>
+                            <td class="td-second"><a href="#">LSI Logic Corporation J&J Family of Comp</a></td>
+                            <td>200</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">市场策划 </a></td>
+                            <td class="td-second"><a href="#">LSI Logic Corporation</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">电商主管</a></td>
+                            <td class="td-second"><a href="#">J&J Family of Comp</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="job-detail.shtml">网络推广</a></td>
+                            <td class="td-second"><a href="company-detail.shtml">美通云动（北京）科技有限公司</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">文员（急聘） </a></td>
+                            <td class="td-second"><a href="#">耐克</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">前台文员/前台接待 </a></td>
+                            <td class="td-second"><a href="#">贝克休斯</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">空间设计师 </a></td>
+                            <td class="td-second"><a href="#">LSI Logic Corporation J&J Family of Comp</a></td>
+                            <td>200</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">市场策划 </a></td>
+                            <td class="td-second"><a href="#">LSI Logic Corporation</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">电商主管</a></td>
+                            <td class="td-second"><a href="#">J&J Family of Comp</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">电商主管</a></td>
+                            <td class="td-second"><a href="#">J&J Family of Comp</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">电商主管</a></td>
+                            <td class="td-second"><a href="#">J&J Family of Comp</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                          <tr>
+                            <td><a href="#">电商主管</a></td>
+                            <td class="td-second"><a href="#">J&J Family of Comp</a></td>
+                            <td>1</td>
+                            <td>2013-10-14</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+
+
+                </div>
+
+              </div>
+
+
+              <div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+                <div class="right-box">
+
+                  <div class="module-box recommend-company">
+
+                    <div class="title-box">
+                      <div class="row">
+                        <div class="col-xs-15 col-sm-12 col-md-15 col-lg-15"><h2>推荐企业</h2></div>
+                        <div class="col-xs-5 col-sm-8 col-md-5 col-lg-5 text-right"><a href="#">更多...</a></div>
+                      </div>
+                      <div class="title-hr"></div>
+                    </div>
+
+                    <div class="ul-box">
+                      <div class="row">
+
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_03.jpg" alt="03">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_05.jpg" alt="05">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_09.jpg" alt="09">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_10.jpg" alt="09">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_13.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_14.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_17.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_18.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_21.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_22.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_25.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_26.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_29.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_30.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_33.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                          <a href="#" class="thumbnail">
+                            <img class="img-responsive" width="115" height="68" src="images/hhy_34.jpg" alt="14">
+                          </a>
+                          <p><a target="_blank" href="http://www.shanghai.jobs">shanghai.jobs</a></p>
+                        </div>
+
+                      </div>
+                    </div>
+
+                  </div>
+
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+
+        </div>
+        <div class="main-box">
+          <div class="module-box module-nav">
+            <div class="title-box">
+              <div class="row">
+                <div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h2>旅游招聘相关导航</h2></div>
+              </div>
+            </div>
+
+            <div class="module-nav-content">
+                <div class="row">
+                  <div class="col-xs-20 col-sm-4 col-md-3 col-lg-3"><h4 title="论坛：（12）">论坛：<span>(12)</span></h4></div>
+                  <div class="col-xs-20 col-sm-16 col-md-17 col-lg-17">
+                    <div class="row">
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">发的结构和房价大概花费的空间规划撒个风景嘎开发和对方的合法的环境萨芬的拉个法</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="module-nav-content module-nav-content-border"></div>
+
+              <div class="module-nav-content">
+                <div class="row">
+                  <div class="col-xs-20 col-sm-4 col-md-3 col-lg-3"><h4 title="培训考试：（12）">培训考试：<span>(12)</span></h4></div>
+                  <div class="col-xs-20 col-sm-16 col-md-17 col-lg-17">
+                    <div class="row">
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <div class="module-nav-content module-nav-content-border"></div>
+
+            <div class="module-nav-content">
+                <div class="row">
+                  <div class="col-xs-20 col-sm-4 col-md-3 col-lg-3"><h4 title="培训考试：（12）">导游词：<span>(12)</span></h4></div>
+                  <div class="col-xs-20 col-sm-16 col-md-17 col-lg-17">
+                    <div class="row">
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <div class="module-nav-content module-nav-content-border"></div>
+
+            <div class="module-nav-content module-nav-content-none">
+                <div class="row">
+                  <div class="col-xs-20 col-sm-4 col-md-3 col-lg-3"><h4 title="培训考试：（12）">招聘：<span>(12)</span></h4></div>
+                  <div class="col-xs-20 col-sm-16 col-md-17 col-lg-17">
+                    <div class="row">
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                      <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 module-over-hide"><div class="web-nav"><a href="#">论坛1</a></div></div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <div class="module-nav-content module-nav-content-border"></div>
+
+          </div>
+        </div>
+
+      </div>
+      
+    </div>
+
+<!--#include file="inc/footer.shtml"-->
+  </body>
+</html>

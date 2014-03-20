@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>university-大学介绍</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+  </head>
+  <body>
+<!--#include file="inc/header.shtml"-->
+
+
+    <div class="main">
+
+      <div class="container">
+        <div class="main-box">
+          <div class="row">
+            <div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+              <div class="left-box">
+              
+                <div class="module-box">
+                  <div class="title-box">
+                    <div class="row">
+                      <div class="col-xs-15 col-sm-16 col-md-18 col-lg-18"><h2>大学介绍</h2></div>
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 text-right"><a href="#">更多...</a></div>
+                    </div>
+                    <div class="title-hr"></div>
+                  </div>
+                  <div class="detail-content school-introduce">
+                    <p>为适应社会主义市场经济体制对高校毕业生就业改革的迫切要求，清华大学学生就业服务中心于1998年3月正式成立，2006年9月改名为清华大学就业指导中心。主要职能为：根据国家的就业方针、政策以及学校的有关要求，制定毕业生就业工作的实施办法；向社会发布毕业生求职信息；收集并及时发布社会用人单位毕业生需求信息；常年接待用人单位，组织校园宣讲、报告与招聘活动；开展就业咨询与指导，帮助毕业生充分认识自我、树立正确的择业观，引导推荐优秀毕业生到国家重点单位与企业建功立业；帮助学生规划职业生涯，进行成才辅导与教育；办理就业协议书的签约手续，负责毕业生的派遣事宜。目前中心占地面积1000平方米，在编工作人员9人，其中高级职称3人、硕士以上学历5人，设有对外联络部、职业辅导部、网络信息部、就业管理部和办公室5个部门。
+                    对外联络部：日常接待、校园招聘、对外交往、争取支持；<br>
+                   职业辅导部：思想教育、内外宣传、咨询指导、就业研究；<br>
+                   网络信息部：信息收集、网上发布、系统开发、技术支持；<br>
+                   就业管理部：计划生成、政策制定、签约管理、毕业派遣；<br>
+                   办公 室：行政事务、文档管理、财务设备、后勤保障。<br>
+                   </p>
+                   清华大学就业指导中心作为学校本科生和研究生就业工作的统一主管部门，在学校建设世界一流大学的目标指引下，不断向世界一流的高校就业服务中心迈进。目前已经建立了较为完善的校内毕业生就业市场和就业服务体系，实现了教育、指导、服务和管理四位一体的良好运行机制，在全国高校就业系统中处于领先地位，多次受到教育部嘉奖。</p>
+                   <p>地址：清华大学旧12#楼一层</p>
+                   <p>邮编：100084</p>
+                   <p>电话：8610-6278-4625</p>
+                   <p>传真：8610-6279-4519</p>
+                   <p>邮箱：scc@tsinghua.edu.cn</p>
+                  </div>
+                </div>
+
+                
+              </div>
+            </div>
+
+
+            <div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+              <div class="right-box">
+
+                <div class="module-box careers-guidance">
+                  <div class="title-box">
+                    <div class="row">
+                      <div class="col-xs-15 col-sm-12 col-md-15 col-lg-15"><h2>就业指导</h2></div>
+                      <div class="col-xs-5 col-sm-8 col-md-5 col-lg-5 text-right"><a href="#">更多...</a></div>
+                    </div>
+                    <div class="title-hr"></div>
+                  </div>
+
+                  <ul>
+                    <li><a href="#">二本女求职经历 </a></li>
+                    <li><a href="#">二本学生成功应聘国企</a></li>
+                    <li><a href="#">世界500强的...</a></li>
+                    <li><a href="#"> 吐血的面试经验 </a></li>
+                    <li><a href="#">三国人物的职业发展观 </a></li>
+                    <li><a href="#">大学四年后明白的一百件事</a></li>
+                    <li><a href="#">揭秘2012校园招聘薪酬待遇</a></li>
+                  </ul>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+
+<!--#include file="inc/footer.shtml"-->
+
+  </body>
+</html>

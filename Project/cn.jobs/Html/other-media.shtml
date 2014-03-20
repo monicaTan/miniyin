@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>媒体报道</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<!--#include file="inc/common.shtml"-->
+	<link href="css/other.css" rel="stylesheet">
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="main">
+			<div class="row">
+
+<!-- left -->
+				<!--#include file="inc/other-left.shtml"-->
+<!-- /left -->
+
+<!-- right -->
+				<div class="col-xs-20 col-sm-15 col-md-15 col-lg-15">
+					<div class="right">
+						<div class="module module-other-right clearfix">
+							<h3>媒体报道</h3>
+
+							<div class="module module-other-content module-media">
+								<div class="table-responsive">
+									<table class="table">
+										<tbody>
+										  <tr>
+										    <td><a href="#">公司CEO鲍仁君博士参加中央人民广播电台节目</a></td>
+										    <td>中央人民广播电台</td>
+										    <td>2013-11-08</td>
+										  </tr>
+										  <tr>
+										    <td><a href="#">杨海滨同志出席中国大学生人才定制计划启动仪式</a></td>
+										    <td>Otto</td>
+										    <td>2013-11-08</td>
+										  </tr>
+										  <tr>
+										    <td><a href="#">美国人力服务平台在华启动"大学生人才定制计划"</a></td>
+										    <td>Thornton</td>
+										    <td>2013-11-08</td>
+										  </tr>
+										  <tr>
+										    <td><a href="#">“大学生人才定制计划”在北京启动</a></td>
+										    <td>the Bird</td>
+										    <td>2013-11-08</td>
+										  </tr>
+										</tbody>
+									</table>
+								</div>
+																
+
+								<div class="pull-right">
+									<ul class="pagination">
+										<li class="disabled"><a href="#">上一页</a></li>
+										<li class="active"><a href="#">1</a></li>
+										<li><a href="#">2</a></li>
+										<li><a href="#">3</a></li>
+										<li><a href="#">4</a></li>
+										<li><a href="#">5</a></li>
+										<li><a href="#">6</a></li>
+										<li><a href="#">7</a></li>
+										<li><a href="#">8</a></li>
+										<li><a href="#">...</a></li>
+										<li><a href="#">99</a></li>
+										<li><a href="#">下一页</a></li>
+									</ul>
+								</div>
+
+
+							</div>
+
+						</div>
+
+						
+					</div>
+				</div>
+<!-- /right -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

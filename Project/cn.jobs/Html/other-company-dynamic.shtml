@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>公司动态</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<!--#include file="inc/common.shtml"-->
+	<link href="css/other.css" rel="stylesheet">
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="main">
+			<div class="row">
+
+<!-- left -->
+				<!--#include file="inc/other-left.shtml"-->
+<!-- /left -->
+
+<!-- right -->
+				<div class="col-xs-20 col-sm-15 col-md-15 col-lg-15">
+					<div class="right">
+						<div class="module module-other-right clearfix">
+							<h3>公司动态</h3>
+
+							<div class="module module-other-content module-dynamic">
+								
+
+								<div class="row">
+								  <div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+								    <div class="module">
+								      <div class="caption">
+								        <h4 class="clearfix"><a href="other-artic-detail.shtml">直接雇主协会将在年会颁布奖项</a><span>2013-11-08</span></h4>
+								        <p>直接雇主协会将在2013年在圣地亚哥举行的年会，宣布获得年度最佳运作奖的企业。这些成就奖分成三类：招聘，科技和法规遵守。每个奖分成两档，一类是公司雇员少于10000， 另一类是公司雇员大于10000   	   	 		 			Recipients recognized for innovation in recruitment, technology</p>
+								        <div class="clearfix"><a href="#" class="btn btn-primary pull-right" role="button">阅读更多 》</a></div>
+								      </div>
+								    </div>
+								  </div>
+
+								  <div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+								    <div class="module">
+								      <div class="caption">
+								        <h4 class="clearfix"><a href="#">直接雇主协会将在年会颁布奖项</a><span>2013-11-08</span></h4>
+								        <p>直接雇主协会将在2013年在圣地亚哥举行的年会，宣布获得年度最佳运作奖的企业。这些成就奖分成三类：招聘，科技和法规遵守。每个奖分成两档，一类是公司雇员少于10000， 另一类是公司雇员大于10000   	   	 		 			Recipients recognized for innovation in recruitment, technology</p>
+								        <div class="clearfix"><a href="#" class="btn btn-primary pull-right" role="button">阅读更多 》</a></div>
+								      </div>
+								    </div>
+								  </div>
+
+								  <div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+								    <div class="module">
+								      <div class="caption">
+								        <h4 class="clearfix"><a href="#">直接雇主协会将在年会颁布奖项</a><span>2013-11-08</span></h4>
+								        <p>直接雇主协会将在2013年在圣地亚哥举行的年会，宣布获得年度最佳运作奖的企业。这些成就奖分成三类：招聘，科技和法规遵守。每个奖分成两档，一类是公司雇员少于10000， 另一类是公司雇员大于10000   	   	 		 			Recipients recognized for innovation in recruitment, technology</p>
+								        <div class="clearfix"><a href="#" class="btn btn-primary pull-right" role="button">阅读更多 》</a></div>
+								      </div>
+								    </div>
+								  </div>
+
+								</div>
+
+								<div class="pull-right">
+									<ul class="pagination">
+										<li class="disabled"><a href="#">上一页</a></li>
+										<li class="active"><a href="#">1</a></li>
+										<li><a href="#">2</a></li>
+										<li><a href="#">3</a></li>
+										<li><a href="#">4</a></li>
+										<li><a href="#">5</a></li>
+										<li><a href="#">6</a></li>
+										<li><a href="#">7</a></li>
+										<li><a href="#">8</a></li>
+										<li><a href="#">...</a></li>
+										<li><a href="#">99</a></li>
+										<li><a href="#">下一页</a></li>
+									</ul>
+								</div>
+
+
+							</div>
+
+						</div>
+
+						
+					</div>
+				</div>
+<!-- /right -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

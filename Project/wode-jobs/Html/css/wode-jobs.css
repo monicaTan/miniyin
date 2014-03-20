@@ -1,0 +1,31 @@
+body{ background: #f0f2f5; line-height: 20px;}
+.module{padding-bottom: 20px;}
+a{color: #0063dc;}
+body a:hover,
+body a:focus{color: #0063dc;}
+
+.wrap{margin-top: 30px;}
+.col-main{border-radius: 2px 2px 6px 6px; border-bottom: 3px solid #e3e4e8; background: #FFFFFF; min-height: 550px;}
+
+.form-control{border-radius: 4px;}
+
+.module-content-form{margin: 100px 0 40px;}
+.module-content-form .form-group{margin-top: 20px; margin-bottom: 0;}
+.module-content-form .control-label{font-family:SimSun; font-size: 14px; font-weight: normal; color: #768082; padding-top: 8px;}
+.module-content-form .btn{margin-right: 10px; border-radius: 5px;font-family:"Microsoft YaHei"; font-size: 16px; font-weight: normal;}
+.module-content-form .form-group-btn{margin-top: 40px;}
+.domain-text{line-height: 35px; font-size: 16px;}
+i.text-danger{color: #ED5153; font-style: normal; padding-right: 4px;}
+.module-content-form p.form-control-static{text-indent: 0;}
+
+
+@media (max-width: 767px){
+.col-main{min-height: 300px;}
+.module-content-form{margin: 25px 0 20px; padding:0 20px;}
+}/*手机竖屏和横屏*/
+
+@media (min-width: 767px) and (max-width: 1023px) {
+
+}/*ipad竖屏*/
+
+

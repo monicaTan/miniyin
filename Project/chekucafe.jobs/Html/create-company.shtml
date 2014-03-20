@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>创建公司</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+						<div class="module module-base-box module-creat-company">
+							<div class="base-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+										<h3>创建公司</h3>
+									</div>
+								</div>
+							</div>
+							 <form role="form" class="form-horizontal">
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">公司全称</label>
+									<div class="col-sm-6">
+										<input type="text" placeholder="" id="" class="form-control">
+									</div>
+								</div>
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">公司简称</label>
+									<div class="col-sm-6">
+										<input type="text" placeholder="" id="" class="form-control">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">公司logo</label>
+									<div class="col-sm-4">
+										<input type="file">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<div class="col-sm-offset-4 col-sm-12">
+										<span class="upload-tips">上传图片需小于1Mb，格式支持png、jpg、gif，且尺寸为182x92像素或等比</span>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">公司logo</label>
+									<div class="col-sm-3">
+										<div class="company-logo-box">
+											<img src="../images/daoru_07.png">
+										</div>
+									</div>
+									<div class="col-sm-3">
+										<div class="company-logo-info"><a href="#"><i class="fa fa-edit"></i> 重新上传</a></div>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">经营领域</label>
+									<div class="col-sm-6">
+										<input type="text" readonly="readolay" placeholder="" id="" class="form-control fn-pop-operation-scope reset-readonly">
+										<div class="pop-operation-scope" style="display: block;">
+											<ul class="clearfix">
+												<li><a href="javascript:void(0);">领域</a></li>
+												<li class="active"><a href="javascript:void(0);">领域</a></li>
+												<li><a href="javascript:void(0);">领域</a></li>
+												<li><a href="javascript:void(0);">领域领域</a></li>
+												<li><a href="javascript:void(0);">领域</a></li>
+												<li><a href="javascript:void(0);">领域领域领域</a></li>
+												<li><a href="javascript:void(0);">领域</a></li>
+												<li><a href="javascript:void(0);">领域</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for=""> 人员规模</label>
+									<div class="col-sm-6">
+										<select class="form-control">
+											<option value="">1～9人</option>
+											<option value="">10～49人</option>
+											<option value="">50～99人</option>
+										</select>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">公司网址</label>
+									<div class="col-sm-6">
+										<input type="text" placeholder="" id="" class="form-control">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">公司简介</label>
+									<div class="col-sm-12">
+										<textarea rows="4" class="form-control"></textarea>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">公司标签</label>
+									<div class="col-sm-6">
+										<input type="text" readonly="readolay" placeholder="" id="" class="form-control fn-pop-company-tag reset-readonly">
+										<div class="pop-company-tag">
+											<ul class="clearfix">
+												<li><a href="javascript:void(0);">五险一金</a></li>
+												<li class="active"><a href="javascript:void(0);">弹性工作</a></li>
+												<li><a href="javascript:void(0);">带薪年假</a></li>
+												<li><a href="javascript:void(0);">半年发奖金</a></li>
+												<li><a href="javascript:void(0);">帅哥多</a></li>
+												<li><a href="javascript:void(0);">美女多</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">发展阶段</label>
+									<div class="col-sm-6">
+										<select class="form-control">
+											<option value="">A轮</option>
+										</select>
+									</div>
+								</div>
+
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">投资机构</label>
+									<div class="col-sm-6">
+										<input type="text" placeholder="" id="" class="form-control">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">招聘联系邮箱</label>
+									<div class="col-sm-6">
+										<input type="text" placeholder="" id="" class="form-control">
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-4 control-label" for="">招聘联系电话</label>
+									<div class="col-sm-6">
+										<input type="text" placeholder="" id="" class="form-control">
+									</div>
+								</div>
+
+
+								<div class="form-group">
+									<div class="col-sm-offset-4 col-sm-6">
+										<button class="btn btn-primary btn-tailor-made" type="submit">保 存</button>
+									</div>
+								</div>
+
+
+							</form>
+						</div>
+					</div>
+				</div>
+<!-- /col-main -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">简历留言</h4>
+      </div>
+      <div class="modal-body">
+		<form class="form-horizontal no-resume-form" role="form">
+		  <div class="form-group">
+		    <label for="inputEmail3" class="col-sm-4 control-label">联系方式</label>
+		    <div class="col-sm-14">
+		      <input type="text" class="form-control"  placeholder="">
+		    </div>
+		  </div>
+		  <div class="form-group">
+		    <label for="" class="col-sm-4 control-label">留言</label>
+		    <div class="col-sm-14">
+		      <textarea class="form-control" rows="3"></textarea>
+		    </div>
+		  </div>
+		</form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary">保 存</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">取 消</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('.fn-pop-operation-scope').click(function(){
+			$('.pop-operation-scope').toggle();
+		});
+		$('.fn-pop-company-tag').click(function(){
+			$('.pop-company-tag').toggle();
+		});
+	});
+</script>

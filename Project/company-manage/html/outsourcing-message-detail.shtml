@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>外包与合作留言详情</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+
+	<!-- module -->
+						<div class="module module-admin-box">
+							<div class="module-title">
+								<div class="row">
+									<div class="col-xs-15 col-sm-15 col-md-15 col-lg-15"><h2>外包与合作留言详情</h2></div>
+									<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 text-right"><a href="outsourcing-message.shtml">返回列表</a></div>
+								</div>
+							</div>
+							<div class="module-content module-height">
+								<div class="rencaiku">
+									<div class="table-responsive">
+										<table class="" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<th width="8%"><em>*</em>邮箱:</th>
+												<td>960784108@qq.com</td>
+											</tr>
+											<tr>
+												<th width="8%"><em>*</em>电话:</th>
+												<td>15120937659</td>
+											</tr>
+											<tr>
+												<th valign="top" width="8%">留言:</th>
+												<td>邮局传递的函件和包裹的统称。邮件分国内邮件和国际邮件两大类。国内邮件按内容性质可分为函件和包件在函件包括信函、明信片、印刷品和盲人读物4种，包件包括包裹和快递小包。国际邮件分为国际函件和国际包裹。前者包括信函明信片、印刷品、盲人读物和小包5种；后者分为普通包</td>
+											</tr>
+										</table>
+									</div>
+								</div>
+							</div>
+						</div>
+	<!-- /module -->
+
+					</div>
+				</div>
+<!-- /col-main -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

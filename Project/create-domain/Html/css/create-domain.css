@@ -1,0 +1,31 @@
+body{ background: #f0f2f5; line-height: 20px;}
+.module{padding-bottom: 20px;}
+a{color: #0063dc;}
+body a:hover,
+body a:focus{color: #0063dc;}
+
+.wrap{margin-top: 30px;}
+.module-title{border-radius: 2px 2px 0 0; padding:20px 30px; background: #f6f8fa;}
+.module-title h2 {font-size: 23px; font-family:Arial,"Microsoft YaHei"; color: #ed5565; margin: 0;}
+.module-title h2 small {font-size: 12px; font-family:SimSun; color: #99a3b1; vertical-align: middle; padding-left: 20px;}
+.col-main{border-radius: 2px 2px 6px 6px; border-bottom: 3px solid #e3e4e8; background: #FFFFFF; min-height: 550px;}
+
+.module-content-form{margin: 40px 0;}
+.module-content-form .form-group{margin-top: 20px; margin-bottom: 0;}
+.module-content-form .control-label{font-family:SimSun; font-size: 14px; font-weight: normal; color: #768082; padding-top: 12px;}
+.module-content-form .btn-primary{padding: 8px 45px 10px; border-radius: 5px;font-family:"Microsoft YaHei"; font-size: 16px; font-weight: normal;}
+.module-content-form .form-group-btn{margin-top: 40px;}
+
+
+@media (max-width: 767px){
+.col-main{min-height: 300px;}
+.module-content-form{margin: 25px 0 20px; padding:0 20px;}
+.module-title{padding: 20px;}
+.module-title h2 small{display: block; padding-left: 0; margin-top: 6px;}
+}/*手机竖屏和横屏*/
+
+@media (min-width: 767px) and (max-width: 1023px) {
+	.module-title h2 small{display: block; padding-left: 0; padding-top: 6px;}
+}/*ipad竖屏*/
+
+

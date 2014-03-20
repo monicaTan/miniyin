@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>简历管理</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+
+	<!-- module -->
+						<div class="module module-admin-box">
+							<div class="module-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h2>简历管理</h2></div>
+								</div>
+							</div>
+							<div class="module-content module-height">
+								<div class="table-responsive">
+							      <table class="table table-hover module-admin-table">
+							        <thead>
+							          <tr>
+							            <th width="10%">姓名</th>
+							            <th width="16%">应聘职位</th>
+							            <th class="text-center" width="10%">工作年限</th>
+							            <th class="text-center" width="8%">年龄</th>
+							            <th class="text-center" width="8%">学历</th>
+							            <th class="text-center">现工作单位</th>
+							            <th class="text-center" width="10%">简历来源</th>
+							            <th class="text-center" width="12%">最近投递日期</th>
+							          </tr>
+							        </thead>
+							        <tbody>
+							          <tr>
+							            <td><input type="checkbox"> <a class="link-focus" href="preview-resume.shtml">张三</a></td>
+							            <td><a href="#">营销主管</a></td>
+							            <td align="center">3</td>
+							            <td align="center">28</td>
+							            <td align="center">本科</td>
+							            <td align="center"><a href="#">高登威（北京）商务服务有限公司</a></td>
+							            <td align="center"><a href="#">投递</a></td>
+							            <td align="center">2013-12-03</td>
+							          </tr>
+							          <tr>
+							            <td><input type="checkbox"> <a class="link-focus" href="#">张三</a></td>
+							            <td><a href="#">营销主管</a></td>
+							            <td align="center">3</td>
+							            <td align="center">28</td>
+							            <td align="center">本科</td>
+							            <td align="center"><a href="#">高登威（北京）商务服务有限公司</a></td>
+							            <td align="center"><a href="#">投递</a></td>
+							            <td align="center">2013-12-03</td>
+							          </tr>
+							          <tr>
+							            <td><input type="checkbox"> <a class="link-focus" href="#">张三</a></td>
+							            <td><a href="#">营销主管</a></td>
+							            <td align="center">3</td>
+							            <td align="center">28</td>
+							            <td align="center">本科</td>
+							            <td align="center"><a href="#">高登威（北京）商务服务有限公司</a></td>
+							            <td align="center"><a href="#">投递</a></td>
+							            <td align="center">2013-12-03</td>
+							          </tr>
+							        </tbody>
+							      </table>
+							    </div>
+
+							    <div class="operation-line">
+							    	<span><input type="checkbox"> 全 选</span>
+							    	<a href="#" class="btn btn-danger" type="submit">删 除</a>
+							    </div>
+
+							    <!-- 分页 -->
+								<div class="pagination-box clearfix">
+									<div class="pagination pull-right">
+										<span class="previous_page disabled">上一页</span>
+										<em class="current">1</em>
+										<a href="#" rel="next">2</a>
+										<a href="#">3</a>
+										<a href="#" rel="next" class="next_page">下一页</a>
+									</div>
+								</div>
+								<!-- / 分页 -->
+
+							</div>
+						</div>
+	<!-- /module -->
+
+					</div>
+				</div>
+<!-- /col-main -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

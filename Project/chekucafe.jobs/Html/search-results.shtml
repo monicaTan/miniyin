@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>搜索结果</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+					<div class="col-main">
+						<div class="module module-base-box module-base-box-search">
+							<div class="base-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+										<h3>Ruby工程师 - 职位筛选</h3>
+									</div>
+								</div>
+							</div>
+
+							<div class="screening-items search-items">
+								<dl class="dl-horizontal selected-conditions">
+									<dt>已选条件</dt>
+									<dd>
+										<span href="#"><em>公司类型：</em>初创型 <i>x</i></span>
+										<span href="#"><em>薪水：</em>2k-5K <i>x</i></span>
+									</dd>
+								</dl>
+								<dl class="dl-horizontal">
+									<dt>月薪范围</dt>
+									<dd><a class="active" href="#">2k以下</a>
+										<a href="#">2k-5K</a>
+										<a href="#">5k-10k</a>
+										<a href="#">10k-15k</a>
+										<a href="#">15k-25k</a>
+										<a href="#">50k以上</a>
+										<a href="#">更多 <i class="fa fa-angle-down"></i></a>
+									</dd>
+								</dl>
+								<dl class="dl-horizontal">
+									<dt>工作经验</dt>
+									<dd><a href="#">不限</a>
+										<a href="#">应届毕业生</a>
+										<a href="#">1年以下</a>
+										<a href="#">1-3年</a>
+										<a href="#">3-5年</a>
+										<a href="#">5-10年</a>
+										<a href="#">10年以上</a>
+									</dd>
+								</dl>
+								<dl class="dl-horizontal">
+									<dt>最低学历</dt>
+									<dd><a href="#">不限</a>
+										<a href="#">大专</a>
+										<a href="#">本科</a>
+										<a href="#">硕士</a>
+										<a href="#">博士</a>
+									</dd>
+								</dl>
+								<dl class="dl-horizontal">
+									<dt>工作性质</dt>
+									<dd><a href="#">全职</a>
+										<a href="#">兼职</a>
+										<a href="#">实习</a>
+									</dd>
+								</dl>
+								<dl class="dl-horizontal">
+									<dt>更新时间</dt>
+									<dd><a href="#">今天</a>
+										<a href="#">3天内</a>
+										<a href="#">一周内</a>
+										<a href="#">一月内</a>
+									</dd>
+								</dl>
+								<dl class="dl-horizontal">
+									<dt>公司经营领域</dt>
+									<dd><a href="#">移动互联网</a>
+										<a href="#">教育</a>
+										<a href="#">社交</a>
+										<a href="#">O2O</a>
+										<a href="#">...</a>
+									</dd>
+								</dl>
+								<dl class="dl-horizontal">
+									<dt>公司发展阶段</dt>
+									<dd><a href="#">初创型（天使伦）</a>
+										<a href="#">成长性（A轮）</a>
+										<a href="#">...</a>
+									</dd>
+								</dl>
+							</div>
+						</div>
+						<div class="shrinkage"><a href="#">更多选项（公司经营领域、公司发展阶段） <i class="fa fa-angle-down"></i></a></div>
+
+						<div class="module module-base-box">
+							<div class="base-content base-content-search">
+								<div class="base-content-element">
+									<p><a href="#">Web前端工程师</a><span>北京</span></p>
+									<div class="jobs-base-info">
+										<div class="row">
+											<div class="col-xs-20 col-sm-8 col-md-8 col-lg-8">
+												<p><span>月薪：<em>8K~12K</em></span><span>经验：<em>1~3年</em></span></p>
+												<p><span>最低学历：<em>不限</em></span></p>
+												<p><span>更新于：2014-02-10</span><a href="#" class="QQ text-hide">QQ</a><a href="#" class="sina text-hide">sina</a></p>
+											</div>
+											<div class="col-xs-20 col-sm-12 col-md-12 col-lg-12">
+												<p class="welfare"><a href="#">北京测试科技有限公司</a><span>绩效奖金</span><span>股票期权</span><span>五险一金</span></p>
+												<p><span>经营领域：<em>移动互联网</em>，<em>O2O</em></span></p>
+												<p><span>阶段：<em>初创</em></span><span>规模：<em>少于15人</em></span></p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="base-content-element">
+									<p><a href="#">Web前端工程师</a><span>北京</span></p>
+									<div class="jobs-base-info">
+										<div class="row">
+											<div class="col-xs-20 col-sm-8 col-md-8 col-lg-8">
+												<p><span>月薪：<em>8K~12K</em></span><span>经验：<em>1~3年</em></span></p>
+												<p><span>最低学历：<em>不限</em></span></p>
+												<p><span>更新于：2014-02-10</span><a href="#" class="QQ text-hide">QQ</a><a href="#" class="sina text-hide">sina</a></p>
+											</div>
+											<div class="col-xs-20 col-sm-12 col-md-12 col-lg-12">
+												<p class="welfare"><a href="#">北京测试科技有限公司</a><span>绩效奖金</span><span>股票期权</span><span>五险一金</span></p>
+												<p><span>经营领域：<em>移动互联网</em>，<em>O2O</em></span></p>
+												<p><span>阶段：<em>初创</em></span><span>规模：<em>少于15人</em></span></p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="base-content-element">
+									<p><a href="#">Web前端工程师</a><span>北京</span></p>
+									<div class="jobs-base-info">
+										<div class="row">
+											<div class="col-xs-20 col-sm-8 col-md-8 col-lg-8">
+												<p><span>月薪：<em>8K~12K</em></span><span>经验：<em>1~3年</em></span></p>
+												<p><span>最低学历：<em>不限</em></span></p>
+												<p><span>更新于：2014-02-10</span><a href="#" class="QQ text-hide">QQ</a><a href="#" class="sina text-hide">sina</a></p>
+											</div>
+											<div class="col-xs-20 col-sm-12 col-md-12 col-lg-12">
+												<p class="welfare"><a href="#">北京测试科技有限公司</a><span>绩效奖金</span><span>股票期权</span><span>五险一金</span></p>
+												<p><span>经营领域：<em>移动互联网</em>，<em>O2O</em></span></p>
+												<p><span>阶段：<em>初创</em></span><span>规模：<em>少于15人</em></span></p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="base-content-element">
+									<p><a href="#">Web前端工程师</a><span>北京</span></p>
+									<div class="jobs-base-info">
+										<div class="row">
+											<div class="col-xs-20 col-sm-8 col-md-8 col-lg-8">
+												<p><span>月薪：<em>8K~12K</em></span><span>经验：<em>1~3年</em></span></p>
+												<p><span>最低学历：<em>不限</em></span></p>
+												<p><span>更新于：2014-02-10</span><a href="#" class="QQ text-hide">QQ</a><a href="#" class="sina text-hide">sina</a></p>
+											</div>
+											<div class="col-xs-20 col-sm-12 col-md-12 col-lg-12">
+												<p class="welfare"><a href="#">北京测试科技有限公司</a><span>绩效奖金</span><span>股票期权</span><span>五险一金</span></p>
+												<p><span>经营领域：<em>移动互联网</em>，<em>O2O</em></span></p>
+												<p><span>阶段：<em>初创</em></span><span>规模：<em>少于15人</em></span></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- 分页2 -->
+							<div class="cheku-pagination-box clearfix">
+
+								<ul class="pagination pagination-lg">
+								  <li class="disabled"><span class="pagination-previous">上一页</span></li>
+								  <li class="active"><span>1 <span class="sr-only">(current)</span></span></li>
+								  <li><a href="#">2</a></li>
+								  <li><a href="#">3</a></li>
+								  <li><a href="#">4</a></li>
+								  <li class="disabled"><span>...</span></li>
+								  <li><a href="#">20</a></li>
+								  <li class=""><span class="pagination-next">下一页</span></li>
+								</ul>
+
+							</div>
+							<!-- / 分页2 -->
+						</div>
+					</div>
+				</div>
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+					<div class="col-sub">
+						<div class="module module-base-box module-company-info-search">
+							<div class="company-info-search-element">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-7 col-lg-6">
+										<a href="#"><img width="200" src="../images/detail1.jpg" alt="京东" class="img-responsive"></a>
+									</div>
+									<div class="col-xs-20 col-sm-20 col-md-13 col-lg-14">
+										<h1><a href="#" class="title-h1">北京测试科技有限公司</a></h1>
+										<p><span><em>经营领域：</em>移动互联网，O2O</span></p>
+										<p><span><em>阶段：</em>初创</span><span><em>规模：</em>少于15人</span></p>
+
+										<ul class="list-inline ul-welfare clearfix">
+											<li><span>绩效奖金</span></li>
+											<li><span>股票期权</span></li>
+											<li><span>五险一金</span></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="company-info-search-element">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-7 col-lg-6">
+										<a href="#"><img width="200" src="../images/detail1.jpg" alt="京东" class="img-responsive"></a>
+									</div>
+									<div class="col-xs-20 col-sm-20 col-md-13 col-lg-14">
+										<h1><a href="#" class="title-h1">北京测试科技有限公司</a></h1>
+										<p><span><em>经营领域：</em>移动互联网，O2O</span></p>
+										<p><span><em>阶段：</em>初创</span><span><em>规模：</em>少于15人</span></p>
+
+										<ul class="list-inline ul-welfare clearfix">
+											<li><span>绩效奖金</span></li>
+											<li><span>股票期权</span></li>
+											<li><span>五险一金</span></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="company-info-search-element">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-7 col-lg-6">
+										<a href="#"><img width="200" src="../images/detail1.jpg" alt="京东" class="img-responsive"></a>
+									</div>
+									<div class="col-xs-20 col-sm-20 col-md-13 col-lg-14">
+										<h1><a href="#" class="title-h1">北京测试科技有限公司</a></h1>
+										<p><span><em>经营领域：</em>移动互联网，O2O</span></p>
+										<p><span><em>阶段：</em>初创</span><span><em>规模：</em>少于15人</span></p>
+
+										<ul class="list-inline ul-welfare clearfix">
+											<li><span>绩效奖金</span></li>
+											<li><span>股票期权</span></li>
+											<li><span>五险一金</span></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="company-info-search-element">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-7 col-lg-6">
+										<a href="#"><img width="200" src="../images/detail1.jpg" alt="京东" class="img-responsive"></a>
+									</div>
+									<div class="col-xs-20 col-sm-20 col-md-13 col-lg-14">
+										<h1><a href="#" class="title-h1">北京测试科技有限公司</a></h1>
+										<p><span><em>经营领域：</em>移动互联网，O2O</span></p>
+										<p><span><em>阶段：</em>初创</span><span><em>规模：</em>少于15人</span></p>
+
+										<ul class="list-inline ul-welfare clearfix">
+											<li><span>绩效奖金</span></li>
+											<li><span>股票期权</span></li>
+											<li><span>五险一金</span></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="company-info-search-element">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-7 col-lg-6">
+										<a href="#"><img width="200" src="../images/detail1.jpg" alt="京东" class="img-responsive"></a>
+									</div>
+									<div class="col-xs-20 col-sm-20 col-md-13 col-lg-14">
+										<h1><a href="#" class="title-h1">北京测试科技有限公司</a></h1>
+										<p><span><em>经营领域：</em>移动互联网，O2O</span></p>
+										<p><span><em>阶段：</em>初创</span><span><em>规模：</em>少于15人</span></p>
+
+										<ul class="list-inline ul-welfare clearfix">
+											<li><span>绩效奖金</span></li>
+											<li><span>股票期权</span></li>
+											<li><span>五险一金</span></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- /col-sub -->
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+
+<script type="text/javascript">
+
+	$(function(){
+      $(".base-content-search .base-content-element:odd").css({"background":"#f6f6f6"})
+    })
+
+</script>
+</body>
+</html>

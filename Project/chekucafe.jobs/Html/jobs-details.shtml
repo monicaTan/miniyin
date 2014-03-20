@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>职位详情</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+					<div class="col-main">
+						<div class="module module-base-box">
+							<div class="detail-title clearfix">
+								<div class="row">
+									<div class="col-xs-20 col-sm-14 col-md-16 col-lg-16">
+										<h1>Hadoop开发工程师</h1>
+										<p>北京 / 全职 / 12k-20k / 经验1-3年 / 本科及以上</p>
+										<p>发布时间：2013-12-09</p>
+									</div>
+									<div class="col-xs-20 col-sm-6 col-md-4 col-lg-4">
+										<div class="btn-gprs">
+											<div class="btn-group dropup">
+											  <a class="btn btn-info cheku-btn cheku-btn-info" data-toggle="dropdown" href="#">我要应聘</a>
+											  <div class="dropdown-menu dropdown-menu-div">
+											    <div class="no-resume">
+											    	<div class="clearfix"><span class="pull-left">您还没有简历</span><a class="close pull-right" aria-hidden="true">&times;</a></div>
+											    	<div class="no-resume-inner">
+											    		<div class="row">
+												    		<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+												    			<div class="no-resume-left">
+												    				<a href="#">
+												    					<i class="fa fa-sign-in"></i>
+												    					<p>从其他招聘网站<br>导入简历</p>
+												    				</a>
+												    			</div>
+												    			<div class="no-resume-left">
+												    				<a href="#">
+												    					<i class="fa fa-paperclip"></i>
+												    					<p>上传附件简历</p>
+												    				</a>
+												    			</div>
+												    		</div>
+												    		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+												    			<div class="no-resume-left">
+												    				<img src="../images/huo.png">
+												    			</div>
+												    		</div>
+												    		<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+												    			<div class="no-resume-left">
+												    				<a href="#"  data-toggle="modal" data-target="#myModal">
+												    					<i class="fa fa-comments"></i>
+												    					<p>无简历留言</p>
+												    				</a>
+												    			</div>
+												    		</div>
+												    	</div>
+											    	</div>
+											    </div>
+											  </div>
+											  <div class="dropdown-menu dropdown-menu-div">
+											    <div class="no-resume">
+											    	<div class="clearfix"><span class="pull-left">选择一份简历</span><a class="close pull-right" aria-hidden="true">&times;</a></div>
+											    	<div class="no-resume-select">
+											    		<form class="form-horizontal no-resume-form" role="form">
+														  <div class="form-group">
+														    <div class="col-sm-12">
+														      <select class="form-control">
+																  <option>1</option>
+																  <option>2</option>
+																  <option>3</option>
+																  <option>4</option>
+																  <option>5</option>
+																</select>
+														    </div>
+														    <div class="col-sm-4"><a href="#" class="btn btn-primary cheku-btn cheku-btn-info btn-toudi">投递</a></div>
+														  </div>
+														</form>
+											    	</div>
+														<p class="need-a"><a href="#">需要【预览】或需要【修改】简历？</a></p>
+											    </div>
+											  </div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="describe-content">
+								<dl>
+									<dt><h3>职位描述</h3></dt>
+									<dd>
+										公司名称：北京小桔科技有限公司（对，我们就是有名的嘀嘀打车！）<br>
+										所属行业：移动互联网（哪都不去，死磕移动出行领域）<br>
+										公司性质：外资（一个外国人都米有）<br>
+										公司规模：300人（分分钟在增加，根本停不下来！）<br><br>
+
+										联系人：被技术VP和各组长逼疯的Angela<br><br>
+
+										【胆小者慎入】<br>
+										我们从某度，某浪，某为，某秦，某客，某软，某古等大牛公司搜罗来：<br>
+										最闷骚的程序猿<br>
+										最没下限的技术宅<br>
+										最“不靠谱”的RD<br>
+										帅到万人斩的UE<br>
+										卖肾买macpro顶配的猥琐果粉码农<br>
+										长的像宋小宝的IOS组长<br>
+										神似张智霖的PHP负责人<br>
+										痴迷“变态教授无名”的小清新PM<br>
+										一个测试组是男组长带一堆女测试猿<br>
+										another测试组是女组长带一堆男测试猿<br><br>
+
+										拼时集体不洗澡、不洗脸、不吃饭、不泡妞、不捡肥皂～<br>
+										High时节操粉碎性骨折、下限离家出走～<br><br>
+
+										够强够胆，就来试试思密达～<br>
+										相信“相信的力量”啊啦啦～<br><br>
+
+										岗位职责<br>
+										1）负责公司内部统计分析系统的研发；<br>
+										2）维护、管理和优化公司Hadoop/HBase；<br>
+										3）相关部门统计分析项目支持；<br><br>
+
+										任职资格<br>
+										1）精通java高并发多线程开发，熟悉jvm内存管理，能够进行MapReduce程序的开发<br>
+										2）深刻理解各类基本算法、数据结构的原理；<br>
+										3）熟悉linux、tcp/ip、等编程相关基础知识；<br>
+										4）最好研究过Hadoop、HBase、Hive等开源软件源码，并对coding保持强烈兴趣者；<br>
+										5）对于Hive能够进行数据操作和服务；<br>
+										6）良好的团队合作，较强的沟通能力，对解决挑战型问题充满激情<br>
+										7）计算机及相关专业本科以上<br>
+									</dd>
+								</dl>
+							</div>
+							<div class="cheku-btn-box text-center">
+								<div class="btn-group dropup">
+								  <a class="btn btn-info cheku-btn cheku-btn-info" data-toggle="dropdown" href="#">我要应聘</a>
+								  <div class="dropdown-menu dropdown-menu-div">
+								    <div class="no-resume">
+								    	<div class="clearfix"><span class="pull-left">您还没有简历</span><a class="close pull-right" aria-hidden="true">&times;</a></div>
+								    	<div class="no-resume-inner">
+								    		<div class="row">
+									    		<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+									    			<div class="no-resume-left">
+									    				<a href="#">
+									    					<i class="fa fa-sign-in"></i>
+									    					<p>从其他招聘网站<br>导入简历</p>
+									    				</a>
+									    			</div>
+									    			<div class="no-resume-left">
+									    				<a href="#">
+									    					<i class="fa fa-paperclip"></i>
+									    					<p>上传附件简历</p>
+									    				</a>
+									    			</div>
+									    		</div>
+									    		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+									    			<div class="no-resume-left">
+									    				<img src="../images/huo.png">
+									    			</div>
+									    		</div>
+									    		<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+									    			<div class="no-resume-left">
+									    				<a href="#"  data-toggle="modal" data-target="#myModal">
+									    					<i class="fa fa-comments"></i>
+									    					<p>无简历留言</p>
+									    				</a>
+									    			</div>
+									    		</div>
+									    	</div>
+								    	</div>
+								    </div>
+								  </div>
+								  <div class="dropdown-menu dropdown-menu-div">
+								    <div class="no-resume">
+								    	<div class="clearfix"><span class="pull-left">选择一份简历</span><a class="close pull-right" aria-hidden="true">&times;</a></div>
+								    	<div class="no-resume-select">
+								    		<form class="form-horizontal no-resume-form" role="form">
+											  <div class="form-group">
+											    <div class="col-sm-12">
+											      <select class="form-control">
+													  <option>1</option>
+													  <option>2</option>
+													  <option>3</option>
+													  <option>4</option>
+													  <option>5</option>
+													</select>
+											    </div>
+											    <div class="col-sm-4"><a href="#" class="btn btn-primary cheku-btn cheku-btn-info btn-toudi">投递</a></div>
+											  </div>
+											</form>
+								    	</div>
+											<p class="need-a"><a href="#">需要【预览】或需要【修改】简历？</a></p>
+								    </div>
+								  </div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+					<div class="col-sub">
+						<div class="module module-base-box">
+							<div class="company-base-info company-base-info-img">
+								<a class="thumbnail" href="#"><img class="img-responsive" width="192" alt="京东" src="../images/detail1.jpg"></a>
+								<a href="#"><h2>北京测试科技有限公司<i class="cheku-certification"></i></h2></a>
+								<p><em>经营领域：</em>移动互联网，O2O</p>
+								<p><em>规模：</em>少于15人</p>
+
+								<ul class="list-inline ul-welfare clearfix">
+									<li><span>绩效奖金</span></li>
+									<li><span>股票期权</span></li>
+									<li><span>五险一金</span></li>
+									<li><span>美女多</span></li>
+									<li><span>帅哥多</span></li>
+									<li><span>领导好</span></li>
+								</ul>
+							</div>
+
+							<div class="company-base-info2">
+								<div class="base-title-blue clearfix">
+									<div class="row">
+										<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+											<h3 >融资阶段</h3>
+										</div>
+									</div>
+								</div>
+								<div class="company-base-info company-base-info-inner">
+									<p><em>目前阶段：</em>D轮及以上</p>
+									<p><em>投资机构：</em>经纬创投</p>
+								</div>
+							</div>
+
+							<div class="company-base-info3">
+								<div class="base-title-blue clearfix">
+									<div class="row">
+										<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+											<h3 >公司的其他职位</h3>
+										</div>
+									</div>
+								</div>
+								<div class="company-base-info company-base-info-inner">
+									<p><a href="#">Android 高级工程师</a></p>
+									<p><a href="#">Linux运维工程师</a></p>
+									<p><a href="#">资深JAVA开发（研发）工程师</a></p>
+									<p><a href="#">IOS高级工程师</a></p>
+									<p><a href="#">编解码</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- /col-sub -->
+			</div>
+		</div>
+	</div>
+
+</div>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">简历留言</h4>
+      </div>
+      <div class="modal-body">
+		<form class="form-horizontal no-resume-form" role="form">
+		  <div class="form-group">
+		    <label for="inputEmail3" class="col-sm-4 control-label">联系方式</label>
+		    <div class="col-sm-14">
+		      <input type="text" class="form-control"  placeholder="">
+		    </div>
+		  </div>
+		  <div class="form-group">
+		    <label for="" class="col-sm-4 control-label">留言</label>
+		    <div class="col-sm-14">
+		      <textarea class="form-control" rows="3"></textarea>
+		    </div>
+		  </div>
+		</form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary">保 存</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">取 消</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

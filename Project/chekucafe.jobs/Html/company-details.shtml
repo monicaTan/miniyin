@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>公司详情</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div  class="module module-base-box module-company-info">
+				<div class="row">
+					<div class="col-xs-20 col-sm-5 col-md-4 col-lg-4">
+						<span class="thumbnail"  href="#"><img class="img-responsive" width="200" alt="京东" src="../images/detail1.jpg"></span>
+					</div>
+					<div class="col-xs-20 col-sm-15 col-md-16 col-lg-16">
+						<h1><a class="title-h1" href="#">北京测试科技有限公司</a><span data-original-title="&lt;div class='tooltip-content'&gt;车库咖啡未认证团队&lt;/div&gt;" title="" data-placement="top" data-html="true" data-toggle="tooltip" onclick="javascript:return false;" class="atip"><i class="cheku-no-certification"></i></span></h1>
+						<p><span>地点：上海</span><span>领域：移动互联网，O2O</span><span>规模：500-1000人</span><span>主页：<a href="http://www.cn.jobs">http://www.cn.jobs</a></span></p>
+
+						<ul class="list-inline ul-welfare clearfix">
+							<li><span>绩效奖金</span></li>
+							<li><span>股票期权</span></li>
+							<li><span>五险一金</span></li>
+							<li><span>美女多</span></li>
+							<li><span>帅哥多</span></li>
+							<li><span>领导好</span></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+					<div class="col-main">
+						<div class="module module-base-box">
+							<div class="base-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+										<h3>公司介绍</h3>
+									</div>
+								</div>
+							</div>
+							<div class="company-introduce">
+								<p>成立于2007年1月的安居客是国内房产信息服务平台，帮助各领域的不同用户“实现家的梦想”，同时为开发商与经纪人提供高效的网络推广平台。其在北京、上海、广州、哈尔滨、深圳等超过31个城市均设有分公司。
+自成立至今的6年时间里，安居客发展迅猛并获得众多业界专家和投资人的青睐。2011年3月，安居客完成第四次融资。至此，安居客已经接受包括百度、经纬在内的投资机构总计7200万美元的战略投资。</p>
+<p>安居客旗下网站每月独立访问用户已突破6600万，“安居客二手房”、“安居客新房”、“好租租房”三大手机找房APP使用用户已突破1500万。</p>
+<p>进入快速成长的行业，选择行业内发展快、市场份额大的公司，你将拥有高于同龄人的职业起点，有机会和我们共同成长。我们将提供给您完善的福利保障制度和能够尽情施展自己才华的舞台。作为行业的领跑者，我们充满活力和创新精神；作为一家处于高速发展阶段的公司，我们可以承诺的是无限大的发展空间和平台。 </p>
+							</div>
+							<div class="job-list">
+								<div class="base-title">
+									<div class="row">
+										<div class="col-xs-10 col-sm-14 col-md-14 col-lg-14">
+											<h3>急招职位</h3>
+										</div>
+										<div class="col-xs-10 col-sm-6 col-md-6 col-lg-6 text-right"><a href="#">更多急招职位...</a></div>
+									</div>
+								</div>
+								<div class="base-content">
+									<div class="base-content-element">
+										<p><a href="#">Web前端工程师</a><span class="atip atip-icon" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content'>3天前您已投递简历</div>"> <i class="fa fa-check-circle"></i></span><span>北京</span><span>更新于：2014-02-10</span><a href="#" class="QQ text-hide">QQ</a><a href="#" class="sina text-hide">sina</a></p>
+										<div class="jobs-base-info">
+											<div class="row">
+												<div class="col-xs-20 col-sm-7 col-md-7 col-lg-7">
+													<p><span>月薪：<em>8K~12K</em></span><span>经验：<em>1~3年</em></span></p>
+													<p><span>最低学历：<em>不限</em></span></p>
+												</div>
+												<div class="col-xs-20 col-sm-13 col-md-13 col-lg-13">
+													<p class="welfare"><a href="#">北京测试科技有限公司<span class="atip" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content'>车库咖啡认证团队</div>"><i class="cheku-certification"></i></span></a><span>绩效奖金</span><span>股票期权</span><span>五险一金</span></p>
+													<p><span>经营领域：<em>移动互联网</em>，<em>O2O</em></span><span>阶段：<em>初创</em></span><span>规模：<em>少于15人</em></span></p>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="base-content-element">
+										<p><a href="#">Web前端工程师</a><span class="atip atip-icon" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content'>3天前您已投递简历</div>"> <i class="fa fa-check-circle"></i></span><span>北京</span><span>更新于：2014-02-10</span><a href="#" class="QQ text-hide">QQ</a><a href="#" class="sina text-hide">sina</a></p>
+										<div class="jobs-base-info">
+											<div class="row">
+												<div class="col-xs-20 col-sm-7 col-md-7 col-lg-7">
+													<p><span>月薪：<em>8K~12K</em></span><span>经验：<em>1~3年</em></span></p>
+													<p><span>最低学历：<em>不限</em></span></p>
+												</div>
+												<div class="col-xs-20 col-sm-13 col-md-13 col-lg-13">
+													<p class="welfare"><a href="#">北京测试科技有限公司<span class="atip" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content'>车库咖啡认证团队</div>"><i class="cheku-certification"></i></span></a><span>绩效奖金</span><span>股票期权</span><span>五险一金</span></p>
+													<p><span>经营领域：<em>移动互联网</em>，<em>O2O</em></span><span>阶段：<em>初创</em></span><span>规模：<em>少于15人</em></span></p>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="base-content-element">
+										<p><a href="#">Web前端工程师</a><span class="atip atip-icon" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content'>3天前您已投递简历</div>"> <i class="fa fa-check-circle"></i></span><span>北京</span><span>更新于：2014-02-10</span><a href="#" class="QQ text-hide">QQ</a><a href="#" class="sina text-hide">sina</a></p>
+										<div class="jobs-base-info">
+											<div class="row">
+												<div class="col-xs-20 col-sm-7 col-md-7 col-lg-7">
+													<p><span>月薪：<em>8K~12K</em></span><span>经验：<em>1~3年</em></span></p>
+													<p><span>最低学历：<em>不限</em></span></p>
+												</div>
+												<div class="col-xs-20 col-sm-13 col-md-13 col-lg-13">
+													<p class="welfare"><a href="#">北京测试科技有限公司<span class="atip" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content'>车库咖啡认证团队</div>"><i class="cheku-certification"></i></span></a><span>绩效奖金</span><span>股票期权</span><span>五险一金</span></p>
+													<p><span>经营领域：<em>移动互联网</em>，<em>O2O</em></span><span>阶段：<em>初创</em></span><span>规模：<em>少于15人</em></span></p>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="base-content-element">
+										<p><a href="#">Web前端工程师</a><span class="atip atip-icon" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content'>3天前您已投递简历</div>"> <i class="fa fa-check-circle"></i></span><span>北京</span><span>更新于：2014-02-10</span><a href="#" class="QQ text-hide">QQ</a><a href="#" class="sina text-hide">sina</a></p>
+										<div class="jobs-base-info">
+											<div class="row">
+												<div class="col-xs-20 col-sm-7 col-md-7 col-lg-7">
+													<p><span>月薪：<em>8K~12K</em></span><span>经验：<em>1~3年</em></span></p>
+													<p><span>最低学历：<em>不限</em></span></p>
+												</div>
+												<div class="col-xs-20 col-sm-13 col-md-13 col-lg-13">
+													<p class="welfare"><a href="#">北京测试科技有限公司<span class="atip" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content'>车库咖啡认证团队</div>"><i class="cheku-certification"></i></span></a><span>绩效奖金</span><span>股票期权</span><span>五险一金</span></p>
+													<p><span>经营领域：<em>移动互联网</em>，<em>O2O</em></span><span>阶段：<em>初创</em></span><span>规模：<em>少于15人</em></span></p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="cheku-btn-box text-center">
+									<a href="#" class="btn btn-info cheku-btn cheku-btn-info">【北京测试科技有限公司】的全部职位 ...</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+					<div class="col-sub">
+						<div class="module module-base-box">
+							<div class="company-base-info2">
+								<div class="base-title-blue clearfix">
+									<div class="row">
+										<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+											<h3 >融资阶段</h3>
+										</div>
+									</div>
+								</div>
+								<div class="company-base-info company-base-info-inner">
+									<p><em>目前阶段：</em>D轮及以上</p>
+									<p><em>投资机构：</em>经纬创投</p>
+								</div>
+							</div>
+
+							<div class="company-base-info3">
+								<div class="base-title-blue clearfix">
+									<div class="row">
+										<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+											<h3 >创始团队</h3>
+										</div>
+									</div>
+								</div>
+								<div class="company-base-info company-base-info-inner company-originator">
+									<div class="row">
+										<div class="col-xs-10 col-sm-8 col-md-8 col-lg-8"><img class="img-responsive company-originator-img" width="108" src="../images/gongs.jpg"></div>
+										<div class="col-xs-10 col-sm-12 col-md-12 col-lg-12">
+											<p>鲍仁君</p>
+											<p><em>博士，CEO</em></p>
+											<p><a href="#" class="text-hide sina-focus">sina</a></p>
+										</div>
+									</div>
+									<div class="originator-introduce">
+										<p>
+											鲍仁君于2012年6月创办中广互联（北京)科技有限公司。鲍仁君有多次创业经验，1999年他和同班同学在合肥创办的广告公司，依靠创新的文案设计和巧妙的利用社会热点，在半年内快速成长为当地知名的广告公司，客户包括海尔、肯德基等。随后在2000年他加入了思科网迅公司，担任软件工程师。2003他到美国攻读博士学位，他的博士论文<Time Relaxed Round Robin Tournament and National Basketball Association scheduling problems>在世界上首次系统提出、定义和解决了此类问题。随后他和美国职业橄榄球名人堂的主席一起创办了体育分析公司，获得了200万美元的风投，客户包括数家NFL球队。鲍仁君博士持有合肥工业大学的机械电子工科学士，克里夫兰州立大学的工业工程硕士和博士学位。
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- /col-sub -->
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>
+<script type="text/javascript">
+	$(function(){
+		var options={
+			animation:true,
+			trigger:'hover' //触发tooltip的事件
+		}
+		$('.atip').tooltip(options);
+		//$('#tip1').tooltip('hide');//指定显示某一个tooltip//还可取值hide toggle
+
+	});
+</script>

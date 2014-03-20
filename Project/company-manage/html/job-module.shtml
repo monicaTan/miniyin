@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>职位模板管理</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+
+	<!-- module -->
+						<div class="module module-admin-box">
+							<div class="module-title">
+								<div class="row">
+									<div class="col-xs-15 col-sm-15 col-md-15 col-lg-15"><h2>职位模板管理</h2></div>
+									<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5"><a class="btn btn-success pull-right" href="#"><i class="fa fa-plus"></i> 创建模板</a></div>
+								</div>
+							</div>
+							<div class="module-content module-height">
+								<div class="table-responsive">
+							      <table class="table table-hover module-admin-table">
+							        <thead>
+							          <tr>
+							            <th width="20%">模板名称</th>
+							            <th width="28%">职位类型</th>
+							            <th class="text-center" width="12%">学历</th>
+							            <th class="text-center" width="12%">工作经验</th>
+							            <th class="text-center" width="20%">工作地点</th>
+							            <th class="text-center">操作</th>
+							          </tr>
+							        </thead>
+							        <tbody>
+							          <tr>
+							            <td><input type="checkbox"> <a class="link-focus" href="jobs-editing.shtml">未命名1</a></td>
+							            <td>客户服务/售前/售后/技术支持-客户服务经理</td>
+							            <td align="center">本科</td>
+							            <td align="center">3</td>
+							            <td align="center"><a href="#">朝阳区</a></td>
+							            <td align="center"><a href="#"><i class="fa fa-trash-o"></i> 删除</a></td>
+							          </tr>
+							          <tr>
+							            <td><input type="checkbox"> <a class="link-focus" href="#">未命名1</a></td>
+							            <td>客户服务/售前/售后/技术支持-客户服务经理</td>
+							            <td align="center">本科</td>
+							            <td align="center">3</td>
+							            <td align="center"><a href="#">朝阳区</a></td>
+							            <td align="center"><a href="#"><i class="fa fa-trash-o"></i> 删除</a></td>
+							          </tr>
+							          <tr>
+							            <td><input type="checkbox"> <a class="link-focus" href="#">未命名1</a></td>
+							            <td>客户服务/售前/售后/技术支持-客户服务经理</td>
+							            <td align="center">本科</td>
+							            <td align="center">3</td>
+							            <td align="center"><a href="#">朝阳区</a></td>
+							            <td align="center"><a href="#"><i class="fa fa-trash-o"></i> 删除</a></td>
+							          </tr>
+							        </tbody>
+							      </table>
+							    </div>
+							    
+							    <div class="operation-line">
+							    	<span><input type="checkbox"> 全 选</span>
+							    	<a href="#" class="btn btn-danger" type="submit">删 除</a>
+							    </div>
+							</div>
+						</div>
+	<!-- /module -->
+
+					</div>
+				</div>
+<!-- /col-main -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

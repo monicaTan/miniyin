@@ -1,0 +1,112 @@
+				<div class="col-xs-20 col-sm-5 col-md-5 col-lg-5">
+					<div class="left">
+						<div class="module">
+
+							<div class="panel-group" id="accordion">
+							  <div class="panel panel-default">
+							    <div class="panel-heading active">
+							      <h4 class="panel-title">
+							        <a class="clearfix" data-toggle="collapse" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+							          关于我们<span class="glyphicon glyphicon-chevron-down pull-right"></span>
+							        </a>
+							      </h4>
+							    </div>
+							    <div id="collapseOne" class="panel-collapse collapse">
+							      <div class="panel-body">
+							        <ul>
+								  		<li class="active"><a href="other-about-us.shtml">关于我们</a></li>
+								  		<li><a href="other-partners.shtml">合作伙伴</a></li>
+								  		<li><a href="other-consultant-team.shtml">顾问团队</a></li>
+								  		<li><a href="other-management-team.shtml">管理团队</a></li>
+								  	</ul>
+							      </div>
+							    </div>
+							  </div>
+							  <div class="panel panel-default">
+							    <div class="panel-heading">
+							      <h4 class="panel-title">
+							        <a data-toggle="collapse" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+							          产品介绍<span class="glyphicon glyphicon-chevron-down pull-right"></span>
+							        </a>
+							      </h4>
+							    </div>
+							    <div id="collapseTwo" class="panel-collapse collapse">
+							      <div class="panel-body">
+							        <ul>
+								  		<li><a href="other-domain-jobs.shtml">国际顶级域名.jobs</a></li>
+								  		<li><a href="other-micro-site.shtml">jobs招聘微网站</a></li>
+								  		<li><a href="other-region-industry.shtml">地方及行业招聘网站</a></li>
+								  		<li><a href="other-daxuesheng-site.shtml">大学生招聘网站</a></li>
+								  	</ul>
+							      </div>
+							    </div>
+							  </div>
+							  <div class="panel panel-default">
+							    <div class="panel-heading">
+							      <h4 class="panel-title">
+							        <a data-toggle="collapse" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+							          我们客户<span class="glyphicon glyphicon-chevron-down pull-right"></span>
+							        </a>
+							      </h4>
+							    </div>
+							    <div id="collapseThree" class="panel-collapse collapse">
+							      <div class="panel-body">
+							        <ul>
+								  		<li><a href="other-vip.shtml">会员企业</a></li>
+								  		<li><a href="other-case.shtml">案例分析</a></li>
+								  		<li><a href="other-user-testimonials.shtml">用户感言</a></li>
+								  	</ul>
+							      </div>
+							    </div>
+							  </div>
+							  <div class="panel panel-default">
+							    <div class="panel-heading">
+							      <h4 class="panel-title">
+							        <a data-toggle="collapse" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+							          新闻快讯<span class="glyphicon glyphicon-chevron-down pull-right"></span>
+							        </a>
+							      </h4>
+							    </div>
+							    <div id="collapseFour" class="panel-collapse collapse">
+							      <div class="panel-body">
+							        <ul>
+								  		<li><a href="other-company-dynamic.shtml">公司动态</a></li>
+								  		<li><a href="other-media.shtml">媒体报道</a></li>
+								  		<li><a href="other-workplace-infor.shtml">职场资讯</a></li>
+								  	</ul>
+							      </div>
+							    </div>
+							  </div>
+							  <div class="panel panel-default">
+							    <div class="panel-heading">
+							      <h4 class="panel-title">
+							        <a href="other-FAQ.shtml">
+							          常见问题
+							        </a>
+							      </h4>
+							    </div>
+							  </div>
+							  <div class="panel panel-default">
+							    <div class="panel-heading">
+							      <h4 class="panel-title">
+							        <a href="other-contact-us.shtml">
+							          联系我们
+							        </a>
+							      </h4>
+							    </div>
+							  </div>
+							  <div class="panel panel-default">
+							    <div class="panel-heading">
+							      <h4 class="panel-title">
+							        <a href="other-join-us.shtml">
+							          加盟政策
+							        </a>
+							      </h4>
+							    </div>
+							  </div>
+							</div>
+
+						</div>
+
+					</div>
+				</div>

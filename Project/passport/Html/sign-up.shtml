@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>login-up</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link href="css/sign-up.css" rel="stylesheet" media="screen">
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+					<div class="col-main">
+
+	<!-- module -->
+						<div class="module module-right-sign-up">
+							<div class="module-title">
+								<h2>注册.jobs通行证<small>您只需注册一次，即可畅享全球所有.jobs网站的产品和服务。</small></h2>
+							</div>
+							<div class="module-content module-content-form">
+								<form class="form-horizontal" role="form">
+
+									<div class="form-group">
+										<label for="inputName3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">昵称</label>
+										<div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+											<input type="text" class="form-control input-lg" id="inputName3" placeholder="">
+										</div>
+									</div>
+
+									<div class="form-group">
+									    <label for="inputEmail3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">邮箱</label>
+									    <div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+									      <input type="email" class="form-control input-lg text-error" id="inputEmail3" placeholder="">
+									      <div class="error-text-right"><span for="login_password" class="text-error text-error-icon">请输入正确的E-mail地址</span></div>
+									    </div>
+								  	</div>
+								  	<div class="form-group form-group-sex">
+									    <label class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">性别</label>
+									    <div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+									      	<div class="radio radio-inline">
+											  <label>
+											    <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+											    男
+											  </label>
+											</div>
+											<div class="radio radio-inline">
+											  <label>
+											    <a class="checked " href="#"></a>
+											    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+											    女
+											  </label>
+											</div>
+									    </div>
+								  	</div>
+								  	<div class="form-group">
+									    <label for="inputPassword3" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">登录密码</label>
+									    <div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+									      <input type="password" class="form-control input-lg" id="inputPassword3" placeholder="">
+									    </div>
+								  	</div>
+
+								  	<div class="form-group">
+								    <label for="inputPassword4" class="col-xs-20 col-sm-6 col-md-6 col-lg-6 control-label">重复刚才的密码</label>
+								    <div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+								      	<input type="password" class="form-control input-lg text-error" id="inputPassword4" placeholder="">
+								      	<div class="error-text-right"><span for="login_password" class="text-error text-error-icon">与创建的密码不一致</span></div>
+								    </div>
+								  </div>
+
+								  	<div class="form-group form-group-btn">
+									    <div class="col-sm-offset-6 col-sm-12 col-md-offset-6 col-md-11 col-lg-offset-6 col-lg-8">
+									      <button type="submit" class="btn btn-primary">注 册</button>
+									    </div>
+								  	</div>
+								</form>
+							</div>
+
+							<div class="module module-agreement">
+								<div class="row">
+									<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6"></div>
+									<div class="col-xs-20 col-sm-12 col-md-11 col-lg-8">
+										<a class="agreement" href="#">注册即表明你已同意.jobs passport服务协议</a>
+									</div>
+								</div>
+							</div>
+
+						</div>
+	<!-- /module -->
+
+					</div>
+				</div>
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+					<div class="col-sub">
+						<div class="module module-left-sign-in">
+							<h2>免注册快捷登录<small>使用合作网站帐号一键登录，无需注册方便快捷</small></h2>
+
+							<div class="module module-share">
+								<div class="share-btn share-btn-renren">
+								  <a href="#">
+								    <span class="share-icon">人人</span> 用人人帐号登录 
+								  </a>
+								</div>
+
+								<div class="share-btn share-btn-tenxun">
+								  <a href="#">
+								    <span class="share-icon">腾讯</span> 用QQ登录
+								  </a>
+								</div>
+
+								<div class="share-btn share-btn-sina">
+								  <a href="#">
+								    <span class="share-icon">新浪</span> 用新浪微博登录
+								  </a>
+								</div>
+							</div>
+
+							<div class="module module-ask">
+								<p>已有.jobs passport账号？</p>
+								<a href="#" class="btn btn-default">登 录</a>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+<!-- /col-sub -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

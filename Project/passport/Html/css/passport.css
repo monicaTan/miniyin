@@ -1,0 +1,187 @@
+body{ background: #f0f2f5; line-height: 20px;}
+.module{padding-bottom: 20px;}
+a{color: #0063dc;}
+body a:hover,
+body a:focus{color: #0063dc;}
+
+/*header*/
+header{border-bottom: 3px solid #d1d4da; background: #ffffff;}
+.header-inner{padding: 20px 30px;}
+.logo,.logo img,.passport-logo-title,.passport-logo-title img{display: inline-block; float: left;}
+.logo img{max-height: 40px;}
+.logo-title{margin: 10px 0; font-size: 24px; font-family:Arial,"Microsoft YaHei"; color: #333333;font-weight: normal; display: inline-block; }
+.logo-title:hover{color: #555555;}
+
+
+
+
+.logo{padding-right: 20px; border-right: 1px solid #d1d4da;}
+.passport-logo-title{padding-left: 20px; padding-top: 7px;}
+
+/* ../header*/
+
+
+.wrap{margin-top: 30px;}
+.module-title{border-radius: 2px 2px 0 0; padding:20px 30px; background: #f6f8fa;}
+.module-title h2 {font-size: 23px; font-family:Arial,"Microsoft YaHei"; color: #ed5565; margin: 0;}
+.module-title h2 small {font-size: 12px; font-family:SimSun; color: #99a3b1; vertical-align: middle; padding-left: 20px;}
+.col-main{border-radius: 2px 2px 6px 6px; border-bottom: 3px solid #e3e4e8; background: #FFFFFF; min-height: 700px;}
+
+.module-content-form{margin: 40px 0;}
+
+
+.module-content-form .form-group{margin-top: 20px; margin-bottom: 0;}
+.module-content-form .control-label{font-family:SimSun; font-size: 14px; font-weight: normal; color: #768082; padding-top: 12px;}
+.module-content-form .btn-primary{padding: 8px 48px 12px; border-radius: 5px; font-weight: bold;}
+.module-content-form .form-group-btn{margin-top: 40px;}
+
+
+/*left*/
+.module-left-sign-in{padding: 20px 30px 40px;}
+.module-left-sign-in h2{ margin:0; font-size: 23px; font-family:"Microsoft YaHei"; font-weight: normal; color: #4b89dc;}
+.module-left-sign-in h2 small {font-size: 12px; font-family:SimSun; color: #99a3b1; display: block; margin-top:15px;}
+.module-share{padding: 40px 0 120px;}
+.module-share .share-btn{ margin-bottom: 10px; font-size: 12px;}
+.module-share .share-btn a{ display: inline-block; border-radius: 4px; background: #e1e4e9; color: #8f9399; font-weight: bold; width: 198px; height: 45px;line-height: 45px;}
+
+.module-share .share-btn a span{ display: inline-block; background-image: url(../images/share.png); background-color: #8f9399; background-repeat: no-repeat; font-weight: normal; color: transparent; border-radius: 4px 0 0 4px; height: 45px; width: 45px; margin-right: 10px;}
+.share-btn-renren span{background-position:center 8px;}
+.share-btn-tenxun span{background-position: center -48px;}
+.share-btn-sina span{background-position:center -103px ;}
+
+.module-share .share-btn a,
+.module-share .share-btn a span{transition: ease-in .2s;-moz-transition: ease-in .2s;-webkit-transition: ease-in .2s;-o-transition: ease-in .2s;}
+
+.share-btn-renren a:hover,
+.share-btn-renren a:focus,
+.share-btn-renren a:active{background-color: #5485c7; color: #FFFFFF; text-decoration: none;}
+.share-btn-renren a:hover span,
+.share-btn-renren a:focus span,
+.share-btn-renren a:active span{background-color: #4f7cb8;}
+
+.share-btn-tenxun a:hover,
+.share-btn-tenxun a:focus,
+.share-btn-tenxun a:active{background-color: #4fc0e8; color: #FFFFFF; text-decoration: none;}
+.share-btn-tenxun a:hover span,
+.share-btn-tenxun a:focus span,
+.share-btn-tenxun a:active span{background-color: #3aafda;}
+
+.share-btn-sina a:hover,
+.share-btn-sina a:focus,
+.share-btn-sina a:active{background-color: #ee5567; color: #FFFFFF; text-decoration: none;}
+.share-btn-sina a:hover span,
+.share-btn-sina a:focus span,
+.share-btn-sina a:active span{background-color: #db4453;}
+
+
+.module-ask p{font-size: 12px; color: #99a3b1; font-family: Arial,SimSun; text-indent: 0;}
+.module-ask .btn{font-size: 12px; font-weight: bold; color: #ffffff; background-color: #ED5565; padding: 8px 48px 12px; border-radius: 5px;}
+.module-ask .btn:hover,
+.module-ask .btn:focus{background-color: #ec495a;}
+/* ../ left*/
+
+
+/*导入简历*/
+.alert-success i.fa-check{color: #a0d468;}
+.alert-danger i.fa-times{color: #fa7d89;}
+.guide-into .nav-tabs > li{margin-bottom: -3px;}
+.guide-into .nav-tabs{background: #f6f8fa; border-bottom: 2px solid #e3e4e8;}
+.guide-into .nav-tabs > li > a{border-width:3px 2px 2px;}
+.guide-into .nav-tabs > li > a:hover,
+.guide-into .nav-tabs > li > a:focus {border-bottom-width: 0; padding-bottom: 9px;}
+.guide-into .nav-tabs > li.active > a,
+.guide-into .nav-tabs > li.active > a:hover,
+.guide-into .nav-tabs > li.active > a:focus{border-top: 3px solid #ed5565; border-left: 2px solid #e3e4e8; border-right: 2px solid #e3e4e8; border-bottom-width: 2px; padding-bottom: 10px;}
+.tab-guide-into .tab-pane{padding: 20px;}
+.tab-guide-into .alert{margin: 0;}
+.guide-into .control-label{font-family:SimSun; font-size: 14px; font-weight: normal; color: #768082; padding-top: 12px;}
+.tab-guide-into form{margin-top: 30px;}
+.tab-guide-into .btn-primary{padding: 8px 48px 12px; border-radius: 5px; font-weight: bold;}
+.tab-guide-into .form-group-btn{padding-top: 20px;}
+.yanzheng { max-height: 45px; border-radius: 6px; overflow: hidden; display: inline-block; border:1px solid #e3e4e8;}
+.yanzheng img{max-height: 45px; border-radius: 6px;}
+
+.module-left-sign-in h3{ margin:0; font-size: 18px; font-family:"Microsoft YaHei"; font-weight: normal; color: #4b89dc;}
+.module-tishi{margin-top: 15px;}
+.module-tishi p{background: url(../images/tishi_03.png) left 4px no-repeat; color: #99a3b1;font-size: 12px; padding-left: 22px;}
+
+.tab-guide-into .table thead > tr > th,
+.tab-guide-into .table tbody > tr > th,
+.tab-guide-into .table tfoot > tr > th,
+.tab-guide-into .table thead > tr > td,
+.tab-guide-into .table tbody > tr > td,
+.tab-guide-into .table tfoot > tr > td{padding: 16px 8px;}
+
+.tab-guide-into table{font-size: 12px; color: #768082;}
+.tab-guide-into table tbody tr:first-child td{border-top: 0;}
+.tab-guide-into table tr td:first-child{ padding-left: 50px; background-image: url(../images/daoru_09.png); background-position: 20px -137px; background-repeat: no-repeat;}
+.tab-guide-into table tr td i{vertical-align: middle;}
+.tab-guide-into .guide-into-success{color: #48cfad;}
+.tab-guide-into .guide-into-success i{ margin-right: 15px; display: inline-block; height: 16px; width: 16px; background: url(../images/daoru_09.png) center 4px no-repeat;}
+.tab-guide-into .guide-into-fail{color: #ed5565;}
+.tab-guide-into .guide-into-fail i{ margin-right: 15px; display: inline-block; height: 16px; width: 16px; background: url(../images/daoru_09.png) center -51px no-repeat;}
+.tab-guide-into .guide-into-ing{color: #4fc1e9;}
+.tab-guide-into .guide-into-ing i{ margin-right: 15px; display: inline-block; height: 16px; width: 16px; background: url(../images/ing.gif) center center no-repeat;}
+.tab-guide-into .guide-into-wait{color: #a4a9ae;}
+.tab-guide-into .guide-into-wait i{ margin-right: 15px; display: inline-block; height: 16px; width: 16px; background: url(../images/daoru_09.png) center -104px no-repeat;}
+.guide-alert-success,
+.guide-alert-fail {padding: 20px 30px;}
+.guide-alert-success .btn,
+.guide-alert-fail .btn{padding: 8px 48px 12px; font-weight: bold;}
+.guide-alert-success h3,
+.guide-alert-fail h3 {font-size: 16px;font-family:"Microsoft YaHei"; margin-top: 0;}
+.guide-alert-fail h3{margin-top: 5px; margin-bottom: 30px;}
+
+.guide-alert-success h3 strong,
+.guide-alert-fail h3 strong{font-size: 21px; font-weight: normal;}
+
+.guide-alert-success p > a{text-decoration: underline;}
+.guide-alert-success p > a:hover{color: #2284fc;}
+.guide-alert-success p{margin-bottom: 30px;}
+.skip{margin-left: 40px; color: #ED5153;}
+.skip:hover{text-decoration: underline; color: #ED5153;}
+
+.wrap-inner > .alert:first-child{margin: 10px 0 40px;}
+.wrap-inner > .alert:first-child a{font-size: 12px; text-decoration: underline;}
+.alert-danger-form{margin: 20px 30px 0;}
+
+
+/*../导入简历*/
+
+
+
+
+/*footer*/
+footer{margin: 30px 0;}
+.footer-inner{ font-size: 12px; color: #99a3b1; padding: 24px 30px; background: #f6f8fa; border-radius: 0 0 6px 6px; border-bottom: 3px solid #d1d4da;}
+.footer-inner a{color: #5076a8;}
+.footer-inner .row div:last-child{text-align: right;}
+
+/* ../footer*/
+
+
+
+
+@media screen and (orientation:portrait) {
+    .logo img{max-width: 80px;}
+	.passport-logo-title img{max-width: 100px;}
+}/*手机竖屏*/
+
+@media (max-width: 767px){
+.col-main{min-height: 500px;}
+.module-content-form{margin: 25px 0 20px; padding:0 20px;}
+.module-title{padding: 20px;}
+.module-title h2 small{display: block; padding-left: 0; margin-top: 6px;}
+.footer-inner .row div:last-child{text-align: left;}
+.module-left-sign-in{padding-left: 20px; padding-right: 20px;}
+.module-share{padding: 40px 0;}
+.tab-guide-into form{margin-top: 0px;}
+}/*手机竖屏和横屏*/
+
+@media (min-width: 767px) and (max-width: 1023px) {
+	.module-title h2 small{display: block; padding-left: 0; padding-top: 6px;}
+	.module-left-sign-in h2{font-size: 21px;}
+	.module-share .share-btn a{width: 168px;}
+}/*ipad竖屏*/
+
+

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>公司新闻</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<!-- col-main -->
+				<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+					<div class="col-main">
+
+	<!-- module -->
+						<div class="module module-frame">
+							<div class="module-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h4>公司简介</h4></div>
+								</div>
+							</div>
+							<div class="module-content module-content-left">
+								<p>1996年11月，天津城市合作银行总部挂牌成立，是中国首批获准组建的5家城市合作银行之一，1998年8月按照国务院要求更名为天津市商业银行，2007年4月4日，天津市商业银行更名为天津银行(Tianjin City成立，是中国首批获准组建的5家城市合作银行之一，1998年8月按照国务院要求 ...</p>
+								<div class="div-link text-right"><a href="#">更多...</a></div>
+							</div>
+						</div>
+
+						<div class="module module-frame">
+							<div class="module-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h4>职位搜索</h4></div>
+								</div>
+							</div>
+							<div class="module-content module-content-left module-frame-search">
+								
+								<form role="form">
+								  <div class="form-group">
+								    <label for="exampleInputEmail1">工作地点</label>
+								    <input type="text" class="form-control input-lg"  placeholder="">
+								  </div>
+								  <div class="form-group">
+								    <label for="exampleInputPassword1">职位名称</label>
+								    <input type="text" class="form-control input-lg"  placeholder="">
+								  </div>
+								  <button type="submit" class="btn btn-primary btn-block">搜 索</button>
+								</form>
+
+							</div>
+						</div>
+	<!-- /module -->
+
+					</div>
+				</div>
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+					<div class="col-sub col-sub2">
+						<div class="module module-frame2">
+							<div class="module-title module-title-table">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h4 class="eye-icon">公司新闻</h4></div>
+								</div>
+							</div>
+							<div class="module-content">
+								<div class="module-news clearfix">
+									<p><b>2012年12月1日</b></p>
+									<h4><a href="#">缘聚浙大 共咏新韵——“生命方舟”慈善迎新晚会绚烂落幕</a></h4>
+									<p>2011年12月24日晚，由生命方舟计划举办的"生命方舟"慈善迎新晚会在浙江大学紫金港校区小剧场隆重拉开帷幕。浙江大学党政领导及浙大继教院约1500名总裁班在读学员携手见证了"生命方舟"慈善迎新晚会的精彩与尊享！青春动感的舞蹈、优美动听的歌曲、贴近现实的舞台情景剧、幽默搞笑的小品，将浙大学子...</p>
+									<div><a class="btn btn-primary btn-sm pull-right" href="#">阅读更多 》</a></div>
+								</div>
+
+								<div class="module-news clearfix">
+									<p><b>2012年12月1日</b></p>
+									<h4><a href="#">缘聚浙大 共咏新韵——“生命方舟”慈善迎新晚会绚烂落幕</a></h4>
+									<p>2011年12月24日晚，由生命方舟计划举办的"生命方舟"慈善迎新晚会在浙江大学紫金港校区小剧场隆重拉开帷幕。浙江大学党政领导及浙大继教院约1500名总裁班在读学员携手见证了"生命方舟"慈善迎新晚会的精彩与尊享！青春动感的舞蹈、优美动听的歌曲、贴近现实的舞台情景剧、幽默搞笑的小品，将浙大学子...</p>
+									<div><a class="btn btn-primary btn-sm pull-right" href="#">阅读更多 》</a></div>
+								</div>
+
+								<div class="module-news clearfix">
+									<p><b>2012年12月1日</b></p>
+									<h4><a href="#">缘聚浙大 共咏新韵——“生命方舟”慈善迎新晚会绚烂落幕</a></h4>
+									<p>2011年12月24日晚，由生命方舟计划举办的"生命方舟"慈善迎新晚会在浙江大学紫金港校区小剧场隆重拉开帷幕。浙江大学党政领导及浙大继教院约1500名总裁班在读学员携手见证了"生命方舟"慈善迎新晚会的精彩与尊享！青春动感的舞蹈、优美动听的歌曲、贴近现实的舞台情景剧、幽默搞笑的小品，将浙大学子...</p>
+									<div><a class="btn btn-primary btn-sm pull-right" href="#">阅读更多 》</a></div>
+								</div>
+
+								<div class="ucenter-pagination-box clearfix">
+
+									<ul class="pagination pull-right">
+									  <li class="disabled"><span class="pagination-previous">上一页</span></li>
+									  <li class="active"><span>1 <span class="sr-only">(current)</span></span></li>
+									  <li><a href="#">2</a></li>
+									  <li><a href="#">3</a></li>
+									  <li><a href="#">4</a></li>
+									  <li class="disabled"><span>...</span></li>
+									  <li><a href="#">20</a></li>
+									  <li class=""><span class="pagination-next">下一页</span></li>
+									</ul>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- /col-sub -->
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

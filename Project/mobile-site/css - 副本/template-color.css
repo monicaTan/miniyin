@@ -1,0 +1,21 @@
+.header-logo h2{
+	font-size: 30px; color: #7d022f;
+}
+.header-logo{ border-bottom: 1px solid #e4e4e4;}
+.module-title h3{ color: #676767; background-color: #ece9ea;}
+.share-link{ background-color: #f86b9f;}
+.share-link i{ color: #ffffff;}
+
+.price-box em{ color: #f86b9f;}
+.nav-bootm{ background-color: rgba(241, 240, 240, 0.9); border-top:1px solid #dddddd;}
+.nav-bootm li a{ color: #c3c6cb; font-size: 24px;}
+.nav-bootm > .current-active a{ color: #F86B9F;}
+/*----------------------------Css Button---------------------------------*/
+.btn {line-height: 1.428571429; }
+.btn-default {color: #333333; background-color: #ffffff; border-color: #cccccc; }
+.btn-default.active{color: #333333; background-color: #ebebeb; border-color: #adadad; }
+.btn-default.active{background-image: none; }
+.btn-red {color: #ffffff; background-color: #f16498; border-color: #f16498; }
+.btn-red.active {color: #ffffff; background-color: #f1568f; border-color: #f1568f; }
+.nav-bootm > li > ul > .active { background: #ed518b;}
+.nav-bootm > li > ul{ background-color: rgba(248, 107, 159, 0.85);}

@@ -1,0 +1,113 @@
+<!-- header -->
+	<header>
+		<div class="company-manage-head">
+			<div class="company-manage-top">
+				<div class="container">
+					<div class="clearfix">
+						<div class="pull-left company-manage-top-link"><a href="#"><i class="fa fa-chevron-circle-left"></i> 返回网站前台</a></div>
+						<div class="pull-right company-manage-top-user">
+							<div class="btn-group">
+							  <a href="#" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+							    monica <i class="fa fa-chevron-down"></i>
+							  </a>
+							  <ul class="dropdown-menu" role="menu">
+							    <li><a href="#">修改密码</a></li>
+							    <li><a href="#">退出</a></li>
+							  </ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="company-logo">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-20 col-sm-14 col-md-14 col-lg-14">
+							<div class="clearfix">
+								<a href="/" class="pull-left"><img src="../images/index.png"></a>
+								<span class="pull-left logo-text">.jobs招聘微站点 - 后台管理</span>
+							</div>
+						</div>
+						<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+							
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="nav-reset">
+				<div class="container">
+
+					<nav class="navbar navbar-inverse" role="navigation">
+					  <!-- Brand and toggle get grouped for better mobile display -->
+					  <div class="navbar-header">
+					    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					      <span class="sr-only">Toggle navigation</span>
+					      <span class="icon-bar"></span>
+					      <span class="icon-bar"></span>
+					      <span class="icon-bar"></span>
+					    </button>
+					    <a class="navbar-brand" href="manage-index.shtml"><i class="fa fa-home"></i></a>
+					  </div>
+
+					  <!-- Collect the nav links, forms, and other content for toggling -->
+					  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					    <ul class="nav navbar-nav">
+					      <li class="dropdown active">
+					        <a href="#" class="dropdown-toggle" data-toggle="dropdown">职位管理 <b class="caret"></b></a>
+					        <ul class="dropdown-menu">
+					          <li><a href="jobs-management.shtml">职位管理</a></li>
+					          <li><a href="job-module.shtml">职位模板管理</a></li>
+					          <li><a href="importing-jobs.shtml">导入职位</a></li>
+					        </ul>
+					      </li>
+					      <li><a href="resume-management.shtml">简历管理</a></li>
+					      <li class="dropdown">
+					        <a href="#" class="dropdown-toggle" data-toggle="dropdown">资讯管理 <b class="caret"></b></a>
+					        <ul class="dropdown-menu">
+					          <li><a href="enterprise-information.shtml">认识企业</a></li>
+					          <li><a href="#">走进企业</a></li>
+					          <li><a href="#">资讯</a></li>
+					          <li role="presentation" class="divider"></li>
+					          <li><a href="#">页尾页面</a></li>
+					          <li role="presentation" class="divider"></li>
+					          <li><a href="#">其他内容</a></li>
+					        </ul>
+					      </li>
+					      <li><a href="fans.shtml">粉丝团</a></li>
+					      <li class="dropdown">
+					        <a href="#" class="dropdown-toggle" data-toggle="dropdown">站点管理 <b class="caret"></b></a>
+					        <ul class="dropdown-menu">
+					          <li><a href="#">网站logo</a></li>
+					          <li role="presentation" class="divider"></li>
+						      <li><a href="template-manage.shtml">网站模板</a></li>
+					        </ul>
+					      </li>
+					      <li class="dropdown">
+					        <a href="#" class="dropdown-toggle" data-toggle="dropdown">公司管理 <b class="caret"></b></a>
+					        <ul class="dropdown-menu">
+					          <li><a href="base-info-management.shtml">基本信息管理</a></li>
+					          <li><a href="company-departments-manage.shtml">部门管理</a></li>
+					          <li><a href="outsourcing-message.shtml">外包与合作</a></li>
+					          <li><a href="rencaiku-table.shtml">人才库</a></li>
+					        </ul>
+					      </li>
+					    </ul>
+					    <form class="navbar-form navbar-right" role="search">
+					      <div class="input-group company-nav-search">
+						      <input type="text" class="form-control" placeholder="搜职位、搜简历">
+						      <span class="input-group-btn">
+						        <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+						      </span>
+						   </div>
+					    </form>
+					  </div><!-- /.navbar-collapse -->
+					</nav>
+
+
+				</div>
+			</div>
+		</div>
+	</header>
+<!-- /header -->

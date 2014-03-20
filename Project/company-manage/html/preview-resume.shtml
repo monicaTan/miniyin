@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>简历预览</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/edit-resume.css">
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+<!-- main-top -->
+		<div class="main-top">
+
+			<div class="row">
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+
+						<div class="module module-edit-name">
+							<div class="module-content clearfix">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+										<div class="form-inline"><span>未命名简历1</span></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+		</div>
+<!-- / main-top -->
+
+		<div class="personal-main-edit">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-14 col-sm-offset-3 col-md-14 col-md-offset-3 col-lg-14 col-lg-offset-3">
+					<div class="col-main">
+
+	<!-- module -->
+						<div class="module module-edit-resume-box">
+							<div class="module-content">
+								<div class="module-information-box">
+									<div class="information-title clearfix">
+										<div class="row">
+											<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h3>基本资料</h3></div>
+										</div>
+									</div>
+									<div class="module-information-content">
+										<div class="row">
+											<div class="col-xs-15 col-sm-17 col-md-15 col-lg-15">
+												<div class="base-infomation">
+													<h3>冯小刚</h3>
+													<p><span>1～2年工作经验</span><i>|</i><span>男</span><i>|</i><span>1985年10月出生</span><i>|</i><span>籍贯山西</span><i>|</i><span>未婚</span><i>|</i><span>中共党员</span><i>|</i><span>国外工作<i>|</i>学习经历</span></p>
+												</div>
+												<div class="base-infomation">
+													<h4>求职意向</h4>
+													<div class="row">
+														<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+															<dl class="dl-horizontal">
+															  <dt>期望薪资：</dt>
+															  <dd>$9999</dd>
+															  <dt>期望工作地点：</dt>
+															  <dd>北京</dd>
+															  <dt>到岗时间：</dt>
+															  <dd>一个月</dd>
+															</dl>
+														</div>
+														<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+															<dl class="dl-horizontal">
+															  <dt>期望工作性质：</dt>
+															  <dd>全职</dd>
+															  <dt>期望职业：</dt>
+															  <dd>端茶倒水</dd>
+															  <dt>期望行业：</dt>
+															  <dd>互联网</dd>
+															</dl>
+														</div>
+													</div>
+												</div>
+
+												<div class="base-infomation base-infomation-personal">
+													<h4>个人网站</h4>
+													<p><span>知乎：</span>http://zhihu.com/x</p>
+												</div>
+
+												<div class="base-infomation base-infomation-personal">
+													<h4>联系方式</h4>
+													<p><span>手机：</span>159 2869 6607</p>
+												</div>
+
+											</div>
+											<div class="col-xs-3 col-sm-3 col-md-2 col-lg-2 hidden-xs hidden-sm"></div>
+											<div class="col-xs-5 col-sm-3 col-md-4 col-lg-3">
+												<div class="face-image">
+													<img width="128" height="128" class="img-responsive" src="../images/face.jpg">
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="module module-edit-resume-box">
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16"><h3>工作经历</h3></div>
+													<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+													<div class="edit-delate"></div>
+												</div>
+											</div>
+										</div>
+
+										<div class="module-information-content">
+											<div class="information-finish">
+												<div class="information-list clearfix">
+													<div class="row">
+														<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16">
+															<div class="information-list-info">
+																<a href="#"><h4>中广互联（北京）科技有限公司</h4></a>
+																<i>|</i>
+																<span>互联网</span>
+																<i>|</i>
+																<span>1~49人</span>
+															</div>
+														</div>
+														<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"></div>
+													</div>
+													<div class="information-detail">
+														<p>XX总监</p>
+														<p>	2013.10 ~ 至今（2个月）</p>
+														<p>	带领UX团队持续改善产品体验。</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="information-finish">
+												<div class="information-list clearfix">
+													<div class="row">
+														<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16">
+															<div class="information-list-info">
+																<a href="#"><h4>中广互联（北京）科技有限公司</h4></a>
+																<i>|</i>
+																<span>互联网</span>
+																<i>|</i>
+																<span>1~49人</span>
+															</div>
+														</div>
+														<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"></div>
+													</div>
+													<div class="information-detail">
+														<p>XX总监</p>
+														<p>	2013.10 ~ 至今（2个月）</p>
+														<p>	带领UX团队持续改善产品体验。</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16"><h3>教育经历</h3></div>
+													<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+													<div class="edit-delate"></div>
+												</div>
+											</div>
+										</div>
+
+										<div class="module-information-content module-information-table">
+
+											<div class="information-finish">
+												<div class="information-list clearfix">
+													<div class="information-detail">
+														<p><b>时间：</b>2013.01.01</p>
+														<p><b>学校名称：</b>北京大学</p>
+														<p><b>专业：</b>环境艺术设计</p>
+														<p><b>学历：</b>本科</p>
+														<p><b>海外经历：</b>否</p>
+														<p><b>获奖情况：</b>描述1</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h3>自我评价</h3></div>
+											</div>
+										</div>
+										
+										<div class="module-information-content">
+											<div class="row">
+												<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+													<div class="preview-resume-text">
+														<p>带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验带领UX团队持续改善产品体验。</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+									</div>
+								</form>
+							</div>
+
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16"><h3>语言能力</h3></div>
+													<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+													<div class="edit-delate"></div>
+												</div>
+											</div>
+										</div>
+
+										<div class="module-information-content module-information-table">
+
+											<div class="information-finish">
+												<div class="table-responsive">
+													<table class="table table-hover edite-table">
+												        <thead>
+												          <tr>
+												            <th>外语语种</th>
+												            <th align="center">读写能力</th>
+												            <th align="center">听说能力</th>
+												            <th colspan="3">&nbsp;</th>
+												          </tr>
+												        </thead>
+												        <tbody>
+												          <tr>
+												            <td>英语</td>
+												            <td>一般</td>
+												            <td>一般</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          <tr>
+												            <td>英语</td>
+												            <td>一般</td>
+												            <td>一般</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          
+												        </tbody>
+												    </table>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16"><h3>项目经历</h3></div>
+													<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+													<div class="edit-delate"></div>
+												</div>
+											</div>
+										</div>
+
+										<div class="module-information-content module-information-table">
+
+											<div class="information-finish">
+												<div class="information-list clearfix">
+													<div class="information-detail">
+														<p><b>项目名称：</b>项目一</p>
+														<p><b>时间：</b>2013.01.01</p>
+														<p><b>软件环境：</b>环境1</p>
+														<p><b>硬件环境：</b>环境1</p>
+														<p><b>开发环境：</b>环境1</p>
+														<p><b>职责描述：</b>描述1</p>
+														<p><b>项目描述：</b>描述1</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16"><h3>专业能力</h3></div>
+													<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+													<div class="edit-delate"></div>
+												</div>
+											</div>
+										</div>
+
+										<div class="module-information-content module-information-table">
+
+											<div class="information-finish">
+												<div class="table-responsive">
+													<table class="table table-hover edite-table">
+												        <thead>
+												          <tr>
+												            <th>技能名称</th>
+												            <th>时间</th>
+												            <th>掌握程度</th>
+												            <th colspan="3">&nbsp;</th>
+												          </tr>
+												        </thead>
+												        <tbody>
+												          <tr>
+												            <td>技能1</td>
+												            <td>2012.01 ～ 2014.01</td>
+												            <td>一般</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          <tr>
+												            <td>技能2</td>
+												            <td>2012.01 ～ 2014.01</td>
+												            <td>一般</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          
+												        </tbody>
+												    </table>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16"><h3>培训经历</h3></div>
+													<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+													<div class="edit-delate"></div>
+												</div>
+											</div>
+										</div>
+
+										<div class="module-information-content module-information-table">
+											<div class="information-finish">
+												<div class="table-responsive">
+													<table class="table table-hover edite-table">
+												        <thead>
+												          <tr>
+												            <th>培训机构</th>
+												            <th>时间</th>
+												            <th>培训课程</th>
+												            <th colspan="3">&nbsp;</th>
+												          </tr>
+												        </thead>
+												        <tbody>
+												          <tr>
+												            <td>火星</td>
+												            <td>2012.01 - 2014.01</td>
+												            <td>网页设计</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          <tr>
+												            <td>火星</td>
+												            <td>2012.01 - 2014.01</td>
+												            <td>网页设计</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          
+												        </tbody>
+												    </table>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+
+
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16"><h3>证书</h3></div>
+													<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+													<div class="edit-delate"></div>
+												</div>
+											</div>
+										</div>
+
+										<div class="module-information-content module-information-table">
+
+											<div class="information-finish">
+												<div class="table-responsive">
+													<table class="table table-hover edite-table">
+												        <thead>
+												          <tr>
+												            <th>证书</th>
+												            <th>说明</th>
+												            <th colspan="3">&nbsp;</th>
+												          </tr>
+												        </thead>
+												        <tbody>
+												          <tr>
+												            <td>证书一</td>
+												            <td>说明一</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          <tr>
+												            <td>证书二</td>
+												            <td>说明二</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          
+												        </tbody>
+												    </table>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+
+							<div class="module-content">
+								<form class="form-horizontal" role="form">
+									<div class="module-information-box">
+										<div class="information-title clearfix">
+											<div class="row">
+												<div class="col-xs-16 col-sm-16 col-md-16 col-lg-16"><h3>其他信息</h3></div>
+													<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+													<div class="edit-delate"></div>
+												</div>
+											</div>
+										</div>
+
+										<div class="module-information-content module-information-table">
+
+											<div class="information-finish">
+												<div class="table-responsive">
+													<table class="table table-hover edite-table">
+												        <thead>
+												          <tr>
+												            <th>标题</th>
+												            <th>描述</th>
+												            <th colspan="3">&nbsp;</th>
+												          </tr>
+												        </thead>
+												        <tbody>
+												          <tr>
+												            <td>信息一</td>
+												            <td>描述一</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          <tr>
+												            <td>信息二</td>
+												            <td>描述二</td>
+												            <td align="right">&nbsp;</td>
+												          </tr>
+												          
+												        </tbody>
+												    </table>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+
+						</div>
+	<!-- /module -->
+
+					</div>
+				</div>
+<!-- /col-main -->
+
+<!-- col-sub -->
+				<div class="col-xs-20 col-sm-6 col-md-6 col-lg-6">
+					<div class="col-sub">&nbsp;</div>
+				</div>
+<!-- /col-sub -->
+
+			</div>
+		</div>
+
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+
+<script type="text/javascript">
+	$(function(){
+		var options={
+			animation:true,
+			trigger:'hover' //触发tooltip的事件
+		}
+		$('.atip').tooltip(options);
+		//$('#tip1').tooltip('hide');//指定显示某一个tooltip//还可取值hide toggle
+
+	});
+</script>
+
+</body>
+</html>

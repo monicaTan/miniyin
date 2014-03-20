@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2013-10-25 15:19:08
+ * @version $Id$
+ */
+
+
+
+
+
+/*分页*/
+.pagination-box{padding: 0 20px;}
+.pagination-box .pagination > a,
+.pagination-box .pagination > em{margin: 0 5px; border:0; background-color: #FFFFFF; color: #a4a9ae; font-size: 14px; font-style: normal; padding: 4px 10px; margin-bottom: 8px; }
+.pagination-box .pagination > em.current{background-color: #FFFFFF; color: #ed5565;}
+.pagination-box .pagination > a:hover{ text-decoration:underline; color: #555555;}
+
+.pagination-box .pagination > a.previous_page,
+.pagination-box .pagination > a.next_page,
+.pagination-box .pagination > span.previous_page,
+.pagination-box .pagination > span.next_page{ margin-bottom: 5px; padding: 4px 14px; cursor: pointer;background-color: #5d9cec; color: #FFFFFF; border-radius: 4px; border-bottom: 3px solid #4a89dc;}
+
+.pagination-box .pagination > a.previous_page:hover,
+.pagination-box .pagination > a.next_page:hover{ border-bottom: 3px solid #5D9CEC;}
+
+.pagination-box .pagination > span.previous_page,
+.pagination-box .pagination > span.next_page{background-color: #eeeeee; color: #c0c0c0; border-radius: 4px; border-bottom: 3px solid #e2e0e0;}
+
+/*../分页*/
+
+
+/*分页*/
+
+.pagination > li > a,
+.pagination > li > span{margin: 0 5px; border:0; background-color: #FFFFFF; color: #a4a9ae; font-size: 14px;padding: 4px 10px; margin-bottom: 8px; }
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus{background-color: #FFFFFF; color: #ed5565;}
+
+.pagination > li > a:hover{ text-decoration:underline;}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus { background-color: #ffffff; color: #555555;}
+
+.pagination > li:first-child > a,
+.pagination > li:first-child > span,
+.pagination > li:last-child > a,
+.pagination > li:last-child > span{ margin-bottom: 5px; padding: 4px 14px; cursor: pointer;background-color: #5d9cec; color: #FFFFFF; border-radius: 4px; border-bottom: 3px solid #4a89dc;}
+
+.pagination > li:first-child > a:hover,
+.pagination > li:first-child > span:hover,
+.pagination > li:last-child > a:hover,
+.pagination > li:last-child > span:hover{ background-color: #6aa2ea; border-bottom: 3px solid #6aa2ea;}
+
+.pagination > li.disabled:first-child > a,
+.pagination > li.disabled:first-child > span,
+.pagination > li.disabled:last-child > a,
+.pagination > li.disabled:last-child > span{background-color: #eeeeee; color: #c0c0c0; border-radius: 4px; border-bottom: 3px solid #e2e0e0;}
+
+.pagination > .disabled > span,
+.pagination > .disabled > span:hover,
+.pagination > .disabled > span:focus,
+.pagination > .disabled > a,
+.pagination > .disabled > a:hover,
+.pagination > .disabled > a:focus{   color: #999999; cursor: not-allowed; background-color: transparent;}
+
+/*../分页*/

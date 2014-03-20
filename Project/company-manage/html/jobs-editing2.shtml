@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>职位编辑</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+			<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+				<div class="col-main">
+
+<!-- module -->
+					<div class="module module-admin-box">
+						<div class="module-title">
+							<div class="row">
+								<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h2>职位编辑</h2></div>
+							</div>
+						</div>
+						<div class="module-content module-height">
+							<div class="module-admin-form-box module-jobs-editing">
+								<form class="form-horizontal" role="form">
+									<div class="row">
+										<div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label">模板</label>
+												<div class="col-sm-12">
+													<select class="form-control">
+											            <option value="">模板1</option>
+											        </select>
+												</div>
+											</div>
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label">所属部门</label>
+												<div class="col-sm-12">
+													<select class="form-control">
+											            <option value="">销售</option>
+											        </select>
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label"><em>*</em> 中文职位名称</label>
+												<div class="col-sm-12">
+													<input type="text" class="form-control" id="" placeholder="">
+												</div>
+											</div>
+
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label">英文职位名称</label>
+												<div class="col-sm-12">
+													<input type="text" class="form-control" id="" placeholder="">
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label"><em>*</em> 首要类别</label>
+												<div class="col-sm-12">
+													<select class="form-control">
+											            <option value="">类别1</option>
+											        </select>
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label">次要类别</label>
+												<div class="col-sm-12">
+													<select class="form-control">
+											            <option value="">类别2</option>
+											        </select>
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label"><em>*</em> 工作地点</label>
+												<div class="col-sm-12">
+													<select class="form-control">
+											            <option value="">北京</option>
+											        </select>
+												</div>
+											</div>
+
+
+										</div>
+										
+										<div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label"><em>*</em> 薪资待遇</label>
+												<div class="col-sm-12">
+													<select class="form-control">
+											            <option value="">北京</option>
+											        </select>
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label"><em>*</em> 职位性质</label>
+												<div class="col-sm-12">
+
+													<label class="radio-inline">
+													  <input type="radio" value="option1" name="1"> 全职
+													</label>
+													<label class="radio-inline">
+													  <input type="radio" value="option2" name="1"> 兼职
+													</label>
+													<label class="radio-inline">
+													  <input type="radio"  value="option3" name="1"> 实习
+													</label>
+
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label">学历要求</label>
+												<div class="col-sm-12">
+													<select class="form-control">
+											            <option value="">本科</option>
+											        </select>
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label">招聘人数</label>
+												<div class="col-sm-7">
+													<input type="text" class="form-control" id="" placeholder="">
+												</div>
+												<div class="col-sm-5">
+													<label class="checkbox-inline">
+													  <input type="checkbox" name="1" value="option3"> 聘用若干人
+													</label>
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="" class="col-sm-6 control-label"><em>*</em> 工作经验</label>
+												<div class="col-sm-12">
+													<select class="form-control">
+											            <option value="">1年</option>
+											        </select>
+												</div>
+											</div>
+
+										</div>
+
+									</div>
+
+									<div class="row">
+										<div  class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+											<div class="form-group">
+												<label for="" class="col-sm-3 control-label">其他</label>
+												<div class="col-sm-16">
+													<div class="col-sm-11">
+
+														<div class="checkbox-inline">
+														  <label>
+														    <input type="checkbox" name="optionscheckboxs1" value="option1" >
+														   要求管理经验
+														  </label>
+														</div>
+														<div class="checkbox-inline">
+														  <label>
+														    <input type="checkbox" name="optionscheckboxs2" value="option2">
+														    是否接受委托投递的简历
+														  </label>
+														</div>
+
+														<div class="checkbox-inline">
+														  <label>
+														    <input type="checkbox" name="optionscheckboxs3" value="option2">
+														    是否同时保存为模版
+														  </label>
+														</div>
+														<div class="checkbox-inline">
+														  <label class="label-focus">
+														    <input type="checkbox" name="optionscheckboxs3" value="option2">
+														    招合伙人
+														  </label>
+														</div>
+														<div class="checkbox-inline">
+														  <label class="label-focus">
+														    <input type="checkbox" name="optionscheckboxs3" value="option2">
+														    急招 <span>(急招职位必须是收到简历后于工作时间3小时内给出反馈，面试或拒绝
+)</span>
+														  </label>
+														</div>
+
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="info-descrip">
+										<div class="row">
+											<div  class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+												<div class="form-group">
+													<label for="" class="col-sm-3 control-label"><em>*</em>中文描述</label>
+													<div class="col-sm-16">
+														<textarea class="form-control" rows="3"></textarea>
+													</div>
+												</div>
+
+												<div class="form-group">
+													<label for="" class="col-sm-3 control-label">英文描述</label>
+													<div class="col-sm-16">
+														<textarea class="form-control" rows="3"></textarea>
+													</div>
+												</div>
+												<div class="form-group">
+													<div class="col-sm-offset-3 col-sm-16">
+														<button type="submit" class="btn btn-primary btn-tailor-made">保 存</button>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+
+								</form>
+							</div>
+						</div>
+					</div>
+<!-- /module -->
+
+				</div>
+			</div>
+<!-- /col-main -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+
+</body>
+</html>

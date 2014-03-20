@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>人才库表格</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+
+	<!-- module -->
+						<div class="module module-admin-box">
+							<div class="module-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20"><h2>人才库</h2></div>
+								</div>
+							</div>
+							<div class="module-content module-height">
+								<div class="table-responsive">
+							      <table class="table table-hover module-admin-table">
+							        <thead>
+							          <tr>
+							            <th width="14%">姓名</th>
+							            <th width="18%">邮箱</th>
+							            <th class="text-center" width="12%">电话</th>
+							            <th class="text-center" width="12%">QQ</th>
+							            <th class="text-center">留言</th>
+							          </tr>
+							        </thead>
+							        <tbody>
+							          <tr>
+							            <td>张三李四</td>
+							            <td>monicatan@cn.jobs</td>
+							            <td class="text-center">15928696607</td>
+							            <td class="text-center">960784108</td>
+							            <td><a class="link-focus link-message" href="rencaiku.shtml">邮局传递的函件和包裹的统称。邮件分国内邮件和国际邮件两大类。国内邮件按内容性质...</a></td>
+							          </tr>
+							          <tr>
+							            <td>张三李四</td>
+							            <td>monicatan@cn.jobs</td>
+							            <td class="text-center">15928696607</td>
+							            <td class="text-center">960784108</td>
+							            <td><a class="link-focus link-message" href="rencaiku.shtml">邮局传递的函件和包裹的统称。邮件分国内邮件和国际邮件两大类。国内邮件按内容性质...</a></td>
+							          </tr>
+							          <tr>
+							            <td>张三李四</td>
+							            <td>monicatan@cn.jobs</td>
+							            <td class="text-center">15928696607</td>
+							            <td class="text-center">960784108</td>
+							            <td><a class="link-focus link-message" href="rencaiku.shtml">邮局传递的函件和包裹的统称。邮件分国内邮件和国际邮件两大类。国内邮件按内容性质...</a></td>
+							          </tr>
+							        </tbody>
+							      </table>
+							    </div>
+							</div>
+						</div>
+	<!-- /module -->
+
+					</div>
+				</div>
+<!-- /col-main -->
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

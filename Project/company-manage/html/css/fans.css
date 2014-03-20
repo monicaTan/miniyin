@@ -1,0 +1,59 @@
+
+
+
+/*粉丝团*/
+
+.fans-left-box{ padding: 20px 20px 10px; text-align: center; background: url(../images/fans.jpg) center top no-repeat; border-radius: 5px 5px 0 0;}
+.fans-logo-box{ width: 67px; height: 67px; margin:0 auto 10px; overflow: hidden;}
+.fans-logo-box img{ width: 100%; border-radius: 5px;}
+.fans-left-box p{ text-align: center;text-indent: 0px; margin-bottom: 5px; color: #798086;font-family:"Microsoft YaHei"; font-size: 12px;}
+.fans-left-box p a{ color: #29353f;}
+.fans-row div:first-child{padding-right: 0;}
+.fans-row div:last-child{padding-left: 0;}
+.fans1-inner span{border-right: 1px solid #e3e4e8;}
+
+.fans1-inner,
+.fans2-inner{margin-top: 10px; }
+
+.fans1-inner span,
+.fans2-inner span{display: block; text-align: center; line-height: 22px; }
+
+.fans1-inner span:first-child,
+.fans2-inner span:first-child{font-family:"Microsoft YaHei"; color: #768082;}
+
+.fans1-inner span:last-child,
+.fans2-inner span:last-child{font-weight: bold; color: #414242;}
+
+.fans1{ border-top: 3px solid #5dc9e6;}
+.fans2{ border-top: 3px solid #429db6;}
+
+.company-introduce{padding: 20px 15px 10px; font-size: 12px; color: #6c6c6c;}
+.company-introduce h4{color: #abb1b5; font-family:"Microsoft YaHei"; font-size: 14px;}
+.company-introduce p{text-indent: 0;}
+
+.fans-introduce-box{border-bottom: 1px solid #e3e4e8; padding: 20px 0;}
+.fans-introduce h4{ text-indent: 0; margin: 5px 0 10px; font-family:"Microsoft YaHei";}
+.fans-introduce h4 a{ color: #ed5565;}
+.fans-introduce p{ text-indent: 0; margin: 0; font-size: 12px; color: #99a3b1;}
+.module-fans{padding: 0 30px;}
+.module-fans .pagination-box{padding-top: 20px;}
+.fans-icon{display: inline-block; width: 76px; height: 76px; border: 2px solid #e3e4e8; border-radius: 5px; overflow: hidden;}
+.fans-icon img{ width: 100%;}
+.read-resume-box {margin-top: 28px;}
+.read-resume-box .btn-link{text-shadow: 0 0 0 rgba(0, 0, 0, 0.15); font-size: 12px; padding: 5px;}
+.read-resume-box .open .btn-link{ color: #393f48;}
+.read-resume-box .btn-link .caret{ border-top-color: #0063dc; border-bottom-color: #0063dc; border-width: 6px 6px 0;}
+.read-resume-box .open .btn-link .caret{ border-top-color: #393f48; border-bottom-color: #393f48;}
+.read-resume-box ul{min-width: 100px; background: #434a54;}
+.read-resume-box ul.dropdown-menu > li > a{font-size: 12px; color: #ffffff; padding: 10px 20px;}
+.read-resume-box ul.dropdown-menu > li > a:hover,
+.read-resume-box ul.dropdown-menu > li > a:focus{background: #393f48;}
+
+
+@media (max-width: 767px){
+	.module-fans{padding: 10px;}
+	.fans-icon{ width: 50px; height: 50px;}
+	.read-resume-box {margin-top: 0;}
+}
+
+/*../ 粉丝团*/

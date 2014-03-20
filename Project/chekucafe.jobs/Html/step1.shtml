@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>step1</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+</head>
+<body>
+<!--#include file="inc/header.shtml"-->
+
+<div class="wrap">
+
+	<div class="container">
+		<div class="wrap-inner">
+			<div class="row">
+
+<!-- col-main -->
+				<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+					<div class="col-main">
+						<div class="module module-base-box module-pass min-height">
+							<div class="base-title">
+								<div class="row">
+									<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20">
+										<h3>发布职位</h3>
+									</div>
+								</div>
+							</div>
+							<div class="module">
+
+								<div class="module module-step">
+									<div class="row">
+										<div class="col-xs-20 col-sm-3 col-md-4 col-lg-4"></div>
+										<div class="col-xs-20 col-sm-14 col-md-12 col-lg-12">
+											<div class="find-password-step">
+												<div class="row">
+													<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+														<div class="step-bg-box step-bg-box1">
+															<i class="step1 circle-current"></i>
+															<span class="step1-text">注册账号</span>
+															<span class="step1-center-text"></span>
+															<i class="step2 grey-text"></i>
+															<span class="step2-text">完善公司信息</span>
+															<span class="step2-center-text">2</span>
+														</div>
+													</div>
+													<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+														<div class="step-bg-box step-bg-box2">
+															<i class="step3 grey-text"></i>
+															<span class="step3-text">发职位</span>
+															<span class="step3-center-text">3</span>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="col-xs-20 col-sm-3 col-md-4 col-lg-4"></div>
+									</div>
+								</div>
+
+								<div class="module module-content module-content-form">
+									<form role="form" class="form-horizontal form-cheku">
+										<div class="form-group">
+										    <label class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label" for="inputEmail3">常用邮箱或手机</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="text" placeholder="" id="inputEmail3" class="form-control input-lg text-error">
+										      	<div class="error-text-right"><span class="text-error text-error-icon" for="login_password">请输入正确的邮箱格式</span></div>
+										    </div>
+									  	</div>
+
+									  	<div class="form-group">
+										    <label class="col-xs-20 col-sm-7 col-md-8 col-lg-8 control-label" for="inputEmail3">密码</label>
+										    <div class="col-xs-20 col-sm-8 col-md-6 col-lg-5">
+										      <input type="password" placeholder="" id="inputEmail3" class="form-control input-lg">
+										    </div>
+									  	</div>
+
+									  	<div class="form-group form-group-checkbox-keep">
+										    <div class="col-sm-offset-7 col-sm-12 col-md-offset-8 col-md-11 col-lg-offset-8 col-lg-8">
+											    <div class="row">
+											      	<div class="col-xs-10 col-sm-6 col-md-7 col-lg-7">
+											      		<div class="checkbox">
+													        <label class="checkbox-keep">
+													          <input type="checkbox"> 保持登录状态
+													        </label>
+													     </div>
+											      	</div>
+											      	<div class="col-xs-10 col-sm-6 col-md-7 col-lg-5">
+											      		<a href="#" class="forget-password pull-right">忘记密码？</a>
+											      	</div>
+											     </div>
+										    </div>
+										  </div>
+
+									  	<div class="form-group form-group-btn">
+										    <div class="col-xs-20 col-sm-offset-7 col-sm-8 col-md-offset-8 col-md-6 col-lg-offset-8 col-lg-5">
+										      <button class="btn cheku-btn cheku-btn-info" type="submit">下一步</button>
+										    </div>
+									  	</div>
+
+									  	<div class="module module-link-element">
+											<div class="row">
+												<div class="col-xs-20 col-sm-offset-7 col-sm-8 col-md-offset-8 col-md-6 col-lg-offset-8 col-lg-5">
+													<span>已有账号？<a href="#" class="new-sign-up">登录</a></span>
+												</div>
+											</div>
+										</div>
+									</form>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+<!-- /col-main -->
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--#include file="inc/footer.shtml"-->
+
+<script type="text/javascript">
+
+	$(function(){
+      $(".base-content-search .base-content-element:odd").css({"background":"#f6f6f6"})
+    })
+
+</script>
+</body>
+</html>

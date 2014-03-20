@@ -1,0 +1,43 @@
+
+    <footer>
+      <div class="container">
+        <div class="foot">
+          <dl>
+            <dt>关于.jobs国际域名</dt>
+            <dd>国际顶级域名.jobs批准于2006年，由全球人力资源协会主管。和专用于教育组织的edu，政府机构的gov域名类似，.jobs域名专用于招聘，需要严格的审批，保证所有.jobs站点的信息真实可信。企业名字加.jobs后缀网址，简洁易记，方便求职者快速定位查找，在搜索引擎中也能轻松排在前列，利于企业推广。</dd>
+          </dl>
+
+          <div>
+            <h4>使用.jobs域名的好处：</h4>
+            <ol>
+              <li>公司.jobs站点可以指向您自己官网的招聘部分；</li>
+              <li>.jobs指向域聘网为你创建的个性化招聘微站点；</li>
+              <li>所有职位还可同步到由40000 个由地区、行业、学校等.jobs站点组成的.jobs平台。</li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="copyright">
+      <div class="container">
+        <div class="copyright-wrap">
+          <div class="row">
+            <div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">
+              <div class="weibo"></div>
+              <div class="copy">&copy; 中广互联 版权所有 ©2013<br>未经中广互联及同意，不得转载本网站之所有招聘信息及作品</div>
+            </div>
+            <div class="col-xs-20 col-sm-10 col-md-10 col-lg-10">
+              <div class="mmi">京ICP备12034693号</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="assets/js/jquery/jquery-1.10.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="assets/bootstrap-3.0.0/dist/js/bootstrap.min.js"></script>
+    

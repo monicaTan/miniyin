@@ -1,0 +1,153 @@
+
+/*---------------------v2.0|2014-03-19----------------------------*/
+
+html,body,div,span,applet,object,iframe,
+h1,h2,h3,h4,h5,h6,p,blockquote,pre,
+a,abbr,acronym,address,big,cite,code,
+del,dfn,em,img,ins,kbd,q,s,samp,
+small,strike,strong,sub,sup,tt,var,
+b,u,i,center,
+dl,dt,dd,ol,ul,li,
+fieldset,form,label,legend,
+table,caption,tbody,tfoot,thead,tr,th,td,
+.post,aside,canvas,details,embed,
+figure,figcaption,footer,header,hgroup,
+menu,nav,output,ruby,section,summary,
+time,mark,audio,video{
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
+}
+/*----------------------HTML5 element reset-------------------------*/
+.clearfix:before,
+.clearfix:after { display: table; content: " ";}
+
+.clearfix:after { clear: both;}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.post,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section{ display:block;}
+
+body{ font-family:Arial, Helvetica, sans-serif; line-height:1;}
+
+ol,
+ul{ list-style:none;}
+
+blockquote,
+q{quotes:none;}
+
+blockquote:before,blockquote:after,
+q:before,q:after{ content:''; content:none;}
+table{ border-collapse:collapse; border-spacing:0;}
+a{ text-decoration:none;}
+img{ max-width:100%;}
+h1{ font-size:36px;}
+h2{ font-size:24px;}
+h3{ font-size:18px;}
+h4{ font-size:16px;}
+h5{ font-size:14px;}
+h6{ font-size:12px;}
+
+
+.pull-right{float: right;}
+.pull-left{float: left;}
+
+/*---------------------------------------General Setup---------------------------------------*/
+.wrap-container{ position: relative; margin:0 auto; max-width:640px; height: 100%; background:white; font-family: "microsoft yahei";}
+
+/*---------------------------------------CSS Header--------------------------------------------*/
+header{ background:white; margin-bottom: 56px;}
+.header-inner{ position: relative;}
+.header-logo{position: absolute; left: 0; bottom: -56px; padding: 0 20px 10px 35px; width: 100%;}
+.header-logo h2{margin: 4px 0 0 15px; float: left;display: inline-block; width: 400px;  font-family: "microsoft yahei"; font-size: 30px;}
+.header-logo figure{ float: left; width: 115px; height: 115px; overflow: hidden; border-radius: 5px; border:4px solid #e3e4e8;}
+.header-logo figure img{ border-radius: 5px;}
+.header-logo .btn{ margin-top: 18px; float: right;}
+
+
+/*---------------------------------------CSS Content--------------------------------------------*/
+.content{ background:#faf9f9;/*background:#faf9f9;*/ width: 100%;}
+.content-inner{margin: 20px 12px 120px;}
+.module-content{padding-bottom: 20px; margin-bottom: 20px; width: 100%; border-bottom:1px solid #dddddd; font-family: "microsoft yahei";}
+.content-inner .module-ele:last-child .module-content{border:0;}
+.module-title h3{ padding: 0 20px; margin: 0 0 10px; font: 26px/60px "microsoft yahei";}
+.img-box{ display: block; border:1px solid #dddddd; font-size: 0; }
+.img-posi{ position: relative;}
+.mark-img{ position: absolute; left: 0; top: 0;}
+.module-content p{margin: 10px 0 0;}
+.module-content p a{color:#676767; font-size: 22px; line-height: 30px;}
+.share-link{display: inline-block; margin-right: 10px; float: right; width: 44px; height: 44px; text-align: center; line-height: 44px; vertical-align: middle; border-radius: 50%;}
+.share-link i{ margin: 2px 0 0 2px; line-height: 44px; font-size: 22px;}
+
+.suit-left{float: left; width: 59%;}
+.suit-right{float: right; width: 39%;}
+.suit-right .img-box{margin-bottom: 10px;}
+.price-box {font-size: 24px;}
+.price-box span{padding-right: 10px; color: #c3c6cb; text-decoration:line-through;}
+.price-box span:first-child{text-decoration: none;}}
+.price-box em{ font: normal 24px/28px "microsoft yahei";}
+
+
+/*---------------------------------------CSS Footer--------------------------------------------*/
+footer{ position: fixed; bottom:0;width: 640px;}
+.footer-inner{width: 100%;}
+.nav-bootm{height: 100px; position: relative; padding-left: 25%;}
+.nav-bootm > li { position: relative; float: left; display: inline-block; margin-left: 15px; width: 30%; text-align: center;}
+.nav-bootm > li > i{ display: inline-block; margin: 12px 0 10px; background-image: url(../images/nav-icon.png); background-repeat:no-repeat; width: 38px; height: 38px;}
+.nav-bootm > li > .nav-icon1{ background-position: left bottom;}
+.nav-bootm > li > .nav-icon2{ background-position: -163px bottom;}
+.nav-bootm > li > .nav-icon3{ background-position: -322px bottom;}
+
+.nav-bootm > .current-active > .nav-icon1{ background-position: left top;}
+.nav-bootm > .current-active > .nav-icon2{ background-position: -163px top;}
+.nav-bootm > .current-active > .nav-icon3{ background-position: -322px top;}
+.nav-bootm > li > a{ display: block;}
+.nav-bootm .mian-first { position: absolute; left: 20px; top: -30px; width: 20%;}
+.nav-bootm .mian-first a{ display: inline-block;}
+
+.nav-bootm > li > ul{position: absolute; right: 0; bottom: 70px; padding: 10px 0; border-radius: 5px;}
+.nav-bootm > li > ul > li > a{ padding:10px 36px 10px 100px; white-space: nowrap; background: url(../images/more-icon.png) 36px 12px no-repeat; color: white; font-size: 26px; line-height: 64px;}
+.nav-bootm > li > ul > li > .list2{background-position: 36px -112px;}
+.nav-bootm > li > ul > li > .list3{background-position: 36px -234px;}
+/*----------------------------Css Button---------------------------------*/
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-family: "microsoft yahei";
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.btn i{margin-right: 4px; vertical-align: middle;}
+
+.btn-lg {
+  padding: 16px 12px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 6px;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (min-device-pixel-ratio: 2) {
+.nav-bootm > li > i{ background-image: url(../images/nav-icon.png); background-size: 176px 53px;}
+
+}
+
+

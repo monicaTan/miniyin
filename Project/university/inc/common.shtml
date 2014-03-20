@@ -1,0 +1,16 @@
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="assets/bootstrap-3.0.0/dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="assets/css/bs-diff.css" rel="stylesheet" media="screen">
+	<link href="css/index.css" rel="stylesheet" media="screen">
+	<link href="css/5/color-template.css" rel="stylesheet" media="screen">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="assets/js/html5shiv/dist/html5shiv.js"></script>
+    <script src="assets/js/respond/respond.min.js"></script>
+
+    <link href="assets/js/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+    <link href="assets/js/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+    <script src="assets/js/respond/cross-domain/respond.proxy.js"></script>
+    <![endif]-->
+
