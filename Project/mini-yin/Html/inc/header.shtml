@@ -1,0 +1,22 @@
+<!-- header -->
+<header>
+ <div class="header-box">
+ 	<div class="head-img"><img src="../images/top-img-2x.jpg"></div>
+ 	<div class="shop-head">
+ 		<div class="shop-head-inner">
+ 			<div class="row-fluid">
+		 		<div class="span8">
+		 			<div class="row-fluid">
+		 				<div class="span5"><img class="img-polaroid face-img" src="../images/face-img.jpg"></div>
+		 				<div class="span7"><h2 class="shop-name">FACE&小铺</h2></div>
+		 			</div>
+		 		</div>
+		 		<div class="span4">
+		 			<button class="btn btn-large btn-danger btn-share0 pull-right"><i class="fa fa-share-square-o"></i> 分享给好友</button>
+		 		</div>
+		 	</div>
+ 		</div>
+ 	</div>
+ </div>
+</header>
+<!-- /header -->

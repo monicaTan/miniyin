@@ -1,0 +1,27 @@
+
+
+<footer>
+  <div class="footer-inner">
+    <div class="row-fluid">
+      <div class="span3"><a class="nav1" href="#"><img src="../images/main-index.png"></a></div>
+      <div class="span3">
+        <a class="nav2" href="#">成交记录</a>
+      </div>
+      <div class="span3"><a class="nav3" href="#">我的收益</a></div>
+      <div class="span3">
+        <div class="btn-group dropup">
+          <a href="#" class="btn btn-link dropdown-toggle nav4" data-toggle="dropdown" >更多</a>
+          <ul class="dropdown-menu pull-right">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+   
+<script src="assets/js/jquery-plugin/retina.js"></script>

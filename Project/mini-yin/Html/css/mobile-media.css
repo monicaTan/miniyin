@@ -1,0 +1,31 @@
+@media screen and (max-width: 640px) {
+	footer{width: 100%;}
+ 	.btn-share0{ padding: 14px 19px;}
+}
+
+@media screen and (max-width: 480px) {
+.shop-name{margin-top: 15px; font-size:18px; }
+.btn-share0{ font-size: 12px; padding: 8px 8px;}
+.shop-head{ bottom: -50px;}
+.shop-head-inner{padding: 0 10px 0 10px;}
+.wrap-inner{margin-top: 60px;}
+.module-title h3{ padding: 0 20px; font: 18px/40px "microsoft yahei";}
+.module-content p a{ font-size: 16px; line-height: 24px;}
+.suit-right .img-box{margin-bottom: 2px;}
+.mark-img{width: 70px;}
+.module-content p.price-box{margin-top: 2px;}
+.price-box,
+.price-box em{font-size: 16px;}
+.module-content{padding-bottom: 10px; margin-bottom: 10px;}
+.share-link{display: inline-block; float: right; width: 30px; height: 30px; line-height: 30px;}
+.share-link i{ margin-left: 2px; line-height: 30px; font-size: 16px;}
+.nav2,
+.nav3,
+.footer-inner .nav4{ padding: 30px 0 10px; font-size: 14px;}
+}
+
+@media screen and (max-width: 320px) {
+ .shop-name{ font-size:16px; }
+ .btn-share0{ margin-top: 40px; padding: 6px 8px;}
+ .shop-head{ bottom: -30px;}
+}
