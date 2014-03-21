@@ -6,9 +6,9 @@
 @media screen and (max-width: 480px) {
 .shop-name{margin-top: 15px; font-size:18px; }
 .btn-share0{ font-size: 12px; padding: 8px 8px;}
-.shop-head{ bottom: -50px;}
+.shop-head{ bottom: -36px;}
 .shop-head-inner{padding: 0 10px 0 10px;}
-.wrap-inner{margin-top: 60px;}
+.wrap-inner{margin-top: 50px; padding: 10px 5px;}
 .module-title h3{ padding: 0 20px; font: 18px/40px "microsoft yahei";}
 .module-content p a{ font-size: 16px; line-height: 24px;}
 .suit-right .img-box{margin-bottom: 2px;}
@@ -19,13 +19,30 @@
 .module-content{padding-bottom: 10px; margin-bottom: 10px;}
 .share-link{display: inline-block; float: right; width: 30px; height: 30px; line-height: 30px;}
 .share-link i{ margin-left: 2px; line-height: 30px; font-size: 16px;}
+.nav1{ left: 15px; top: -12px;}
+.nav1 img{ width: 58px;}
 .nav2,
 .nav3,
-.footer-inner .nav4{ padding: 30px 0 10px; font-size: 14px;}
+.footer-inner .nav4{ padding: 25px 0 0; font-size: 12px; background-size: 16px auto;}
+
+.nav2{background-position: center 6px;}
+.nav3{background-position: center -138px;}
+.footer-inner .nav4{background-position: center -273px;}
+
+.nav2.nav-current{background-position: center -65px;}
+.nav3.nav-current{background-position: center -209px;}
+.footer-inner .nav4.nav-current{background-position: center -345px;}
+.footer-inner .btn-group.open .btn.dropdown-toggle.nav2{ background-image: url(../images/nav-img.png); background-position: center -65px;}
+.footer-inner .btn-group.open .btn.dropdown-toggle.nav3{ background-image: url(../images/nav-img.png); background-position: center -209px;}
+.footer-inner .btn-group.open .btn.dropdown-toggle.nav4{ background-image: url(../images/nav-img.png); background-position: center -345px;}
+.footer-inner .dropdown-menu > li > a{ font-size: 12px;}
 }
 
 @media screen and (max-width: 320px) {
  .shop-name{ font-size:16px; }
  .btn-share0{ margin-top: 40px; padding: 6px 8px;}
  .shop-head{ bottom: -30px;}
+ .nav1{ left: 10px; bottom: -11px;}
+ .nav1 img{ width: 46px;}
+ 
 }

@@ -1,6 +1,5 @@
-body{ font-family: arial,"microsoft yahei";}
+body{ font-family: arial,"microsoft yahei"; background: #faf9f9;}
 .wrap{max-width: 640px; margin:0 auto;}
-.wrap-inner{margin-bottom: 100px;}
 
 /*-------------------------------Css Header-----------------------------------*/
 .header-box{position: relative;}
@@ -12,7 +11,7 @@ body{ font-family: arial,"microsoft yahei";}
 
 
 /*-------------------------------Wraper-inner-----------------------------------*/
-.wrap-inner{ padding: 20px 10px 20px; background: #faf9f9; margin-top: 70px; border-top: 1px solid #DDDDDD;}
+.wrap-inner{margin-bottom: 100px; padding: 20px 10px 20px; background: #faf9f9; margin-top: 70px; border-top: 1px solid #DDDDDD;}
 .module-content{padding-bottom: 20px; margin-bottom: 20px; width: 100%; border-bottom:1px solid #dddddd; font-family: "microsoft yahei";}
 .wrap-inner .module-ele:last-child .module-content{border:0;}
 .module-title h3{ padding: 0 20px; margin: 0 0 10px; font: 26px/60px "microsoft yahei";}
@@ -27,23 +26,30 @@ body{ font-family: arial,"microsoft yahei";}
 .img-posi{ position: relative; display: inline-block; width: 100%;}
 .mark-img{ position: absolute; left: 0; top: 0;}
 .price-box {font-size: 24px;}
-.price-box span{padding-right: 10px; color: #c3c6cb; text-decoration:line-through;}
+.price-box span{padding-right: 10px; text-decoration:line-through;}
 .price-box span:first-child{text-decoration: none;}
 .price-box em{ font: normal 24px/28px "microsoft yahei";}
 
 /*-------------------------------Css Footer-----------------------------------*/
 footer{ position: fixed; bottom:0; width: 640px;}
-.footer-inner{width: 100%; background-color: rgba(241, 240, 240, 0.9); border-top:1px solid #dddddd; text-align: center;}
-.nav1{position: relative; top: -30px;}
+.footer-inner{ position: relative; width: 100%; background-color: rgba(241, 240, 240, 0.9); border-top:1px solid #dddddd; text-align: center;}
+.nav1{position: absolute; left: 30px; top: -30px;}
 .nav2,
 .nav3,
-.footer-inner .nav4{ display: inline-block; padding: 60px 0 20px; font-size: 24px;}
-.footer-inner .nav2:focus,
-.footer-inner .nav3:focus,
-.footer-inner .nav4:focus{ color:#F86B9F;}
+.footer-inner .nav4{ display: inline-block; padding: 60px 0 20px; font-size: 24px; background-image: url(../images/nav-img.png); background-repeat: no-repeat;}
+
+.nav2{background-position: center 10px;}
+.nav3{background-position: center -350px;}
+.footer-inner .nav4{background-position: center -690px;}
+.nav2.nav-current{background-position: center -170px;}
+.nav3.nav-current{background-position: center -530px;}
+.footer-inner .nav4.nav-current{background-position: center -870px;}
+
 .footer-inner .nav4:focus{ box-shadow: none; background-color: transparent;}
 .footer-inner .btn-group.open .dropdown-toggle{ box-shadow: 0 0 0 rgba(0, 0, 0, 0.15) inset, 0 0 0 rgba(0, 0, 0, 0.05); background-color: transparent;}
 .footer-inner .btn-group.open .btn.dropdown-toggle{background-color: transparent;}
+.footer-inner .btn-group.open .btn.dropdown-toggle.nav4{ background-image: url(../images/nav-img.png); background-position: center -870px;}
+.footer-inner .dropdown-menu.pull-right{right: -15px; text-align: left; min-width: 80px;border:0;}
 /*-------------------------------Button Reset-----------------------------------*/
 .btn {
   font-family: arial,"microsoft yahei";
