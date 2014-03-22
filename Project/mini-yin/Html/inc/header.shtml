@@ -1,8 +1,12 @@
+<a class="top-link" href="#TOP">
+	<i class="fa fa-arrow-up"></i>
+</a>
+
 <!-- header -->
-<header>
+<header id="TOP">
  <div class="header-box">
  	<div class="head-img"><img src="../images/top-img-2x.jpg"></div>
- 	<div class="shop-head">
+ 	<div class="shop-head" id="head-menu">
  		<div class="shop-head-inner">
  			<div class="row-fluid">
 		 		<div class="span8">

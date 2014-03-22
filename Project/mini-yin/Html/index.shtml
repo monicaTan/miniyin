@@ -19,9 +19,9 @@
 	<div class="wrap-inner">
 		<div class="module module-ele">
             <div class="module-title">
-                <h3>银泰礼品卡</h3>
+                <h3>商品套装推荐</h3>
             </div>
-            <div class="module-content module-content-img">
+            <div class="module-content module-content-card">
                 <div class="img-box"><a href="#"><img src="../images/card.jpg" alt=""></a></div>
                 <p><a href="#">银泰礼品卡在线销售，史无前例的O2O行为，把握机会，不容错过！</a></p>
                 <div class="clearfix"><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
@@ -29,28 +29,53 @@
         </div>
         <div class="module module-ele">
             <div class="module-title">
-                <h3>银泰礼品卡</h3>
+                <h3>精品搭配推荐</h3>
             </div>
-            <div class="module-content module-content-card">
+            <div class="module-content module-content-img">
                 <div class="suit-box clearfix">
                     <div class="row-fluid">
-                    	<div class="span7">
+                    	<div class="span8">
                     		<div class="suit-left">
-		                    	<a class="img-box img-posi" href="#"><img src="../images/imgs-06.jpg" alt=""><img class="mark-img" src="../images/jingpin.png" alt=""></a>
+		                    	<a class="img-box img-posi" href="#"><img src="../images/suit-03.jpg" alt=""><img class="mark-img" src="../images/jingpin.png" alt=""></a>
 		                    </div>
                     	</div>
-	                    <div class="span5">
+	                    <div class="span4">
 	                    	<div class="suit-right">
-	                            <a class="img-box" href="#"><img src="../images/imgs-08.jpg" alt=""></a>
-	                            <a class="img-box" href="#"><img src="../images/imgs-11.jpg" alt=""></a>
-	                            <a class="img-box" href="#"><img src="../images/imgs-08.jpg" alt=""></a>
+	                            <a class="img-box" href="#"><img src="../images/suit-06.jpg" alt=""></a>
+	                            <a class="img-box" href="#"><img src="../images/suit-09.jpg" alt=""></a>
+	                            <a class="img-box" href="#"><img src="../images/suit-11.jpg" alt=""></a>
 	                    	</div>
 	                    </div>
                     </div>
                 </div>
                 
                 
-                <p><a href="#">银泰礼品卡在线销售，史无前例的O2O行为，把握机会，不容错过！</a></p>
+                <p><a href="#">短袖衬衫十分贴合的颈部和肩部裁剪，自胸线以下扩张的轮廓线，对腰部线条不做任何强调，会令人显得更为苗条。</a></p>
+                <div class="clearfix"><p class="pull-left price-box"><span>打包价：<em>&yen;368.00</em></span><span>吊牌价：&yen;368.00</span></p><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
+            </div>
+        </div>
+
+        <div class="module module-ele">
+            <div class="module-content module-content-img">
+                <div class="suit-box clearfix">
+                    <div class="row-fluid">
+                        <div class="span8">
+                            <div class="suit-left">
+                                <a class="img-box img-posi" href="#"><img src="../images/suit-03.jpg" alt=""><img class="mark-img" src="../images/jingpin.png" alt=""></a>
+                            </div>
+                        </div>
+                        <div class="span4">
+                            <div class="suit-right">
+                                <a class="img-box" href="#"><img src="../images/suit-06.jpg" alt=""></a>
+                                <a class="img-box" href="#"><img src="../images/suit-09.jpg" alt=""></a>
+                                <a class="img-box" href="#"><img src="../images/suit-11.jpg" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <p><a href="#">短袖衬衫十分贴合的颈部和肩部裁剪，自胸线以下扩张的轮廓线，对腰部线条不做任何强调，会令人显得更为苗条。</a></p>
                 <div class="clearfix"><p class="pull-left price-box"><span>打包价：<em>&yen;368.00</em></span><span>吊牌价：&yen;368.00</span></p><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
             </div>
         </div>
