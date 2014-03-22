@@ -19,9 +19,8 @@
 .nav2.nav-current,
 .nav3.nav-current,
 .footer-inner .nav4.nav-current{color:#f86b9f;}
-/*.footer-inner .nav2:focus,
-.footer-inner .nav3:focus,
-.footer-inner .nav4:focus{ color:#F86B9F;}*/
+
+.footer-inner .nav4:focus{ color:#F86B9F;}
 .footer-inner .dropdown-menu.pull-right{ background-color: rgba(248, 107, 159, 0.85);}
 .footer-inner .dropdown-menu > li > a{ color: #ffffff;}
 .footer-inner .dropdown-menu > li > a:hover,
