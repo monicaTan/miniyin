@@ -27,3 +27,52 @@
   margin-right: 10px;
   padding-right: 10px;
 }
+
+/*product exist html*/
+.p-list {
+     padding: 15px 0;
+     border-bottom: 1px solid #ccc;
+     float: left;
+     width: 100%;
+   }
+   .p-list-first {
+     padding-top: 0;
+   }
+   .p-list-last {
+     border-bottom: none;
+   }
+   .p-pic {
+     float: left;
+     border: 1px solid #ccc;
+     padding: 5px;
+   }
+   .p-info {
+    margin-left: 25px;
+    float: left;
+   }
+   .p-dp-price {
+     text-decoration:line-through;
+     font-size: 15px;
+     margin-left: 50px;
+   }
+   .p-price1 {
+    width: 100%;
+    margin-top: 20px;
+   }
+   .p-price1 div {
+    float: left;
+    color: #DBDDDE;
+    font-size: 17px;
+   }
+   .p-wx-price {
+     color: #F16498;
+   }
+   .buttons {
+     margin-top: 20px;
+   }
+   .buttons button {
+     width: 80px;
+   }
+   .button-select {
+     margin-left: 25px;
+   }
