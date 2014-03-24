@@ -5,7 +5,7 @@
     <div class="row-fluid">
       <div class="span3"><a class="nav1" href="#"><img src="../images/main-index.png"></a></div>
       <div class="span3">
-        <a class="nav2 nav--current" href="#">成交记录</a>
+        <a class="nav2 nav-current" href="#">成交记录</a>
       </div>
       <div class="span3"><a class="nav3" href="#">我的收益</a></div>
       <div class="span3">

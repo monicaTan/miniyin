@@ -1,7 +1,7 @@
 body{ font-family: arial,"microsoft yahei"; background: #faf9f9;}
-a.active,
-a.hover,
-a.focus{background-color: transparent; background-image: none;}
+a:active,
+a:hover,
+a:focus{ color: #f94688; text-decoration: none;}
 .wrap{max-width: 640px; margin:0 auto;}
 .top-link{ display: inline-block; padding: 8px; position: fixed; bottom: 80px; right: 10px;  width: 30px; height: 30px; text-align: center; line-height: 30px;font-size: 34px; color: #ffffff;background-color: #F16498; border-radius: 50%;}
 .top-link i{ line-height: 30px; }
