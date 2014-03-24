@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>商品上传</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+<link rel="stylesheet" type="text/css" href="css/template-color.css">
+<link rel="stylesheet" type="text/css" href="css/back-end.css">
+<link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+</head>
+<body>
+<a class="top-link" href="#TOP">
+    <i class="fa fa-arrow-up"></i>
+</a>
+<div class="wrap">
+
+	<div class="wrap-inner back-wrap-inner">
+		<div class="module module-bg-white2">
+            <div class="module-title2">
+                <div class="row-fluid">
+                    <div class="span6"><h3>上传图片</h3></div>
+                    <div class="span6">
+                        <div class="text-right"><a class="title-link" href="#">上传教程<i class="fa fa-angle-right"></i></a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="module-pull module-uploadimg">
+               <div class="row-fluid">
+                   <div class="span8">
+                       <div class="show-imgbox-no"><!-- 没有上传图片时class="show-imgbox-no" ;有上传后的图片时class="show-imgbox-yes" -->
+                           <img src="../images/upload-image.jpg" alt="img-name"><!-- 400px * 400px 没有上传图片时显示默认图片no-image.jpg-->
+                       </div>
+                   </div>
+                   <div class="span4"><a class="title-link" href="#"><i class="fa fa-hand-o-left"></i> 点击跟换图片</a></div>
+               </div>
+            </div>
+        </div>
+
+        <div class="module module-bg-white2">
+            <div class="form-box">
+                <form class="form-horizontal">
+                    <div class="inline-horizontal">
+                        <span class="help-inline"><abbr>*</abbr>品牌：</span>
+                        <select>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                        </select>
+                    </div>
+                    <div class="inline-horizontal">
+                        <span class="help-inline"><abbr>*</abbr>销售代码：</span>
+                        <select>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                        </select>
+                    </div>
+                    <div class="inline-horizontal">
+                        <span class="help-inline"><abbr>*</abbr>货号：</span>
+                        <input class="form-textframe" type="text">
+                    </div>
+                    <div class="inline-horizontal">
+                        <span class="help-inline"><abbr>*</abbr>吊牌价：</span>
+                        <input class="form-textframe" type="text">
+                    </div>
+                    <div class="inline-horizontal">
+                        <span class="help-inline"><abbr>*</abbr>微信价：</span>
+                        <input class="form-textframe" type="text">
+                    </div>
+                    <div class="inline-horizontal">
+                        <span class="help-inline"><abbr>*</abbr>分类：</span>
+                        <input class="form-textframe" type="text">
+                    </div>
+                    <div class="inline-horizontal">
+                        <span class="help-inline"><abbr>*</abbr>尺码：</span>
+                        <input class="form-textframe" type="text">
+                    </div>
+                    <div class="block-box">
+                        <button class="btn btn-danger btn-large btn-block">提 交</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+	</div>
+
+</div>
+
+</body>
+</html>

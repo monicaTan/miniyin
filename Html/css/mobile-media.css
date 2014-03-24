@@ -5,6 +5,8 @@
 
 @media screen and (max-width: 580px) {
 	/*---------------------------------Css Back-end-------------------------------------*/
+	.title-link{ font: 12px/40px "microsoft yahei";}
+	.title-link i{ margin-left: 5px; font-size: 14px;}
 	.mini-imgbox ul li img{ width: 92px;}
 	.module-pull{margin-top: 15px;}
 	.mini-imgbox {margin-top: 25px;}
@@ -13,6 +15,7 @@
 	.upload-img ul li{ margin-right: 5px;}
 	.upload-img ul li img{ width: 120px;}
 	.upload-img ul li i{ position: absolute;left: -6%; top: -8%;display: inline-block; width: 18px; height: 18px; background:url(../images/delate.png) center center no-repeat transparent; background-size: 18px auto;}
+	.form-box .btn-block{font-size: 20px; line-height: 30px;}
 }
 
 @media screen and (max-width: 480px) {
@@ -51,11 +54,12 @@
 .footer-inner .btn-group.open .btn.dropdown-toggle.nav3{ background-image: url(../images/nav-img.png); background-position: center -209px;}
 .footer-inner .btn-group.open .btn.dropdown-toggle.nav4{ background-image: url(../images/nav-img.png); background-position: center -432px;}
 .footer-inner .dropdown-menu > li > a{ font-size: 16px; background-image: url(../images/more.png); background-size: 20px auto;}
- .bottom-caret .caret{left: 74%;}
+.bottom-caret .caret{left: 60%;}
 
 /*---------------------------------Css Back-end-------------------------------------*/
 .back-wrap-inner{margin: 5px; padding: 0;}
 .module-bg-white{ padding:0px 5px 20px; background:white;}
+.module-bg-white2{ padding:10px 10px 10px;}
 .module-title2 h3{ font-size: 15px;}
 .title-link{ font: 12px/40px "microsoft yahei";}
 .title-link i{ margin-left: 5px; font-size: 14px;}
@@ -75,6 +79,11 @@
 .module-formbox input,
 .module-formbox .help-inlinetext {color: #c3c6cb; font-size: 12px; height: 20px; line-height: 20px;}
 .bottom-btnbox .btn{ font-size: 15px; margin-right: 10px; width: 126px;}
+.form-box form .help-inline{ width: 32%; font-size: 16px; line-height: 30px;}
+.form-box .form-textframe{ width: 60%;line-height: 30px; height: 30px;}
+.form-box form select{ width: 64%;line-height: 30px; height: 30px;}
+.block-box{margin-top: 20px;}
+.form-box .btn-block{font-size: 20px; line-height: 30px;}
 }
 
 @media screen and (max-width: 320px) {
@@ -85,5 +94,4 @@
  .nav1{ left: 20px; bottom: -15px;}
  .nav1 img{ width: 48px;}
 .footer-inner .dropdown-menu > li > a{ padding: 10px 24px 10px 50px; background-size: 20px auto;}
-
 }
