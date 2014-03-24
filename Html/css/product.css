@@ -32,7 +32,6 @@
 .p-list {
      padding: 15px 0;
      border-bottom: 1px solid #ccc;
-     float: left;
      width: 100%;
    }
    .p-list-first {
@@ -42,13 +41,11 @@
      border-bottom: none;
    }
    .p-pic {
-     float: left;
      border: 1px solid #ccc;
      padding: 5px;
    }
    .p-info {
     margin-left: 25px;
-    float: left;
    }
    .p-dp-price {
      text-decoration:line-through;
