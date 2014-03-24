@@ -89,8 +89,7 @@
             </div>
             <div class="module-formbox">
                     <form class="form-inline">
-                        <input type="text" class="input-small" placeholder="Email">
-                        <label class="">顾客姓名或昵称</label>
+                        <input type="text" class="input-small"><span class="help-inline help-inlinetext">顾客姓名或昵称</span>
                     </form>
             </div>
         </div>

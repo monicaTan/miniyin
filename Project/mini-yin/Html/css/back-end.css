@@ -38,7 +38,7 @@
 .module-formbox form{margin-bottom:0; }
 .module-formbox input{width:60%; margin-right: 10px;}
 .module-formbox input,
-.module-formbox label {color: #c3c6cb; font-size: 21px; height: 34px; line-height: 34px;}
+.module-formbox  .help-inlinetext {color: #c3c6cb; font-size: 21px; height: 34px; line-height: 34px;}
 
 .bottom-btnbox{ padding: 20px 0; background-color: #f2f1f1; text-align: center; border: 1px solid #eeeeee; border-left: 0; border-right: 0;}
 .bottom-btnbox .btn{ font-size: 24px; margin-right: 20px; width: 208px;}

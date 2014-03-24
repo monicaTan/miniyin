@@ -73,7 +73,7 @@
 .goods-describe textarea{font: 14px/20px "microsoft yahei";}
 .module-formbox{margin-top:0px; }
 .module-formbox input,
-.module-formbox label {color: #c3c6cb; font-size: 12px; height: 20px; line-height: 20px;}
+.module-formbox .help-inlinetext {color: #c3c6cb; font-size: 12px; height: 20px; line-height: 20px;}
 .bottom-btnbox .btn{ font-size: 15px; margin-right: 10px; width: 126px;}
 }
 
