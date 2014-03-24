@@ -1,0 +1,29 @@
+.p-detail {
+  margin: 10px 20px 10px;
+}
+.p-title {
+  color: #5E5E5E;
+}
+.p-price {
+  margin-top: 5px;
+}
+.wx-price {
+  float: left;
+}
+.wx-price h4 {
+  color: #DBDDDE;
+  font-weight: lighter;
+}
+.wx-price h4 span {
+  color: #F16498;
+}
+.wx-price h5 {
+  color: #DBDDDE;
+  text-decoration:line-through;
+  font-weight: normal;
+}
+.p-dapei {
+  float: right;
+  margin-right: 10px;
+  padding-right: 10px;
+}
