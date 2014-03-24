@@ -39,19 +39,25 @@
 .module-formbox form{margin-bottom:0; }
 .module-formbox input{width:60%; margin-right: 10px;}
 .module-formbox input,
-.module-formbox  .help-inlinetext {color: #c3c6cb; font-size: 21px; height: 34px; line-height: 34px;}
+.module-formbox .help-inlinetext { font-size: 21px; height: 34px; line-height: 34px;}
 .module-uploadimg{position: relative;}
-.module-uploadimg .title-link{position: absolute; bottom: 2%; color: #dadada; white-space: nowrap;}
+.module-uploadimg .title-link{position: absolute; bottom: 2%; white-space: nowrap;}
 
 
 
 
-/*-------------------------------Css Bootm---------------------------------*/
+/*-------------------------------Css Bootm btn---------------------------------*/
 .bottom-btnbox{ padding: 20px 0; background-color: #f2f1f1; text-align: center; border: 1px solid #eeeeee; border-left: 0; border-right: 0;}
 .bottom-btnbox .btn{ font-size: 24px; margin-right: 20px; width: 208px;}
 .bottom-btnbox .btn:last-child{ margin-right: 0;}
 .bottom-btnbox .btn i{ margin-right: 10px;}
 .bottom-btnbox form{margin: 0;}
 
-
-
+/*-------------------------------Css Search result---------------------------------*/
+.module-search-ele{padding: 10px 10px 0;}
+.goods-box{margin-bottom: 10px; position: relative; border:1px solid #eeeeee;}
+.goods-box > a{position: relative; display:block;}
+.goods-box .goods-text { padding: 10px;}
+.goods-box .goods-text a{ display: inline-block; margin-bottom: 10px; font-size: 21px; line-height: 30px;}
+.goods-price{ position: absolute; bottom: 0; left: 0; width: 100%; color: white; line-height: 40px; font-size: 24px; text-indent: 10px; background-color: rgba(202, 200, 201, 0.80);}
+.goods-text .btn {font-size: 21px;}
