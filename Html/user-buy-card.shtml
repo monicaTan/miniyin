@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>商品搭配导购</title>
+  <title>购买礼品卡</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
   <!--#include file="inc/common.shtml"-->
@@ -15,13 +15,44 @@
 <body>
   <div class="wrap">
     <div class="wrap-content">
-      <div class="module module-">
-        <div class="row-fluid">
-          <div class="span12">
+      <div class="module module-white">
 
-            
+        <div class="module-form form-padding">
+          <form class="form-horizontal ">
+            <div class="control-group">
+              请选择购卡金额
+            </div>
+            <div class="control-group">
+              <label for="money_100"><input id="money_100" name="money" type="radio" value="100" class="valid">100元（售价100.00元）</label>
+            </div>
+            <div class="control-group">
+              <label for="money_200"><input id="money_200" name="money" type="radio" value="200" class="valid">200元（售价196.00元）</label>
+            </div>
+            <div class="control-group">
+              <label for="money_500"><input id="money_500" name="money" type="radio" value="500" class="valid">500元（售价485.00元）</label>
+            </div>
+            <div class="control-group">
+              <label for="money_1000"><input id="money_1000" name="money" type="radio" value="1000" class="valid">1000元（售价960.00元）</label>
+            </div>
+            <div class="control-group">
+              <label for="is_accept"><input id="is_accept" name="is_accept" type="checkbox" value="1" class="valid">我已阅读并同意《银泰礼品卡服务协议》</label>
+            </div>
+            <div class="module-btn text-center">
+              <button class="btn btn-large btn-danger btn-block">确认购买</button>
+            </div>
+
+          </form>
+          <div class="module module-notice">
+            <h4><i class="fa fa-exclamation-circle"></i> 温馨提示</h4>
+            <ol>
+              <li>礼品卡已经购买，暂不支持退货、退款。</li>
+              <li>购买成功后，您可以选择转送朋友或自己充值。</li>
+              <li>充值成功后，礼品卡支持线下任何一家银泰实体门店支付。</li>
+            </ol>
           </div>
-        </div>       
+
+        </div>
+
       </div>  
 
     </div>
