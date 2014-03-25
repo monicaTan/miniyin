@@ -6,10 +6,11 @@
 	<title>已拍产品</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-    <link href="font-awesome-4.0.1/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
-    <link rel="stylesheet" type="text/css" href="css/back-end.css">
+    <!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+<link rel="stylesheet" type="text/css" href="css/back-end.css">
+<link rel="stylesheet" type="text/css" href="css/template-color.css">
+<link rel="stylesheet" type="text/css" href="css/mobile-media.css">
 </head>
 <body>
 <div class="wrap">
@@ -28,8 +29,8 @@
                 </h3>
               </div>
               <div class="p-price1 clearfix">
-                <div>微信价：<span class="p-wx-price">￥180.00</span></div>
-                <div><span class="p-dp-price">吊牌价：￥380.00</span></div>
+                <span class="txt4">微信价：<em>￥180.00</em></span>
+                <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
                 <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
@@ -53,8 +54,8 @@
                 </h3>
               </div>
               <div class="p-price1 clearfix">
-                <div>微信价：<span class="p-wx-price">￥180.00</span></div>
-                <div><span class="p-dp-price">吊牌价：￥380.00</span></div>
+                <span class="txt4">微信价：<em>￥180.00</em></span>
+                <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
                 <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
@@ -78,8 +79,8 @@
                 </h3>
               </div>
               <div class="p-price1 clearfix">
-                <div>微信价：<span class="p-wx-price">￥180.00</span></div>
-                <div><span class="p-dp-price">吊牌价：￥380.00</span></div>
+                <span class="txt4">微信价：<em>￥180.00</em></span>
+                <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
                 <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
