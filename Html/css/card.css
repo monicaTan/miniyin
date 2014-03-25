@@ -7,6 +7,10 @@
 .module-set-password input,
 .module-set-password .h4-txt{ margin-top: 0; color: #b7bbc2}
 
+/*..........绑卡.........*/
+.ol-list li{ color: #c3c6cb; list-style-position: inherit; line-height: 36px;}
+
+
 
 /*..........购卡成功.........*/
 .module-white{background: white;}
@@ -21,6 +25,7 @@
 .module-notice {margin: 40px 0 60px;}
 .module-notice h4{color: #abadb3;}
 .module-notice ol{list-style-position: inside; margin: 0;}
+.ol-list{ margin-bottom: 80px;}
 .module-notice ol li{margin-bottom: 15px; font-size: 22px; line-height: 30px; color: #abadb3;}
 
 
@@ -43,6 +48,8 @@
 .module-form input{ height: 40px; line-height: 40px; font-size: 15px;}
 .module-form .control-group{ margin-bottom: 10px;}
 .module-form .btn-block{ font-size: 16px; line-height: 20px; border-radius: 2px;}
+.ol-list{ margin-bottom: 30px;}
+.ol-list li{ line-height: 20px;}
 }
 
 @media screen and (max-width: 480px) {
@@ -51,38 +58,6 @@
 @media screen and (max-width: 320px) {
 }
 
-
-
-#bind_card_form{
-  margin: 20px 0 25px 0;
-}
-
-#bind_card_form .input-full {
-  color: #C3C6CB;
-  font-weight: bold;
-  font-size: 28px;
-  height: 80px;
-  line-height: 80px;
-  border-color: #e3e4e8;
-}
-
-#bind_card{
-  min-height: 100px;
-  padding-bottom: 368px;
-  margin-top: 15px;
-}
-
-#bind_card ul li{
-  font-size: 20px;
-  color: #c3c6cb;
-  margin-bottom: 20px;
-}
-
-#bind_card .btn{
-  height: 85px;
-  color: #ffffff;
-  font-size: 28px;
-}
 
 
 
