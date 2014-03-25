@@ -19,6 +19,16 @@
 <div class="wrap">
 
 	<div class="wrap-inner back-wrap-inner">
+        <div class="module module-searchinput">
+            <div class="row-fluid">
+                <div class="span12">
+                    <form class="form-inline">
+                        <input type="text" class="input-small bg-img" placeholder="搜索宝贝">
+                        <button type="submit" class="btn">搜 索</button>
+                    </form>
+                </div>
+            </div>
+        </div>
         <div class="module module-search-ele">
             <div class="module-title">
                 <div class="row-fluid">

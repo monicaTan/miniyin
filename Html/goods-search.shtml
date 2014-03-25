@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>商品搜索</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+<link rel="stylesheet" type="text/css" href="css/back-end.css">
+<link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+<link rel="stylesheet" type="text/css" href="css/template-color.css">
+</head>
+<body>
+<a class="top-link" href="#TOP">
+    <i class="fa fa-arrow-up"></i>
+</a>
+<div class="wrap">
+
+	<div class="wrap-inner back-wrap-inner">
+        <div class="module module-searchinput">
+            <div class="row-fluid">
+                <div class="span12">
+                    <form class="form-inline">
+                        <input type="text" class="input-small bg-img" placeholder="搜索宝贝">
+                        <button type="submit" class="btn">搜 索</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="module-tab">
+            <div class="tabbable"> <!-- Only required for left/right tabs -->
+                <ul class="nav nav-tabs">
+                    <li class="active"><a href="#tab1" data-toggle="tab">价格</a></li>
+                    <li><a href="#tab2" data-toggle="tab">折扣</a></li>
+                    <li><a href="#tab3" data-toggle="tab">品牌</a></li>
+                    <li><a href="#tab4" data-toggle="tab">关键字</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane active" id="tab1">
+                        <div class="search-condition">
+                            <a href="#">100元以内</a>
+                            <a href="#">100元</a>
+                            <a href="#">100元~200元</a>
+                            <a href="#">200元~300元</a>
+                            <a href="#">400元~500元</a>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab2">
+                         <div class="search-condition">
+                            <a href="#">50%</a>
+                            <a href="#">30%</a>
+                            <a href="#">40%</a>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab3">
+                        <div class="search-condition">
+                            <a href="#">裂帛</a>
+                            <a href="#">阿依莲</a>
+                            <a href="#">淑女屋</a>
+                            <a href="#">太平鸟</a>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab4">
+                         <div class="search-condition">
+                            <a href="#">衣服</a>
+                            <a href="#">鞋子</a>
+                            <a href="#">连衣裙</a>
+                            <a href="#">牛仔裤</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+	</div>
+
+</div>
+
+</body>
+</html>
