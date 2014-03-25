@@ -15,7 +15,7 @@
 <body>
 <div class="wrap">
 	<div class="wrap-inner back-wrap-inner">
-		<div class="module">
+		<div class="module module-">
       <div class="row-fluid">
         <div class="span6">..</div>
         <div class="span6">..</div>
