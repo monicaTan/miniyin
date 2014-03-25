@@ -5,6 +5,20 @@
 
 
 
+/*..........购卡成功.........*/
+.module-white{background: white;}
+
+.module-user-card{ padding: 20px;}
+.module-user-card h1{ margin: 20px 0; padding-left:74px; background: url(../images/smail.png) left center no-repeat; line-height: 64px; }
+.module-table-box{margin-bottom: 80px;}
+.module-table-box table tr td{ font-size: 30px; line-height: 50px;}
+.module-table-box table,
+.module-table-box table tr td{ border-color: #abadb3;}
+.module-btn .btn{ padding: 28px 74px; margin-right: 20px; font-size: 30px;}
+.module-notice {margin: 40px 0 60px;}
+.module-notice h4{color: #abadb3;}
+.module-notice ol{list-style-position: inside; margin: 0;}
+.module-notice ol li{margin-bottom: 15px; font-size: 22px; line-height: 30px; color: #abadb3;}
 
 
 
@@ -15,6 +29,14 @@
 }
 
 @media screen and (max-width: 580px) {
+/*..........购卡成功.........*/
+.module-user-card{padding: 10px;}
+.module-user-card h1{ padding-left:40px; background-size: 30px auto; line-height: 30px; }
+.module-table-box{margin-bottom: 40px;}
+.module-table-box table tr td{ font-size: 16px; line-height: 26px;}
+.module-notice {margin: 20px 0 40px;}
+.module-btn .btn{padding: 8px 30px; margin-right: 10px; font-size: 16px; border-radius: 2px;}
+.module-notice ol li{margin-bottom: 5px; font-size: 13px; line-height: 20px; color: #abadb3;}
 }
 
 @media screen and (max-width: 480px) {
@@ -22,6 +44,7 @@
 
 @media screen and (max-width: 320px) {
 }
+
 
 
 
