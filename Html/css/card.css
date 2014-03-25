@@ -25,9 +25,36 @@
 /*..........购卡成功.........*/
 .module-user-card{padding: 5px;}
 
+#bind_card_form{
+  margin: 20px 0 25px 0;
+}
 
+#bind_card_form .input-full {
+  color: #C3C6CB;
+  font-weight: bold;
+  font-size: 28px;
+  height: 80px;
+  line-height: 80px;
+  border-color: #e3e4e8;
+}
 
+#bind_card{
+  min-height: 100px;
+  padding-bottom: 368px;
+  margin-top: 15px;
+}
 
+#bind_card ul li{
+  font-size: 20px;
+  color: #c3c6cb;
+  margin-bottom: 20px;
+}
+
+#bind_card .btn{
+  height: 85px;
+  color: #ffffff;
+  font-size: 28px;
+}
 
 
 
