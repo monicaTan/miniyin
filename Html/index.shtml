@@ -17,7 +17,7 @@
 <!--#include file="inc/header.shtml"-->
 
 	<div class="wrap-inner">
-		<div class="module module-ele">
+		<div class="module">
             <div class="module-title">
                 <h3>商品套装推荐</h3>
             </div>
