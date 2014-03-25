@@ -1,8 +1,11 @@
 /*----------------------------Common Css------------------------------*/
-.form-padding {
-  padding: 30px;
-}
-
+/*..........设置支付密码.........*/
+.form-padding { padding: 30px;}
+.module-form input{ height: 60px; line-height: 60px; font-size: 22px;}
+.module-form .btn-block{ font-size: 24px; line-height: 56px;}
+.module-set-password input{font-family: "microsoft yahei";}
+.module-set-password input,
+.module-set-password .h4-txt{color: #b7bbc2}
 
 
 /*..........购卡成功.........*/
@@ -37,6 +40,9 @@
 .module-notice {margin: 20px 0 40px;}
 .module-btn .btn{padding: 8px 30px; margin-right: 10px; font-size: 16px; border-radius: 2px;}
 .module-notice ol li{margin-bottom: 5px; font-size: 13px; line-height: 20px; color: #abadb3;}
+.module-form input{ height: 40px; line-height: 40px; font-size: 15px;}
+.module-form .control-group{ margin-bottom: 10px;}
+.module-form .btn-block{ font-size: 14px; line-height: 20px; border-radius: 2px;}
 }
 
 @media screen and (max-width: 480px) {
