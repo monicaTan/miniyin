@@ -29,8 +29,8 @@
                 </h3>
               </div>
               <div class="p-price1 clearfix">
-                <div>微信价：<span class="p-wx-price">￥180.00</span></div>
-                <div><span class="p-dp-price">吊牌价：￥380.00</span></div>
+                <span class="txt4">微信价：<em>￥180.00</em></span>
+                <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
                 <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
@@ -54,8 +54,8 @@
                 </h3>
               </div>
               <div class="p-price1 clearfix">
-                <div>微信价：<span class="p-wx-price">￥180.00</span></div>
-                <div><span class="p-dp-price">吊牌价：￥380.00</span></div>
+                <span class="txt4">微信价：<em>￥180.00</em></span>
+                <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
                 <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
@@ -79,8 +79,8 @@
                 </h3>
               </div>
               <div class="p-price1 clearfix">
-                <div>微信价：<span class="p-wx-price">￥180.00</span></div>
-                <div><span class="p-dp-price">吊牌价：￥380.00</span></div>
+                <span class="txt4">微信价：<em>￥180.00</em></span>
+                <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
                 <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
