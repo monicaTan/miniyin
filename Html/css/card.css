@@ -5,7 +5,7 @@
 .module-form .btn-block{ font-size: 24px; line-height: 56px;}
 .module-set-password input{font-family: "microsoft yahei";}
 .module-set-password input,
-.module-set-password .h4-txt{color: #b7bbc2}
+.module-set-password .h4-txt{ margin-top: 0; color: #b7bbc2}
 
 
 /*..........购卡成功.........*/
@@ -42,7 +42,7 @@
 .module-notice ol li{margin-bottom: 5px; font-size: 13px; line-height: 20px; color: #abadb3;}
 .module-form input{ height: 40px; line-height: 40px; font-size: 15px;}
 .module-form .control-group{ margin-bottom: 10px;}
-.module-form .btn-block{ font-size: 14px; line-height: 20px; border-radius: 2px;}
+.module-form .btn-block{ font-size: 16px; line-height: 20px; border-radius: 2px;}
 }
 
 @media screen and (max-width: 480px) {
