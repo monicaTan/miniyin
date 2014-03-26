@@ -78,7 +78,7 @@
 .module-notice ol li{margin-bottom: 5px; font-size: 13px; line-height: 20px; color: #abadb3;}
 .module-form input[type="text"]{ height: 40px; line-height: 40px; font-size: 15px;}
 .module-form .control-group{ margin-bottom: 10px;}
-.module-form .btn-block{ font-size: 16px; line-height: 20px; border-radius: 2px;}
+.module-form .btn-block{ font-size: 16px; line-height: 30px; border-radius: 2px;}
 
 .form-padding { padding: 10px;}
 .ol-list{ margin-bottom: 30px;}
