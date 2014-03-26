@@ -23,11 +23,11 @@
     </div> 
     <div class="module module-form module-remaining">
       <button type="submit" class="btn btn-large btn-block btn-danger">我要购卡</button>
-      <h1 class="text-center">您还未绑定银泰礼品卡？<a href="#">我要绑卡</a></h1>
+      <h1 class="text-center no-bingding">您还未绑定银泰礼品卡？<a href="#">我要绑卡</a></h1>
     </div> 
     <div class="module-user-change">
       <ul class="txt1">
-        <li><a class="clearfix" href="#"><span>交易记录</span><i class="fa fa-angle-right"></i></a></li>
+        <li><a class="clearfix popup-menu3" href="#"><span>交易记录</span><i class="fa fa-angle-right"></i></a></li>
       </ul>
     </div>
   </div>
