@@ -19,7 +19,19 @@
 		<div class="module module-color-white clearfix">
       <div class="row-fluid">
         <div class="span12">
-          <img src="images/img640.jpg">
+            <div id="myCarousel" class="carousel slide">
+              <ol class="carousel-indicators">
+                <li class="active"></li>
+                <li></li>
+                <li></li>
+              </ol>
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="../images/img640.jpg"></div>
+                <div class="item"><img src="../images/img640.jpg"></div>
+                <div class="item"><img src="../images/img640.jpg"></div>
+              </div>
+            </div>
             <div class="p-title">
               <h4>欧美范套装 简简单单的色彩 上面没有一丝累赘设计，干净利落非常精神</h4>
               <div class="p-price1 clearfix">
