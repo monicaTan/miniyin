@@ -15,7 +15,7 @@
 <body>
 <div class="wrap">
 	<div class="wrap-inner back-wrap-inner">
-		<div class="module module-bg-white">
+		<div class="module module-white">
            <div class="row-fluid">
             <div class="span12">
                 <img src="images/product-detail.jpg" alt="">
@@ -24,21 +24,27 @@
             <div class="row-fluid">
                 <div class="span12">
                   <div class="p-detail">
-                  <div class="p-title">
-                    <h4>
+                  <div>
+                    <h2>
                         男士专用运动鞋男士专用运动鞋男士专用运动鞋
-                    </h4>
-                  </div>
-                  <div class="p-price clearfix">
-                     <div class="wx-price">
-                        <div><h4>微信价：<span>￥380.00</span></h4></div> 
-                        <div><h5>吊牌价：￥180.00</h5></div>
-                     </div> 
-                     <div class="p-dapei">
-                       <a href="">
-                        <button class="btn btn-large btn-danger">选择搭配</button>
-                       </a>
-                     </div>
+                    </h2>
+                    <div class="p-price clearfix">
+                      <div class="row-fluid">
+                        <div class="span6">
+                          <div class="wx-price">
+                            <div class="txt3">微信价：<span>￥380.00</span></div>
+                            <div class="txt5">吊牌价：￥180.00</div>
+                          </div>
+                        </div>
+                        <div class="span6">
+                          <div class="p-dapei">
+                            <a href="">
+                              <button class="btn btn-danger txt4">选择搭配</button>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
                 </div>
