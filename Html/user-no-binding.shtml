@@ -27,7 +27,7 @@
     </div> 
     <div class="module-user-change">
       <ul class="txt1">
-        <li><a class="clearfix" href="#"><i class="fa fa-book"></i> <span>交易记录</span><i class="fa fa-angle-right"></i></a></li>
+        <li><a class="clearfix" href="#"><span>交易记录</span><i class="fa fa-angle-right"></i></a></li>
       </ul>
     </div>
   </div>
