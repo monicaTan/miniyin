@@ -13,33 +13,31 @@
     <link rel="stylesheet" type="text/css" href="css/template-color.css">
 </head>
 <body>
-  <style type="text/css">
-   .module-white {
-     background: white;
-   }
-   .verify-code-txt {
-     text-align: center;
-     color: #676767;
-   }
-
-   .verify-code-txt p:last-child span {
-     color: #f16498; 
-   }
-  </style>
 <div class="wrap">
-	<div class="wrap-content">
+  <div class="wrap-content">
 		<div class="module module-white">
       <div class="row-fluid">
         <div class="span12">
-          <div class='verify-code-txt'>
-             <p><h1>我们已发送验证码短信到这个号码</h1></p>
-             <p><h1>187<span>****</span>1111</h1></p>
+          <div class="verify-code">
+            <div class='verify-code-txt'>
+               <h2>我们已发送验证码短信到这个号码</h2>
+               <h2>187<span>****</span>1111</h2>
+            </div>
+              <form class="verify-form form-horizontal">
+                <div>
+                  <input type='text' placeholder="请填写验证码" class="input-verify-code">
+                 <button class='btn btn-large btn-danger'>接收短信大约需要60秒</button>
+                </div>
+                <div>
+                  <button class="btn btn-large btn-danger sub-btn">下一步</button>
+                </div>
+              </form>
           </div>
+
         </div>
       </div>       
     </div>  
-    
-  </div>
+  </div>  
 </div>
 
 </body>
