@@ -21,7 +21,7 @@
 
   <div class="wrap-inner back-wrap-inner">
 
-    <div class="module module-white">
+    <div class="module module-white min-height">
 
       <div class="module-form module-set-password form-padding">
         <form class="form-horizontal ">
