@@ -159,7 +159,7 @@ h6 small {font-size: 10px; line-height: 16px;}
   h1 {font-size: 16px; line-height: 24px;}
   h2 {font-size: 15px; line-height: 22px;}
   h3 {font-size: 14px; line-height: 20px;}
-  h4 {font-size: 12px; line-height: 18px;}
+  h4 {font-size: 13px; line-height: 18px;}/**/
   h5,
   h6{font-size: 12px; line-height: 18px;}
 
@@ -175,8 +175,10 @@ h6 small {font-size: 10px; line-height: 16px;}
   .txt1 {font-size: 16px; line-height: 24px;}
   .txt2 {font-size: 15px; line-height: 22px;}
   .txt3 {font-size: 14px; line-height: 20px;}
-  .txt4 {font-size: 12px; line-height: 124px;}
+  .txt4 {font-size: 13px; line-height: 24px;}/**/
   .txt5 {font-size: 12px; line-height: 18px;}
+
+  .btn{border-radius: 2px;}
 }
 
 

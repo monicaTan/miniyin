@@ -18,28 +18,32 @@
       <div class="module module-white">
 
         <div class="module-form form-padding">
-          <form class="form-horizontal ">
-            <div class="control-group">
-              请选择购卡金额
-            </div>
-            <div class="control-group">
-              <label for="money_100"><input id="money_100" name="money" type="radio" value="100" class="valid">100元（售价100.00元）</label>
-            </div>
-            <div class="control-group">
-              <label for="money_200"><input id="money_200" name="money" type="radio" value="200" class="valid">200元（售价196.00元）</label>
-            </div>
-            <div class="control-group">
-              <label for="money_500"><input id="money_500" name="money" type="radio" value="500" class="valid">500元（售价485.00元）</label>
-            </div>
-            <div class="control-group">
-              <label for="money_1000"><input id="money_1000" name="money" type="radio" value="1000" class="valid">1000元（售价960.00元）</label>
-            </div>
-            <div class="control-group">
-              <label for="is_accept"><input id="is_accept" name="is_accept" type="checkbox" value="1" class="valid">我已阅读并同意《银泰礼品卡服务协议》</label>
-            </div>
-            <div class="module-btn text-center">
-              <button class="btn btn-large btn-danger btn-block">确认购买</button>
-            </div>
+          <form class="form-block-label">
+            <div class="form-label">
+              <span class="txt1">请选择购卡金额</span>
+              <label class="radio" class="radio" for="money_100">
+              <input id="money_100" name="money" type="radio" value="100" class="valid">100元（售价100.00元）
+              </label> 
+
+              <label class="radio" for="money_200">
+              <input id="money_200" name="money" type="radio" value="200" class="valid">200元（售价196.00元）
+              </label>  
+
+              <label class="radio" for="money_500">
+              <input id="money_500" name="money" type="radio" value="500" class="valid">500元（售价485.00元）
+              </label>   
+
+              <label class="radio" for="money_1000">
+              <input id="money_1000" name="money" type="radio" value="1000" class="valid">1000元（售价960.00元）
+              </label> 
+
+              <label class="checkbox" for="is_accept">
+              <input id="is_accept" name="is_accept" type="checkbox" value="1" class="valid"><a href="#">我已阅读并同意《银泰礼品卡服务协议》</a>
+              </label>
+            </div> 
+              <div class="module-btn text-center">
+                <button class="btn btn-large btn-danger btn-block">确认购买</button>
+              </div>
 
           </form>
           <div class="module module-notice">
