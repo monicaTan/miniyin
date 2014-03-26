@@ -110,6 +110,11 @@
 .module-search-ele{padding: 0;}
 .goods-text .btn {padding: 0;}
 
+/*------------------------弹出选择---------------------------*/
+.popup-menu{padding: 20px;}
+.popup-menu > a{margin-bottom: 10px;}
+.popup-menu > a,
+.popup-menu > .btn{ padding: 10px 0; }
 
 }
 
