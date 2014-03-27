@@ -33,8 +33,8 @@
                 <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
-                <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
-                <a href=""><button class="btn btn-middle btn-danger button-select">选 择</button></a>
+                <a href=""><button class="btn btn-mini btn-danger">编 辑</button></a>
+                <a href=""><button class="btn btn-mini btn-danger button-select">选 择</button></a>
               </div>
              </div>
            </div>
@@ -58,8 +58,8 @@
                 <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
-                <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
-                <a href=""><button class="btn btn-middle btn-danger button-select">选 择</button></a>
+                <a href=""><button class="btn btn-mini btn-danger">编 辑</button></a>
+                <a href=""><button class="btn btn-mini btn-danger button-select">选 择</button></a>
               </div>
              </div>
            </div>
@@ -83,8 +83,8 @@
                 <span class="txt6"><em>吊牌价：￥380.00</em></span>
               </div>
               <div class="buttons">
-                <a href=""><button class="btn btn-middle btn-danger">编 辑</button></a>
-                <a href=""><button class="btn btn-middle btn-danger button-select">选 择</button></a>
+                <a href=""><button class="btn btn-mini btn-danger">编 辑</button></a>
+                <a href=""><button class="btn btn-mini btn-danger button-select">选 择</button></a>
               </div>
              </div>
            </div>

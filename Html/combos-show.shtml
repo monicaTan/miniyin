@@ -48,21 +48,21 @@
           <div class="combos-product">
             <img src="images/no-image.jpg">
             <p><span class="txt3">￥368.00</span></p>
-            <a href="" class="btn btn-danger btn-block txt4">点击购买</a>
+            <a href="" class="btn btn-danger btn-mini btn-block">点击购买</a>
           </div>
         </div>
         <div class="span4">
           <div class="combos-product">
             <img src="images/no-image.jpg">
             <p><span class="txt3">￥368.00</span></p>
-            <a href="" class="btn btn-danger btn-block txt4">点击购买</a>
+            <a href="" class="btn btn-danger btn-mini btn-block">点击购买</a>
           </div>
         </div>
         <div class="span4">
           <div class="combos-product">
             <img src="images/no-image.jpg">
             <p><span class="txt3">￥368.00</span></p>
-            <a href="" class="btn btn-danger btn-block txt4">点击购买</a>
+            <a href="" class="btn btn-danger btn-mini btn-block">点击购买</a>
           </div>
         </div>
       </div>
@@ -70,8 +70,8 @@
 
     <div class="bottom-btnbox">
         <form class="form-inline">
-            <button class="btn btn-large btn-danger"><i class="fa fa-eye"></i>预 览</button>
-            <button class="btn btn-large btn-danger"><i class="fa fa-upload"></i>提交发布</button>
+            <button class="btn btn-small btn-danger"><i class="fa fa-share-square-o"></i>分享给好友</button>
+            <button class="btn btn-small btn-danger"><i class="fa fa-pencil-square-o"></i>编 辑</button>
         </form>
     </div>
     

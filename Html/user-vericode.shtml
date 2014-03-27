@@ -16,26 +16,23 @@
 <div class="wrap">
   <div class="wrap-content">
 		<div class="module module-white">
-      <div class="row-fluid">
-        <div class="span12">
-          <div class="verify-code">
-            <div class='verify-code-txt'>
-               <h2>我们已发送验证码短信到这个号码</h2>
-               <h2>187<span>****</span>1111</h2>
-            </div>
-              <form class="verify-form form-horizontal">
-                <div>
-                  <input type='text' placeholder="请填写验证码" class="input-verify-code">
-                 <button class='btn btn-large btn-danger'>接收短信大约需要60秒</button>
-                </div>
-                <div>
-                  <button class="btn btn-large btn-danger sub-btn">下一步</button>
-                </div>
-              </form>
-          </div>
-
+      <div class="verify-code">
+        <div class='verify-code-txt'>
+           <h2>我们已发送验证码短信到这个号码</h2>
+           <h2>187<span>****</span>1111</h2>
         </div>
-      </div>       
+          <form class="form-inline verify-form1">
+            <input class="input-small" type="text" placeholder="Email">
+            <button class="btn btn-small btn-danger" type="submit">接收短信大约需要60秒</button>
+          </form>
+          <form class="verify-form form-horizontal">
+            <div class="verify-input-box">
+              <input type='text' placeholder="请填写验证码" class="input-verify-code">
+             <button class='btn btn-small btn-danger'>接收短信大约需要60秒</button>
+            </div>
+            <button class="btn btn-large btn-danger btn-block">下一步</button>
+          </form>
+      </div>
     </div>  
   </div>  
 </div>
