@@ -100,11 +100,13 @@
                 <button class="btn btn-large btn-danger"><i class="fa fa-upload"></i>提交发布</button>
             </form>
         </div>
-        <div class="popup-menu">
-            <a class="txt1" href="#">新拍商品</a>
-            <a class="txt1" href="#">已拍商品</a>
-            <a class="txt1" href="#">从系统选择</a>
-            <button class="btn btn-large btn-danger btn-block txt1">取消</button>
+        <div class="popup-menu-box">
+            <div class="popup-menu">
+                <a class="txt1" href="#">新拍商品</a>
+                <a class="txt1" href="#">已拍商品</a>
+                <a class="txt1" href="#">从系统选择</a>
+                <button class="btn btn-large btn-danger btn-block txt1">取消</button>
+            </div>
         </div>
 	</div>
 
