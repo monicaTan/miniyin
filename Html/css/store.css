@@ -1,0 +1,31 @@
+.login-form {
+    padding: 10px 30px;
+  }
+  .login-form div {
+    text-align: center;
+    margin: 15px;
+  }
+  .login-form div:last-child {
+    margin-top: 40px; 
+  }
+
+  .login-form p {
+    margin: 1px;
+  }
+
+  .login-form input {
+     margin-bottom: 0;
+     height: 30px;
+     width: 98%;
+     color: #abadb3;
+  }
+
+  .login-form .tips {
+    text-align: left;
+    color: #abadb3;
+    font-size: 14px;
+    margin-top: 0;
+  }
+  .login-form .btn {
+    width: 100%;
+  }
