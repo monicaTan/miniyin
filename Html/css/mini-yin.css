@@ -3,6 +3,10 @@ a:active,
 a:hover,
 a:focus{ color: #f94688; text-decoration: none; outline: none;}
 
+button a,
+button a:active,
+button a:hover,
+button a:focus{ color: white;}
 /*-------------------------------Button Reset-----------------------------------*/
 .btn {
     font-weight: 500;
