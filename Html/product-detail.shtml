@@ -13,9 +13,6 @@
 <link rel="stylesheet" type="text/css" href="css/template-color.css">
 </head>
 <body>
-<a class="top-link" href="#TOP">
-    <i class="fa fa-arrow-up"></i>
-</a>
 <div class="wrap">
 
 	<div class="wrap-inner back-wrap-inner">
@@ -74,7 +71,8 @@
                    </div>
                </div>
            </div>
-        </div>  
+        </div> 
+        <p class="wx-payment"><button type="button" class="btn btn-danger btn-large btn-block"><i class="fa fa-share-square-o"></i>微信安全支付</button></p> 
 	</div>
 
 </div>
