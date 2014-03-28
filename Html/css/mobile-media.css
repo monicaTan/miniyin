@@ -46,7 +46,7 @@
 .search-condition > a{ margin: 0 10px 10px 0; padding: 4px 10px; border-width: 1px; font-size: 14px; border-radius: 2px; }
 
 /*------------------verify---------------------*/
-.verify-code { text-align: center; padding: 20px 10px}
+.verify-code { text-align: center; padding: 50px 20px}
 .verify-input-box{margin-bottom: 30px;}
 .set-button{margin-top: 40px;}
 .module-set-password .form-defined h1{margin-bottom: 10px;}
