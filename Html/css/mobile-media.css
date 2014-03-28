@@ -55,6 +55,15 @@
 .verify-code .next-btn{ margin-top: 40px;}
 .verify-code .form-defined{margin-top: 15px;}
 
+/*------------------------------Product Details----------------------------------*/
+.price-detail .txt3,
+.price-detail .txt5{margin: 5px 0;}
+.price-detail h3{margin: 10px 0 5px;}
+.size-detail dt{ font-size:14px; line-height: 30px; width: 34px;}
+.size-detail dd { margin-left: 40px;}
+.size-detail dd li a{ padding: 4px 8px; border-radius: 2px;font-size:14px;}
+
+
 }
 
 

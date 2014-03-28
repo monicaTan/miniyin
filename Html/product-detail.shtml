@@ -19,9 +19,42 @@
 <div class="wrap">
 
 	<div class="wrap-inner back-wrap-inner">
-		<div class="module module-white module-detail">
-                  fgfgfdgdf
-        </div>    
+		<div class="module module-white common-white">
+           <div class="row-fluid">
+               <div class="span4">
+                   <div class="detail-imgbox">
+                       <img src="../images/img800.jpg">
+                   </div>
+               </div>
+               <div class="span8">
+                   <div class="price-detail">
+                       <h3>D%G女士休闲鞋-012345678</h3>
+                       <p class="txt3">微信价：<em>￥300.00</em></p>
+                       <p class="txt5">微信价：￥300.00</p>
+                   </div>
+               </div>
+           </div>
+        </div>  
+
+        <div class="module common-white">
+           <div class="row-fluid">
+               <div class="span12">
+                   <div class="size-detail">
+                       <dl class="dl-horizontal">
+                           <dt>尺码</dt>
+                           <dd>
+                               <ul class="inline clearfix">
+                                   <li class="active"><a href="#">39</a></li>
+                                   <li><a href="#">40</a></li>
+                                   <li><a href="#">41</a></li>
+                                   <li><a href="#">42</a></li>
+                               </ul>
+                           </dd>
+                       </dl>
+                   </div>
+               </div>
+           </div>
+        </div>     
 	</div>
 
 </div>
