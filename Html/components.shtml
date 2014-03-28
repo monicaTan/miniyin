@@ -7,7 +7,7 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 <!--#include file="inc/common.shtml"-->
-<!-- <link rel="stylesheet" type="text/css" href="css/mini-yin.css"> -->
+<link rel="stylesheet" type="text/css" href="css/mini-yin.css">
 <link rel="stylesheet" type="text/css" href="css/back-end.css">
 <link rel="stylesheet" type="text/css" href="css/mobile-media.css">
 <link rel="stylesheet" type="text/css" href="css/template-color.css">
@@ -286,7 +286,7 @@ label[class*="col-"]{
 /*------------------------------Defined Small------------------------------*/
 [class*="col-"] input[type="checkbox"],
 [class*="col-"] input[type="radio"]{
-  margin: 0 3px 0 0;
+  margin: 0;
 }
 .defined-small [class*="col-"] input,
 .defined-small label[class*="col-"],
@@ -317,7 +317,7 @@ label[class*="col-"]{
 /*------------------------------Defined Mini------------------------------*/
 [class*="col-"] input[type="checkbox"],
 [class*="col-"] input[type="radio"]{
-  margin: 0 3px 0 0;
+  margin: 0;
 }
 .defined-mini [class*="col-"] input,
 .defined-mini label[class*="col-"],
