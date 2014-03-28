@@ -118,7 +118,6 @@ a:focus{ color: #f94688; text-decoration: none; outline: none;}
 }
 
 
-
 /*-------------------------Css Form--------------------------*/
 .form-defined,
 .controls-defined,
@@ -189,11 +188,13 @@ label[class*="col-"]{
 }
 
 /*------------------------------Defined Large------------------------------*/
+.defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
 .defined-large label[class*="col-"],
 .form-defined .large-block{
   font-size: 30px;
 }
+.defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
 .form-defined .large-block{
   height: 84px;
@@ -214,11 +215,13 @@ label[class*="col-"]{
 }
 
 /*------------------------------Defined Small------------------------------*/
+.defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
 .defined-small label[class*="col-"],
 .form-defined .small-block{
   font-size: 24px;
 }
+.defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
 .form-defined .small-block{
   height: 62px;
@@ -238,12 +241,15 @@ label[class*="col-"]{
   line-height: 62px;
 }
 
+
 /*------------------------------Defined Mini------------------------------*/
+.defined-mini [class*="col-"] > span,
 .defined-mini [class*="col-"] input,
 .defined-mini label[class*="col-"],
 .form-defined .mini-block{
   font-size: 20px;
 }
+.defined-mini [class*="col-"] > span,
 .defined-mini [class*="col-"] input,
 .form-defined .mini-block{
   height: 42px;
@@ -263,19 +269,14 @@ label[class*="col-"]{
   line-height: 42px;
 }
 
-
-
 @media screen and (max-width: 580px){
   [class*="col-"] input{border-radius: 2px;}
   .col-1{width:100%;}
   div[class*="col-"]{padding-right: 5px;}
   div[class*="col-1"]{padding-right: 0;}
-  .form-defined label[class*="col-"]{
-    padding-right: 5px;
-  }
 
 /*-----------------------------Defined Large---------------------------------*/
-
+.defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
 .defined-large label[class*="col-"],
 .form-defined .large-block{
@@ -284,6 +285,7 @@ label[class*="col-"]{
 .defined-large [class*="col-"] .btn-large{
   padding: 10px 12px;
 }
+.defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
 .form-defined .large-block{
   height: 42px;
@@ -304,6 +306,7 @@ label[class*="col-"]{
 [class*="col-"] input[type="radio"]{
   margin: 0;
 }
+.defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
 .defined-small label[class*="col-"],
 .form-defined .small-block{
@@ -314,6 +317,7 @@ label[class*="col-"]{
   padding: 6px 8px;
 }
 
+.defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
 .form-defined .small-block{
   height: 34px;
@@ -335,6 +339,7 @@ label[class*="col-"]{
 [class*="col-"] input[type="radio"]{
   margin: 0;
 }
+.defined-mini [class*="col-"] > span,
 .defined-mini [class*="col-"] input,
 .defined-mini label[class*="col-"],
 .form-defined .mini-block{
@@ -345,6 +350,7 @@ label[class*="col-"]{
   padding: 0 6px;
 }
 
+.defined-mini [class*="col-"] > span,
 .defined-mini [class*="col-"] input,
 .form-defined .mini-block{
   height: 24px;
