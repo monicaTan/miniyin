@@ -179,25 +179,26 @@ width:100%;
   width: 100%;
   margin-bottom: 10px;
   height: 34px;
-  line-height: 34px;
+  line-height:normal;
   vertical-align: middle;
+  font-family: "microsoft yahei";
 }
 .form-defined .input-block-level{
   margin-bottom: 10px;
   height: 34px;
-  line-height: 34px;
+  line-height:normal;
 }
 [class*="col-"] input[type="checkbox"],
 [class*="col-"] input[type="radio"]{
   width: auto;
   margin: 0 6px 0 0;
   height: 34px;
-  line-height: 34px; 
+  line-height:normal; 
 }
 label[class*="col-"]{
   padding-left:0;
   min-height: auto;
-  line-height: 34px;
+  line-height:normal;
 }
 
 /*------------------------------Defined Large------------------------------*/
@@ -211,21 +212,24 @@ label[class*="col-"]{
 .defined-large [class*="col-"] input,
 .form-defined .large-block{
   height: 74px;
-  line-height: 74px;
+  line-height:normal;
   padding: 12px 20px;
 }
 .form-defined .large-block{
   height: 74px;
-  line-height: 74px;
+  line-height:normal;
   margin-bottom: 20px;
 }
 .defined-large [class*="col-"] input[type="checkbox"],
 .defined-large [class*="col-"] input[type="radio"]{
   height: 74px;
-  line-height: 74px; 
+  line-height:normal; 
+}
+.defined-large [class*="col-"] .btn-large{
+  padding: 26px 30px;
 }
 .defined-large label[class*="col-"]{
-  line-height: 74px;
+  line-height:normal;
 }
 
 /*------------------------------Defined Small------------------------------*/
@@ -238,21 +242,24 @@ label[class*="col-"]{
 .defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
 .form-defined .small-block{
-  height: 62px;
-  line-height: 62px;
+  height: 60px;
+  line-height:normal;
   padding: 8px 10px;
 }
 .form-defined .small-block{
-  height: 62px;
-  line-height: 62px;
+  height: 60px;
+  line-height:normal;
 }
 .defined-small [class*="col-"] input[type="checkbox"],
 .defined-small [class*="col-"] input[type="radio"]{
-  height: 62px;
-  line-height: 62px; 
+  height: 60px;
+  line-height:normal; 
+}
+.defined-small [class*="col-"] .btn-small{
+  padding: 18px 12px;
 }
 .defined-small label[class*="col-"]{
-  line-height: 62px;
+  line-height:normal;
 }
 
 
@@ -267,20 +274,23 @@ label[class*="col-"]{
 .defined-mini [class*="col-"] input,
 .form-defined .mini-block{
   height: 42px;
-  line-height: 42px;
+  line-height:normal;
   padding: 8px 10px;
 }
 .form-defined .mini-block{
   height: 42px;
-  line-height: 42px;
+  line-height:normal;
 }
 .defined-mini [class*="col-"] input[type="checkbox"],
 .defined-mini [class*="col-"] input[type="radio"]{
   height: 42px;
-  line-height: 42px; 
+  line-height:normal; 
+}
+.defined-mini [class*="col-"] .btn-mini{
+  padding: 10px 20px;
 }
 .defined-mini label[class*="col-"]{
-  line-height: 42px;
+  line-height:normal;
 }
 
 @media screen and (max-width: 580px){
@@ -303,7 +313,7 @@ label[class*="col-"]{
 .defined-large [class*="col-"] input,
 .form-defined .large-block{
   height: 42px;
-  line-height: 42px;
+  line-height:normal;
   padding: 4px 6px;
 }
 .form-defined .large-block{
@@ -313,10 +323,10 @@ label[class*="col-"]{
 .defined-large [class*="col-"] input[type="radio"]{
   margin: 0 8px 0 0;
   height: 42px;
-  line-height: 42px; 
+  line-height:normal; 
 }
 .defined-large label[class*="col-"]{
-  line-height: 42px;
+  line-height:normal;
 }
 /*------------------------------Defined Small------------------------------*/
 [class*="col-"] input[type="checkbox"],
@@ -338,17 +348,17 @@ label[class*="col-"]{
 .defined-small [class*="col-"] input,
 .form-defined .small-block{
   height: 34px;
-  line-height: 34px;
+  line-height:normal;
   padding: 4px 10px;
 }
 
 .defined-small [class*="col-"] input[type="checkbox"],
 .defined-small [class*="col-"] input[type="radio"]{
   height: 34px;
-  line-height: 34px; 
+  line-height:normal; 
 }
 .defined-small label[class*="col-"]{
-  line-height: 34px;
+  line-height:normal;
 }
 
 /*------------------------------Defined Mini------------------------------*/
@@ -371,17 +381,17 @@ label[class*="col-"]{
 .defined-mini [class*="col-"] input,
 .form-defined .mini-block{
   height: 24px;
-  line-height: 24px;
+  line-height:normal;
   padding: 2px 10px;
 }
 
 .defined-mini [class*="col-"] input[type="checkbox"],
 .defined-mini [class*="col-"] input[type="radio"]{
   height: 24px;
-  line-height: 24px; 
+  line-height:normal; 
 }
 .defined-mini label[class*="col-"]{
-  line-height: 24px;
+  line-height:normal;
 }
 }
 
