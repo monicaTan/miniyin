@@ -104,7 +104,7 @@
 @media screen and (max-width: 580px) {
 .btn {font-weight: 600;}
 .btn-large {
-  padding: 10px 24px;
+  padding: 12px 24px;
   font-size: 16px;
   -webkit-border-radius: 2px;
      -moz-border-radius: 2px;
@@ -210,21 +210,22 @@ label[class*="col-"]{
 .defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
 .form-defined .large-block{
-  height: 84px;
-  line-height: 84px;
+  height: 74px;
+  line-height: 74px;
   padding: 12px 20px;
 }
 .form-defined .large-block{
-  height: 84px;
-  line-height: 84px;
+  height: 74px;
+  line-height: 74px;
+  margin-bottom: 20px;
 }
 .defined-large [class*="col-"] input[type="checkbox"],
 .defined-large [class*="col-"] input[type="radio"]{
-  height: 84px;
-  line-height: 84px; 
+  height: 74px;
+  line-height: 74px; 
 }
 .defined-large label[class*="col-"]{
-  line-height: 84px;
+  line-height: 74px;
 }
 
 /*------------------------------Defined Small------------------------------*/
@@ -304,6 +305,9 @@ label[class*="col-"]{
   height: 42px;
   line-height: 42px;
   padding: 4px 6px;
+}
+.form-defined .large-block{
+  margin-bottom: 10px;
 }
 .defined-large [class*="col-"] input[type="checkbox"],
 .defined-large [class*="col-"] input[type="radio"]{
@@ -453,7 +457,7 @@ label[class*="col-"]{
   <div class="controls-defined defined-large">
     <div class="col-6"><input type="text" placeholder=".col-6"></div>
     <div class="col-6">
-      <button type="button" class="btn btn-danger btn-large"><i class="fa fa-share-square-o"></i>Large</button>
+      <button type="button" class="btn btn-danger btn-large">Large</button>
     </div>
   </div>
 
