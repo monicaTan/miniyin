@@ -265,7 +265,9 @@ label[class*="col-"]{
 .form-defined .large-block{
   font-size: 16px;
 }
-
+.defined-large [class*="col-"] .btn-large{
+  padding: 10px 12px;
+}
 .defined-large [class*="col-"] input,
 .form-defined .large-block{
   height: 42px;
@@ -282,22 +284,27 @@ label[class*="col-"]{
   line-height: 42px;
 }
 /*------------------------------Defined Small------------------------------*/
+[class*="col-"] input[type="checkbox"],
+[class*="col-"] input[type="radio"]{
+  margin: 0 3px 0 0;
+}
 .defined-small [class*="col-"] input,
 .defined-small label[class*="col-"],
-.form-defined .large-small{
+.form-defined .small-block{
   font-size: 12px;
 }
 
+.defined-small [class*="col-"] .btn-small{
+  padding: 6px 8px;
+}
+
 .defined-small [class*="col-"] input,
-.form-defined .large-small{
+.form-defined .small-block{
   height: 34px;
   line-height: 34px;
   padding: 4px 10px;
 }
-.form-defined .large-small{
-  height: 34px;
-  line-height: 34px;
-}
+
 .defined-small [class*="col-"] input[type="checkbox"],
 .defined-small [class*="col-"] input[type="radio"]{
   height: 34px;
@@ -305,6 +312,37 @@ label[class*="col-"]{
 }
 .defined-small label[class*="col-"]{
   line-height: 34px;
+}
+
+/*------------------------------Defined Mini------------------------------*/
+[class*="col-"] input[type="checkbox"],
+[class*="col-"] input[type="radio"]{
+  margin: 0 3px 0 0;
+}
+.defined-mini [class*="col-"] input,
+.defined-mini label[class*="col-"],
+.form-defined .mini-block{
+  font-size: 11px;
+}
+
+.defined-mini [class*="col-"] .btn-mini{
+  padding: 0 6px;
+}
+
+.defined-mini [class*="col-"] input,
+.form-defined .mini-block{
+  height: 24px;
+  line-height: 24px;
+  padding: 2px 10px;
+}
+
+.defined-mini [class*="col-"] input[type="checkbox"],
+.defined-mini [class*="col-"] input[type="radio"]{
+  height: 24px;
+  line-height: 24px; 
+}
+.defined-mini label[class*="col-"]{
+  line-height: 24px;
 }
 }
 
@@ -330,7 +368,6 @@ label[class*="col-"]{
 <form class="form-defined">
 <!-- .................................................................... -->
   <input class="input-block-level" type="text" placeholder="input-block-level">
-  <input class="input-block-level large-block" type="text" placeholder="input-block-level">
 <!-- .................................................................... -->
   <div class="controls-defined">
     <div class="col-1"><input type="text" placeholder=".col-1"></div>
@@ -374,16 +411,14 @@ label[class*="col-"]{
   </div>
 <!-- .................................................................... -->
   <div class="controls-defined defined-large">
-    <div class="col-4"><input type="text" placeholder=".col-4"></div>
-    <label class="col-4"><input type="checkbox">要说的某些话</label>
-    <div class="col-4"><input type="text" placeholder=".col-2"></div>
+    <div class="col-6"><input type="text" placeholder=".col-4"></div>
+    <label class="col-6"><input type="checkbox">要说的某些话</label>
   </div>
 <!-- .................................................................... -->
   <div class="controls-defined defined-large">
-    <label class="col-4 text-right">要说的某些话</label>
-    <div class="col-4"><input type="text" placeholder=".col-4"></div>
-    <div class="col-4">
-      <button type="button" class="btn btn-danger btn-large btn-block"><i class="fa fa-share-square-o"></i>Button</button>
+    <div class="col-6"><input type="text" placeholder=".col-6"></div>
+    <div class="col-6">
+      <button type="button" class="btn btn-danger btn-large"><i class="fa fa-share-square-o"></i>Button</button>
     </div>
   </div>
 
@@ -396,16 +431,35 @@ label[class*="col-"]{
   </div>
 <!-- .................................................................... -->
   <div class="controls-defined defined-small">
-    <div class="col-4"><input type="text" placeholder=".col-4"></div>
-    <label class="col-4"><input type="checkbox">要说的某些话</label>
-    <div class="col-4"><input type="text" placeholder=".col-2"></div>
+    <div class="col-6"><input type="text" placeholder=".col-6"></div>
+    <label class="col-6"><input type="checkbox">要说的某些话</label>
   </div>
 <!-- .................................................................... -->
   <div class="controls-defined defined-small">
     <label class="col-4 text-right">要说的某些话</label>
     <div class="col-4"><input type="text" placeholder=".col-4"></div>
-    <div class="col-4"><input type="text" placeholder=".col-2"></div>
+    <div class="col-4"><button class="btn btn-danger btn-small" type="button">Button</button></div>
   </div>
+
+  <!-- .................................Mini................................... -->
+  <input class="input-block-level mini-block" type="text" placeholder="input-block-level">
+  <!-- .................................................................... -->
+  <div class="controls-defined defined-mini">
+    <div class="col-4"><input type="text" placeholder=".col-4"></div>
+    <div class="col-8"><input type="text" placeholder=".col-8"></div>
+  </div>
+<!-- .................................................................... -->
+  <div class="controls-defined defined-mini">
+    <div class="col-6"><input type="text" placeholder=".col-6"></div>
+    <label class="col-6"><input type="checkbox">要说的某些话</label>
+  </div>
+<!-- .................................................................... -->
+  <div class="controls-defined defined-mini">
+    <label class="col-4 text-right">要说的某些话</label>
+    <div class="col-6"><input type="text" placeholder=".col-6"></div>
+    <div class="col-2"><button class="btn btn-danger btn-mini" type="button">Button</button></div>
+  </div>
+
 </form>
 <!-- ../Form -->
 </div>
