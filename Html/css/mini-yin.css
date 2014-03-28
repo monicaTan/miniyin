@@ -238,6 +238,31 @@ label[class*="col-"]{
   line-height: 62px;
 }
 
+/*------------------------------Defined Mini------------------------------*/
+.defined-mini [class*="col-"] input,
+.defined-mini label[class*="col-"],
+.form-defined .mini-block{
+  font-size: 20px;
+}
+.defined-mini [class*="col-"] input,
+.form-defined .mini-block{
+  height: 42px;
+  line-height: 42px;
+  padding: 8px 10px;
+}
+.form-defined .mini-block{
+  height: 42px;
+  line-height: 42px;
+}
+.defined-mini [class*="col-"] input[type="checkbox"],
+.defined-mini [class*="col-"] input[type="radio"]{
+  height: 42px;
+  line-height: 42px; 
+}
+.defined-mini label[class*="col-"]{
+  line-height: 42px;
+}
+
 
 
 @media screen and (max-width: 580px){
@@ -245,6 +270,9 @@ label[class*="col-"]{
   .col-1{width:100%;}
   div[class*="col-"]{padding-right: 5px;}
   div[class*="col-1"]{padding-right: 0;}
+  .form-defined label[class*="col-"]{
+    padding-right: 5px;
+  }
 
 /*-----------------------------Defined Large---------------------------------*/
 

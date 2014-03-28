@@ -251,6 +251,30 @@ label[class*="col-"]{
 }
 
 
+/*------------------------------Defined Mini------------------------------*/
+.defined-mini [class*="col-"] input,
+.defined-mini label[class*="col-"],
+.form-defined .mini-block{
+  font-size: 20px;
+}
+.defined-mini [class*="col-"] input,
+.form-defined .mini-block{
+  height: 42px;
+  line-height: 42px;
+  padding: 8px 10px;
+}
+.form-defined .mini-block{
+  height: 42px;
+  line-height: 42px;
+}
+.defined-mini [class*="col-"] input[type="checkbox"],
+.defined-mini [class*="col-"] input[type="radio"]{
+  height: 42px;
+  line-height: 42px; 
+}
+.defined-mini label[class*="col-"]{
+  line-height: 42px;
+}
 
 @media screen and (max-width: 580px){
   [class*="col-"] input{border-radius: 2px;}
@@ -353,7 +377,7 @@ label[class*="col-"]{
 <a class="top-link" href="#TOP">
     <i class="fa fa-arrow-up"></i>
 </a>
-<div class="wrap">
+<div class="Box" style="padding:10px;">
 <!-- Button -->
 <div class="module-btn">
     <p><button class="btn btn-danger btn-large btn-block" type="button"><i class="fa fa-share-square-o"></i>font-size:30px  btn-block</button></p>
@@ -418,7 +442,7 @@ label[class*="col-"]{
   <div class="controls-defined defined-large">
     <div class="col-6"><input type="text" placeholder=".col-6"></div>
     <div class="col-6">
-      <button type="button" class="btn btn-danger btn-large"><i class="fa fa-share-square-o"></i>Button</button>
+      <button type="button" class="btn btn-danger btn-large"><i class="fa fa-share-square-o"></i>Large</button>
     </div>
   </div>
 
@@ -438,7 +462,7 @@ label[class*="col-"]{
   <div class="controls-defined defined-small">
     <label class="col-4 text-right">要说的某些话</label>
     <div class="col-4"><input type="text" placeholder=".col-4"></div>
-    <div class="col-4"><button class="btn btn-danger btn-small" type="button">Button</button></div>
+    <div class="col-4"><button class="btn btn-danger btn-small" type="button">Small</button></div>
   </div>
 
   <!-- .................................Mini................................... -->
@@ -457,7 +481,7 @@ label[class*="col-"]{
   <div class="controls-defined defined-mini">
     <label class="col-4 text-right">要说的某些话</label>
     <div class="col-6"><input type="text" placeholder=".col-6"></div>
-    <div class="col-2"><button class="btn btn-danger btn-mini" type="button">Button</button></div>
+    <div class="col-2"><button class="btn btn-danger btn-mini" type="button">Mini</button></div>
   </div>
 
 </form>
