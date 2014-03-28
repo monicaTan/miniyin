@@ -61,7 +61,7 @@
 .price-detail h3{margin: 10px 0 5px;}
 
 .detail-contact{background-size: 12px auto;}
-.detail-contact > p{ margin-right: 4%; line-height: 28px;}
+.detail-contact > p{ margin-right: 4%; line-height: 22px; font-size: 13px}
 .detail-contact-bd > p{margin:0;}
 .detail-contact > .txt0{ line-height: 20px;}
 .detail-contact > .txt-bd{ padding-bottom: 8px; margin-bottom: 10px;}
@@ -69,7 +69,11 @@
 .size-detail dd { margin-left: 40px;}
 .size-detail dd li a{ padding: 4px 8px; border-radius: 2px;font-size:14px;}
 .wx-payment{margin-top: 15px; padding: 0 15px;}
-
+/*-----------------------------------Indent Detail-------------------------------------*/
+.indent-head{ padding-bottom: 15px; margin-bottom: 10px; }
+.bottom-button{padding: 10px 15px}
+.bottom-button .controls-defined > .col-6{padding-right: 5px;}
+.bottom-button .controls-defined > .col-6:last-child{padding-left: 5px; padding-right: 0}
 }
 
 

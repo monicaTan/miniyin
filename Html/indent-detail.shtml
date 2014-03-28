@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>订单详情</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+<link rel="stylesheet" type="text/css" href="css/back-end.css">
+<link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+<link rel="stylesheet" type="text/css" href="css/template-color.css">
+</head>
+<body>
+<div class="wrap">
+
+	<div class="wrap-inner back-wrap-inner">
+		<div class="module common-white">
+          <div class="indent-head">
+            <div class="row-fluid">
+               <div class="span4">
+                   <div class="detail-imgbox">
+                       <img src="../images/img800.jpg">
+                   </div>
+               </div>
+               <div class="span8">
+                   <div class="price-detail">
+                       <h3>Adidas独家定制靴Adidas独家定制靴Adidas独家定制靴</h3>
+                       <p class="txt3">打包价：<em>￥300.00</em></p>
+                   </div>
+               </div>
+            </div>
+          </div>
+          <div class="row-fluid">
+            <div class="span12">
+              <div class="detail-contact detail-contact-bd">
+                <p class="txt4 clearfix"><span class="pull-left"><b>订单号：11401185642</b></span><span class="pull-right"><b>订单状态：</b><i>待付款</i></span></p>
+                <p class="txt4 clearfix"><span class="pull-left"><b>下单时间：2014-02-08&nbsp;&nbsp;10:08:33</b></span></p>
+                <p class="txt4 txt-bd clearfix"><span><b>赠送积点：368点</b></span></p>
+                <p class="txt4 clearfix"><span class="pull-left"><b>快递费：￥368.00</b></span><span class="pull-right"><b>需付款：</b><i>￥680</i></span></p>
+              </div>
+            </div>
+          </div>
+        </div>     
+        <div class="module common-white">
+           <div class="row-fluid">
+               <div class="span12">
+                   <div class="detail-contact detail-contact-bd">
+                       <p class="txt4 txt-bd clearfix"><span class="pull-left"><i class="fa fa-user"></i><b>联系人</b></span><span class="pull-right"><i class="fa fa-phone"></i><b>18700001111</b></span></p>
+                       <p class="txt4"><span><i class="fa fa-map-marker"></i><b>回龙观良庄家园测试地址测试地址</b></span></p>
+                   </div>
+               </div>
+           </div>
+        </div>
+        <div class="module common-white">
+           <div class="row-fluid">
+               <div class="span12">
+                   <div class="detail-contact detail-contact-bd">
+                       <p class="txt4 txt-bd clearfix"><span class="pull-left"><i class="fa fa-user"></i><b>支付方式：</b><i>微信支付</i></span><span class="pull-right"><i class="fa fa-phone"></i><b>15928696607</b></span></p>
+                       <p class="txt4 txt-bd"><span><i class="fa fa-map-marker"></i><b>专柜地址：回龙观良庄家园测试地址测试地址</b></span></p>
+                       <p class="txt4"><span><i class="fa fa-asterisk"></i><b>订单备注：周末送货</b></span></p>
+                   </div>
+               </div>
+           </div>
+        </div>
+        <div class="bottom-button">
+          <form class="form-defined">
+            <div class="controls-defined defined-large">
+              <div class="col-6"><button class="btn btn-danger btn-large btn-block"><i class="fa fa-share-square-o"></i>分享给好友</button></div>
+               <div class="col-6"><button class="btn btn-danger btn-large btn-block"><i class="fa fa-pencil-square-o"></i>编 辑</button></div>
+            </div>
+          </form>
+      </div>
+	</div>
+
+</div>
+
+</body>
+</html>
