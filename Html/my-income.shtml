@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>我的收益</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+<link rel="stylesheet" type="text/css" href="css/store.css">
+<link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+<link rel="stylesheet" type="text/css" href="css/template-color.css">
+</head>
+<body>
+  <style type="text/css">
+    .income .common-white h4, h3, h6 {
+      text-align: center;
+    }
+    .income .common-white h3 span {
+      color: #f86b9f;
+    }
+
+    .income .common-white {
+      font-size: 20px;
+    }
+    .income .common-white a span {
+      color: #b7bac0;
+    }
+
+    .income a i:last-child {
+      float: right;
+      color: #f86b9f;
+    }
+
+    .income a i span {
+      color: #b7bac0;
+      float: left;
+      padding-right: 8px;
+    }
+    .income .tips {
+      padding: 10px 30px;
+      margin-top: -15px;
+      height: 60px;
+      color: #b7bac0;
+    }
+    .income .tips span {
+      font-size: 18px;
+    }
+    .income .common-white .income-menu4 span {
+      color: #f86b9f;
+    }
+
+    .income .module-gray {
+       background-color: #f2f1f1;
+       border-top: 1px solid #dddddd;
+       border-bottom: 1px solid #dddddd;
+       padding: 5px 30px;
+       margin-top: 60px;
+    }
+    .income .module-gray div {
+       padding: 22px 0px;
+       float: right;
+    }
+    .income .module-gray div a {
+       color: #f86b9f;
+       font-size: 20px;
+    }
+    .income .module-gray div span {
+       padding-right: 10px;  
+    }
+    .income .common-white .fa {
+      color: #f86b9f;
+    }
+
+    @media screen and (max-width: 580px) {
+      .income .common-white {
+        font-size: 14px;
+      }
+      .income .module-gray div {
+        padding: 15px 0px;
+        float: right;
+      }
+
+      .income .module-gray div a {
+       color: #f86b9f;
+       font-size: 14px;
+      }
+
+      .income .module-gray {
+        padding: 5px 15px;
+      }
+
+      .income .tips {
+        padding: 10px 15px;
+        margin-top: -8px;
+        height: 40px;
+        color: #b7bac0;
+      }
+
+      .income .tips span {
+        font-size: 14px;
+      }
+    }
+  </style>
+<div class="wrap">
+  <div class="wrap-inner back-wrap-inner">
+    <div class="row-fluid">
+      <div clss="span12">
+        <div class="income">
+          <div class="common-white">
+             <h4>截至2014年3月29号为止， 您已提现的总金额为</h4>
+             <h3><span>￥1023.00<span></h3>
+          </div>
+
+          <div class="common-white">
+            <a href="" class="income-menu1">
+              <i class="fa fa-bars"></i>
+              <span>提现记录</span> 
+              <i class="fa fa-angle-right"></i>
+            </a>
+          </div>
+
+          <div class="common-white">
+            <a href="" class="income-menu2">
+              <i class="fa fa-bars"></i>
+              <span>不可提现记录</span> 
+              <i class="fa fa-angle-right"><span>￥200.0</span></i>
+            </a>
+          </div>
+          <div class="tips">
+            <span><i class="fa fa-exclamation-circle"></i>成交7日并且没有发生退货才可提取！</span>
+          </div>
+
+          <div class="common-white">
+            <a href="" class="income-menu3">
+              <i class="fa fa-bars"></i>
+              <span>提现申请中的金额</span> 
+              <i class="fa fa-angle-right"><span>￥200.0</span></i>
+            </a>
+          </div>
+
+          <div class="common-white">
+            <a href="" class="income-menu4">
+              <i class="fa fa-bars"></i>
+              <span>可提现金额：￥200.0</span> 
+              <i class="fa fa-angle-right"></i>
+            </a>
+          </div>
+
+          <div class="module-gray">
+            <button class="btn btn-large btn-danger">申请提现</button>
+            <div><a href=""><span>提现指导</span><i class="fa fa-angle-right"></i></a></div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
