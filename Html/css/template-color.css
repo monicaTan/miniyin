@@ -70,7 +70,7 @@
 .verify-code-txt h2:last-child  span {color: #f16498; }
 
 
-/*------------------------------Product Details----------------------------------*/
+/*------------------------------Product Buy----------------------------------*/
 
 .detail-imgbox{border:2px solid #d9dde3;}
 .price-detail .txt3,
@@ -86,5 +86,6 @@
 .detail-block > p > span a{color: #abadb3;}
 .detail-block > p i{ color: #F86B9F;}
 
-/*----------------------------------My indent-------------------------------------*/
+/*----------------------------------My Order-------------------------------------*/
 .module-state { border-bottom: 1px dashed #dddddd;}
+.order-notice h3{color: #F86B9F;}
