@@ -131,10 +131,12 @@
 }
 
 
+
 /*-------------------------Css Form--------------------------*/
 .form-defined,
 .controls-defined,
-.form-defined input{
+.form-defined input,
+[class*="col-"] > span{
 box-sizing:border-box;
 -moz-box-sizing:border-box; /* Firefox */
 -webkit-box-sizing:border-box; /* Safari */
@@ -183,6 +185,11 @@ width:100%;
   vertical-align: middle;
   font-family: "microsoft yahei";
 }
+[class*="col-"] > span{
+ display: inline-block;
+ height: auto;
+ color: #676767;
+}
 .form-defined .input-block-level{
   margin-bottom: 10px;
   height: 34px;
@@ -198,7 +205,7 @@ width:100%;
 label[class*="col-"]{
   padding-left:0;
   min-height: auto;
-  line-height:normal;
+  color: #676767;
 }
 
 /*------------------------------Defined Large------------------------------*/
@@ -229,7 +236,7 @@ label[class*="col-"]{
   padding: 26px 30px;
 }
 .defined-large label[class*="col-"]{
-  line-height:normal;
+  line-height:74px;
 }
 
 /*------------------------------Defined Small------------------------------*/
@@ -259,7 +266,7 @@ label[class*="col-"]{
   padding: 18px 12px;
 }
 .defined-small label[class*="col-"]{
-  line-height:normal;
+  line-height:60px;
 }
 
 
@@ -290,7 +297,7 @@ label[class*="col-"]{
   padding: 10px 20px;
 }
 .defined-mini label[class*="col-"]{
-  line-height:normal;
+  line-height:42px;
 }
 
 @media screen and (max-width: 580px){
@@ -326,7 +333,7 @@ label[class*="col-"]{
   line-height:normal; 
 }
 .defined-large label[class*="col-"]{
-  line-height:normal;
+  line-height:42px;
 }
 /*------------------------------Defined Small------------------------------*/
 [class*="col-"] input[type="checkbox"],
@@ -358,7 +365,7 @@ label[class*="col-"]{
   line-height:normal; 
 }
 .defined-small label[class*="col-"]{
-  line-height:normal;
+  line-height:34px;
 }
 
 /*------------------------------Defined Mini------------------------------*/
@@ -391,7 +398,7 @@ label[class*="col-"]{
   line-height:normal; 
 }
 .defined-mini label[class*="col-"]{
-  line-height:normal;
+  line-height:24px;
 }
 }
 
@@ -415,41 +422,6 @@ label[class*="col-"]{
 
 <!-- Form -->
 <form class="form-defined">
-<!-- .................................................................... -->
-  <input class="input-block-level" type="text" placeholder="input-block-level">
-<!-- .................................................................... -->
-  <div class="controls-defined">
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-    <div class="col-1"><input type="text" placeholder=".col-1"></div>
-  </div>
-<!-- .................................................................... -->
-  <div class="controls-defined">
-    <div class="col-4"><input type="text" placeholder=".col-4"></div>
-    <div class="col-8"><input type="text" placeholder=".col-8"></div>
-  </div>
-<!-- .................................................................... -->
-  <div class="controls-defined">
-    <div class="col-4"><input type="text" placeholder=".col-4"></div>
-    <label class="col-6"><input type="checkbox">要说的某些话</label>
-    <div class="col-2"><input type="text" placeholder=".col-2"></div>
-  </div>
-<!-- .................................................................... -->
-  <div class="controls-defined">
-    <label class="col-6 text-right">要说的某些话</label>
-    <div class="col-4"><input type="text" placeholder=".col-4"></div>
-    <div class="col-2"><input type="text" placeholder=".col-2"></div>
-  </div>
-
 
   <!-- .................................Large................................... -->
   <input class="input-block-level large-block" type="text" placeholder="input-block-level">

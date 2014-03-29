@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>礼品卡5</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+  <!--#include file="inc/common.shtml"-->
+    <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+    <link rel="stylesheet" type="text/css" href="css/card.css">
+    <link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+    <link rel="stylesheet" type="text/css" href="css/template-color.css">
+</head>
+<body>
+<div class="wrap">
+	<div class="wrap-content">
+		<div class="module module-white">
+      <div class="module-card module-card-posi">
+          <h1 class="text-center">礼品卡金额：123.00元</h1>
+      </div>
+    </div>  
+    <form class="form-defined">
+      <div class="controls-defined defined-small">
+        <label class="col-4 text-right"><i class="fa fa-phone"></i>好友联系方式</label>
+        <div class="col-8"><input type="text" placeholder=".col-8"></div>
+      </div>
+    </form>
+    
+  </div>
+</div>
+
+</body>
+</html>

@@ -65,7 +65,7 @@
 .card-text{color: #676767;}
 .module-card-posi{ position: relative; padding: 60px 40px 0; height:930px; background: url(../images/card0.jpg) center -20px no-repeat #fbd8e5;}
 .posi-txt{ padding: 0 70px; color: #636363; position: absolute; bottom:50px; left: 0; right: 0;}
-
+.txt-money em{ font-style: normal;}
 
 
 
@@ -109,6 +109,7 @@
 /*-------------------------------------Card-----------------------------------------*/
 .module-card{ padding: 20px 20px 0; height:800px;  background-size: 100% auto;}
 .module-card h1{ font-size: 18px;}
+
 }
 
 
