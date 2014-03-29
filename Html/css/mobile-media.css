@@ -45,7 +45,7 @@
 .search-condition{padding: 10px 0 10px 10px;}
 .search-condition > a{ margin: 0 10px 10px 0; padding: 4px 10px; border-width: 1px; font-size: 14px; border-radius: 2px; }
 
-/*------------------verify---------------------*/
+/*------------------vericode---------------------*/
 .verify-code { text-align: center; padding: 50px 20px}
 .verify-input-box{margin-bottom: 30px;}
 .set-button{margin-top: 40px;}
@@ -60,11 +60,11 @@
 .price-detail .txt5{margin: 5px 0;}
 .price-detail h3{margin: 10px 0 5px;}
 
-.detail-contact{background-size: 12px auto;}
-.detail-contact > p{ margin-right: 4%; line-height: 22px; font-size: 13px}
+.detail-block{background-size: 12px auto;}
+.detail-block > p{ margin-right: 4%; line-height: 22px; font-size: 13px}
 .detail-contact-bd > p{margin:0;}
-.detail-contact > .txt0{ line-height: 20px;}
-.detail-contact > .txt-bd{ padding-bottom: 8px; margin-bottom: 10px;}
+.detail-block > .txt0{ line-height: 20px;}
+.detail-block > .txt-bd{ padding-bottom: 8px; margin-bottom: 10px;}
 .size-detail dt{ font-size:14px; line-height: 30px; width: 34px;}
 .size-detail dd { margin-left: 40px;}
 .size-detail dd li a{ padding: 4px 8px; border-radius: 2px;font-size:14px;}
@@ -74,6 +74,7 @@
 .bottom-button{padding: 10px 15px}
 .bottom-button .controls-defined > .col-6{padding-right: 5px;}
 .bottom-button .controls-defined > .col-6:last-child{padding-left: 5px; padding-right: 0}
+.indent-btn{margin-top: 50px;}
 }
 
 
@@ -151,7 +152,7 @@
 .module-search-ele{padding: 0;}
 .goods-text .btn {padding: 0;}
 
-/*------------------------popup---------------------------*/
+/*-----------------------popup---------------------------*/
 .popup-menu-box{width: 100%;}
 .popup-menu{padding: 20px;}
 .popup-menu > a{margin-bottom: 10px;}

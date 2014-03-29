@@ -61,6 +61,26 @@ button a:focus{ color: white;}
   border-color: #ef4785;
 }
 
+.btn-grey{background: #c3c6cb;border-color: #c3c6cb; color: #676767;}
+.btn-grey:hover,
+.btn-grey:focus,
+.btn-grey:active,
+.btn-grey.active,
+.btn-grey.disabled,
+.btn-grey[disabled] {
+  color: #676767;
+  background-color: #cfcfd0;
+  *background-color: #cfcfd0;
+  border-color: #cfcfd0;
+}
+
+
+.btn-grey:active,
+.btn-grey.active {
+  background-color: #c3c6cb;
+  border-color: #c3c6cb;
+}
+
 .btn-large {
   padding: 26px 60px;
   font-size: 30px;
