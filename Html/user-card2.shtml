@@ -16,18 +16,16 @@
 <div class="wrap">
 	<div class="wrap-content">
 		<div class="module module-white">
-      <div class="module-card">
-          <h1 class="text-center">王某人给你送来一张礼品卡</h1>
-          <p class="txt3 card-text">
-            李女士：<br>在这春光明媚的春天来临之际，好朋友祝你天天开心，永远幸福。
-          </p>
+      <div class="module-card module-card-posi">
+          <h1 class="text-center">银泰礼品卡<br>送亲人，送好友，您的最佳选择</h1>
+          <p class="txt4 text-center posi-txt">银泰礼品卡在线销售，史无前例的O2O行为，错过将后悔一生，希望你能把握此次机会。</p>
       </div>
     </div>  
     <div class="bottom-button">
         <div class="form-defined">
           <div class="controls-defined defined-large">
-            <div class="col-6"><button class="btn btn-danger btn-large btn-block">赠送好友</button></div>
-             <div class="col-6"><button class="btn btn-grey btn-large btn-block">拒绝接收</button></div>
+            <div class="col-6"><button class="btn btn-danger btn-large btn-block">分享给好友</button></div>
+             <div class="col-6"><button class="btn btn-grey btn-large btn-block">立即购买</button></div>
           </div>
         </div>
     </div>
