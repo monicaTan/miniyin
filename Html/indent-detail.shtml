@@ -8,14 +8,13 @@
 	<meta name="keywords" content="">
 <!--#include file="inc/common.shtml"-->
 <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
-<link rel="stylesheet" type="text/css" href="css/back-end.css">
-<link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+<link rel="stylesheet" type="text/css" href="css/store.css">
 <link rel="stylesheet" type="text/css" href="css/template-color.css">
 </head>
 <body>
 <div class="wrap">
 
-	<div class="wrap-inner back-wrap-inner">
+	<div class="wrap-content">
 		<div class="module common-white">
           <div class="indent-head">
             <div class="row-fluid">
