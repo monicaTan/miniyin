@@ -34,7 +34,7 @@
 .detail-imgbox{ border-radius: 5px; background:#eeeeee;}
 .detail-imgbox img{ border-radius: inherit;}
 .price-detail .txt3 em{font-style: normal;}
-.price-detail h3{margin: 30px 0 10px;}
+.price-detail h3{margin: 15px 0 10px;}
 .price-detail h3 a{color: #676767;}
 .detail-block{ background:url(../images/right.png) 99% center no-repeat transparent;}
 .detail-contact-bd{ background-image: none;}
@@ -60,7 +60,7 @@
   /*------------------------------Product Details----------------------------------*/
 .price-detail .txt3,
 .price-detail .txt5{margin: 5px 0;}
-.price-detail h3{margin: 10px 0 5px;}
+.price-detail h3{margin: 0 0 5px;}
 .detail-block{background-size: 12px auto;}
 .detail-block > p{ margin-right: 4%; line-height: 22px; font-size: 13px}
 .detail-contact-bd > p{margin:0;}

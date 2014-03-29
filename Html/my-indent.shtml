@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>订单详情</title>
+	<title>我的订单</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 <!--#include file="inc/common.shtml"-->
@@ -26,7 +26,7 @@
                <div class="span9">
                    <div class="price-detail">
                        <h3><a href="#">Adidas独家定制靴Adidas独家定制靴Adidas独家定制靴</a></h3>
-                       <p class="txt3">打包价：<em>￥300.00</em></p>
+                       <p class="txt3 clearfix"><span class="pull-left">打包价：<em>￥300.00</em></span><span class="pull-right">数量：12</span></p>
                    </div>
                </div>
             </div>

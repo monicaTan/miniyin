@@ -58,7 +58,7 @@
 /*------------------------------Product Details----------------------------------*/
 .price-detail .txt3,
 .price-detail .txt5{margin: 5px 0;}
-.price-detail h3{margin: 10px 0 5px;}
+.price-detail h3{margin: 0 0 5px;}
 
 .detail-block{background-size: 12px auto;}
 .detail-block > p{ margin-right: 4%; line-height: 22px; font-size: 13px}

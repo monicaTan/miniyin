@@ -18,12 +18,12 @@
 	<div class="wrap-inner back-wrap-inner">
 		<div class="module common-white">
            <div class="row-fluid">
-               <div class="span4">
+               <div class="span3">
                    <div class="detail-imgbox">
                        <img src="../images/img800.jpg">
                    </div>
                </div>
-               <div class="span8">
+               <div class="span9">
                    <div class="price-detail">
                        <h3>D%G女士休闲鞋-012345678</h3>
                        <p class="txt3">微信价：<em>￥300.00</em></p>
