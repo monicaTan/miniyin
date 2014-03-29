@@ -85,3 +85,6 @@
 .detail-block > p > span > b{color: #676767;}
 .detail-block > p > span a{color: #abadb3;}
 .detail-block > p i{ color: #F86B9F;}
+
+/*----------------------------------My indent-------------------------------------*/
+.module-state { border-bottom: 1px dashed #dddddd;}
