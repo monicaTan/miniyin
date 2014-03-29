@@ -11,7 +11,7 @@ button a:focus{ color: white;}
 @media screen and (max-width: 580px) {
   .common-white{padding: 10px 15px; margin-bottom: 8px;}
 }
-
+.txt-red{color: #F16498;}
 /*-------------------------------Button Reset-----------------------------------*/
 .btn {
     font-weight: 500;
