@@ -59,6 +59,11 @@
 .verify-code .form-defined{margin-top: 35px;}
 .verify-code-txt{text-align: center; }
 
+/*-------------------------------------Card-----------------------------------------*/
+.module-card{ padding: 60px 40px 0; height:930px; background: url(../images/card2.jpg) center top no-repeat #fbd8e5;}
+.module-card h1{ font-size: 32px; color: #F16498;}
+.card-text{color: #676767;}
+
 
 
 
@@ -100,11 +105,15 @@
 /*------------验证码------------------*/
 .verify-form1 .btn{padding: 2px 8px;}
 .verify-form .sub-btn {width: 70%;font-size: 16px;}
+/*-------------------------------------Card-----------------------------------------*/
+.module-card{ padding: 20px 20px 0; height:800px;  background-size: 100% auto;}
+.module-card h1{ font-size: 18px;}
 }
 
 
 
 @media screen and (max-width: 480px) {
+	.module-card{ height: 420px;}
 }
 
 @media screen and (max-width: 320px) {
