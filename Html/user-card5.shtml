@@ -24,7 +24,7 @@
       <form class="form-defined">
         <div class="controls-defined defined-small">
           <label class="col-12 text-left"><i class="fa fa-pencil-square-o"></i>好友留言</label>
-          <div class="col-12"><textarea rows="3"placeholder="说点什么">发个非官方的规定</textarea></div>
+          <div class="col-12"><textarea rows="3"placeholder="说点什么"></textarea></div>
         </div>
         <div class="controls-defined defined-small">
           <label class="col-4 text-right"><i class="fa fa-phone"></i>好友联系方式</label>
