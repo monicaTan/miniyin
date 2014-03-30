@@ -70,6 +70,7 @@
 .card-form-box input,
 .card-form-box textarea {color: #b7bbc2;font-family: "microsoft yahei";}
 .card-form-box .fa{ color: #F16498; margin-right: 4px;}
+.card-form-box .card-notice .fa{ color: #b7bbc2;}
 .card-form-box .defined-small{ margin-bottom: 20px;}
 
 
@@ -117,7 +118,6 @@
 .card-form-box{padding:15px;}
 .card-form-box .defined-small{ margin-bottom: 10px;}
 .card-form-box .car-notice,
-.card-form-box .car-notice .fa{ color: #b7bbc2;}
 .card-form-box form{ margin-bottom: 10px;}
 
 }
