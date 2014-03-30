@@ -74,7 +74,12 @@
 .module-pay .pay-h1 i{ margin-right: 4px; display: inline-block; height: 64px; width: 64px; background: url(../images/sad.png) left center no-repeat transparent; vertical-align: middle;}
 .pay-link a{ text-decoration: underline;}
 .pay-link { margin-bottom: 100px;}
-
+/*---------------------------------Successful Deal--------------------------------------------*/
+.module-table-box h1{margin-top: 0;}
+.module-table-box table tr td{font-size: 24px;}
+.module-deal{padding: 30px;}
+.pay-all{ color: #B7BBC2;}
+.pay-all em{ font-style: normal; font-size: 36px;}
 /*---------------------------------income--------------------------------------------*/
 .income .common-white h4, h3, h6 {
       text-align: center;
@@ -168,8 +173,11 @@
 .module-pay .pay-h1 i{ margin-right: 4px; display: inline-block; height: 32px; width: 32px;background-size: 32px auto;}
 .pay-link { margin-bottom: 50px;}
 
-
-
+/*---------------------------------Successful Deal--------------------------------------------*/
+.module-table-box table tr td{font-size: 14px; line-height: 24px;}
+.module-deal{padding: 15px;}
+.module-deal h1{font-weight: bold;}
+.pay-all em{ font-style: normal; font-size: 20px;}
 /*-------income----*/
 .income .common-white {
         font-size: 14px;

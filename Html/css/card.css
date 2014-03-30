@@ -36,14 +36,12 @@
 
 
 /*..........购卡成功.........*/
-.module-white{background: white;}
-
 .module-user-card{ padding: 20px;}
 .module-user-card h1{ margin: 20px 0; padding-left:74px; background: url(../images/smail.png) left center no-repeat; line-height: 64px; }
 .module-table-box{margin-bottom: 80px;}
 .module-table-box table tr td{ font-size: 30px; line-height: 50px;}
 .module-table-box table,
-.module-table-box table tr td{ border-color: #abadb3;}
+.module-table-box table tr td{ border-color: #dddddd;}
 .module-btn .btn{ margin-right: 20px;}
 .module-btn .btn:last-child{ margin-right: 0;}
 .module-notice {margin: 40px 0 60px;}
@@ -82,7 +80,6 @@
 @media screen and (max-width: 580px) {
 /*..........购卡成功.........*/
 .module-user-card{padding: 10px;}
-.module-user-card h1{ padding-left:40px; background-size: 30px auto; line-height: 30px; }
 .module-table-box{margin-bottom: 40px;}
 .module-table-box table tr td{ font-size: 16px; line-height: 26px;}
 .module-notice {margin: 20px 0 40px;}
