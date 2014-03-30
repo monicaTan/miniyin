@@ -136,11 +136,13 @@
 .form-defined,
 .controls-defined,
 .form-defined input,
+.form-defined textarea,
 [class*="col-"] > span{
 box-sizing:border-box;
 -moz-box-sizing:border-box; /* Firefox */
 -webkit-box-sizing:border-box; /* Safari */
 width:100%;
+font-family: "microsoft yahei";
 }
 
 .form-defined .controls-defined:before,
@@ -335,6 +337,7 @@ label[class*="col-"]{
 .defined-large label[class*="col-"]{
   line-height:42px;
 }
+
 /*------------------------------Defined Small------------------------------*/
 [class*="col-"] input[type="checkbox"],
 [class*="col-"] input[type="radio"]{
@@ -399,6 +402,9 @@ label[class*="col-"]{
 }
 .defined-mini label[class*="col-"]{
   line-height:24px;
+}
+.form-defined label[class*="col-12"]{
+  line-height: normal;
 }
 }
 

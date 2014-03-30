@@ -1,7 +1,8 @@
 body{ font-family: arial,"microsoft yahei"; background: #faf9f9;}
+a{color: #2e5be2;}
 a:active,
 a:hover,
-a:focus{ color: #f94688; text-decoration: none; outline: none;}
+a:focus{ color: #2a55d6; text-decoration: none; outline: none;}
 
 button a,
 button a:active,
@@ -11,7 +12,8 @@ button a:focus{ color: white;}
 @media screen and (max-width: 580px) {
   .common-white{padding: 10px 15px; margin-bottom: 8px;}
 }
-.txt-red{color: #F16498;}
+
+body .wrap form input{ box-shadow: 0 1px 1px rgba(0, 0, 0, 0) inset !important;}
 /*-------------------------------Button Reset-----------------------------------*/
 .btn {
     font-weight: 500;
@@ -158,6 +160,7 @@ box-sizing:border-box;
 -moz-box-sizing:border-box; /* Firefox */
 -webkit-box-sizing:border-box; /* Safari */
 width:100%;
+font-family: "microsoft yahei";
 }
 
 .form-defined .controls-defined:before,
@@ -466,6 +469,8 @@ h6 small {font-size: 10px; line-height: 16px;}
 .txt7 {font-size: 12px; line-height: 18px;}
 .txt8 {font-size: 28px; line-height: 38px;}
 
+.txt-red{color: #F16498;}
+.txt-grey{color: #abadb3;}
 @media screen and (max-width: 580px) {
   h1 {font-size: 16px; line-height: 24px;}
   h2 {font-size: 15px; line-height: 22px;}
