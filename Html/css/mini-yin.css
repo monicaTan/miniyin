@@ -17,6 +17,7 @@ body .wrap form input{ box-shadow: 0 1px 1px rgba(0, 0, 0, 0) inset !important;}
 /*-------------------------------Css Table-----------------------------------*/
 .module-table-box{margin-bottom: 80px;}
 .module-table-box table { border-radius: 0;}
+.module-table-box table td .disabled a{ cursor: default; color: #B7BBC2 !important;}
 .module-table-box .table-bordered thead:last-child tr:last-child > th:first-child,
 .module-table-box .table-bordered tbody:last-child tr:last-child > td:first-child,
 .module-table-box .table-bordered tbody:last-child tr:last-child > th:first-child,
@@ -599,9 +600,9 @@ footer{ position: fixed; bottom:0; width: 640px;}
 .block-box{margin-top: 70px;}
 
 /*smail*/
-.module-user-card h1{ margin: 20px 0; padding-left:74px; background: url(../images/smail.png) left center no-repeat; line-height: 64px; }
+.module-user-card h1{ margin: 20px 0 40px; padding-left:74px; background: url(../images/smail.png) left center no-repeat; line-height: 64px; }
 @media screen and (max-width: 580px) {
-.module-user-card h1{ padding-left:40px; background-size: 30px auto; line-height: 30px; }
+.module-user-card h1{ margin: 20px 0 30px; padding-left:40px; background-size: 30px auto; line-height: 30px; }
 }
 
 /*---------------------------------------------Bottom Button------------------------------------------------*/
