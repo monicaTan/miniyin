@@ -44,7 +44,7 @@
 
           <div class="common-white">
             <a href="" class="income-menu3">
-              <i class="fa fa-bars"></i>
+              <i class="fa fa-money"></i>
               <span>提现申请中的金额</span> 
               <i class="fa fa-angle-right"><span>￥200.0</span></i>
             </a>
@@ -52,14 +52,14 @@
 
           <div class="common-white">
             <a href="" class="income-menu4">
-              <i class="fa fa-bars"></i>
+              <i class="fa fa-money"></i>
               <span>可提现金额：￥200.0</span> 
               <i class="fa fa-angle-right"></i>
             </a>
           </div>
 
           <div class="module-gray">
-            <button class="btn btn-large btn-danger">申请提现</button>
+            <button class="btn btn-small btn-danger">申请提现</button>
             <div><a href=""><span>提现指导</span><i class="fa fa-angle-right"></i></a></div>
           </div>
       </div>
