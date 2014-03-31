@@ -19,7 +19,7 @@
       <div class="module-formblock min-height">
         <form class="form-defined">
           <div class="controls-defined defined-large">
-            <p class="txt1">退货原因</p>
+            <p class="txt1"><abbr class="txt-red">*</abbr>退货原因</p>
             <select class="large-block">
               <option>1</option>
               <option>2</option>
