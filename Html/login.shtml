@@ -14,18 +14,19 @@
 </head>
 <body>
 <div class="wrap">
-  <div class="wrap-inner back-wrap-inner">
+  <div class="wrap-content">
     <div class="row-fluid">
       <div clss="span12">
         <div class="login-form">
-          <form >
-            <div class="span12"><img src="/images/login.png"></div>
-            <div>
-              <p><input class="" type="text" placeholder="填写邀请码"></p>
-              <p class="tips"><span>凭店铺邀请码登录店铺</span></p>
+          <form class="form-defined">
+            <div class="login-face text-center"><img class="img-circle" src="../images/no-image.jpg"></div>
+            <div class="control-group error">
+              <input type="text" placeholder="填写邀请码" class="input-block-level large-block">
+              <span class="help-inline txt4">验证码输入有误</span>
+              <p class="tips txt3 txt-grey">凭店铺邀请码<span class="atip" onclick="javascript:return false;"  data-toggle="tooltip"  data-html="true" data-placement="top" title="" data-original-title="<div class='tooltip-content txt4'>目前店铺邀请码由系统分配提供，暂不向外开放。具体开放时间，请关注公众账号通知。</div>"><i class="fa fa-question-circle"></i></span>登录店铺</p>
             </div>  
             <div>
-               <button class="btn btn-large btn-danger">我要开店</button> 
+               <button type="button" class="btn btn-danger btn-large btn-block">我要开店</button>
             </div>
           </form>
         </div>
@@ -35,3 +36,14 @@
 </div>
 </body>
 </html>
+<script>
+  $(function(){
+    var options={
+      animation:true,
+      trigger:'click' //触发tooltip的事件
+    }
+    $('.atip').tooltip(options);
+    //$('#tip1').tooltip('hide');//指定显示某一个tooltip//还可取值hide toggle
+
+  });
+</script>
