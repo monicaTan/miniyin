@@ -28,9 +28,11 @@
               <div class="module common-white">
                   <div class="row-fluid">
                     <div class="span12">
-                        <div class="detail-block detail-contact">
-                            <p class="txt8"><span><i class="fa fa-user"></i>联系人</span><span><i class="fa fa-phone"></i>18700001111</span></p>
-                            <p class="txt8"><span><i class="fa fa-map-marker"></i>回龙观良庄家园测试地址测试地址</span></p>
+                        <div class="txt-block detail-contact">
+                            <p class="txt8">用户：何青山</p>
+                            <p class="txt8 tel-nun">订单号：11402284226</p>
+                            <p class="txt8 tel-nun">下单时间：2014-02-28  10:08:33</p>
+                            <p class="txt8 tel-nun clearfix"><span class="pull-left">订单状态：<em class="txt-red">待付款</em></span><span class="pull-right txt-red">￥230.00</span></p>
                         </div>
                     </div>
                  </div>

@@ -627,8 +627,10 @@ footer{ position: fixed; bottom:0; width: 640px;}
 .module-tab .btn-line{margin-bottom: 10px;}
 .module-tab .btn-line .btn{margin-right: 5px;}
 
+.txt-block{ background:url(../images/right.png) 99% center no-repeat transparent;}
+.txt-block p{line-height: normal;}
 
-
+.tel-nun a {color: #ABADB3;}
 
 
 
