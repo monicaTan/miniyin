@@ -34,6 +34,7 @@
             <td><span class="disabled">15928696607</span></td>
           </tr>
         </table>
+        <button class="btn btn-large btn-danger btn-block">进入礼品卡首页</button>
       </div>
     </div>
   </div>

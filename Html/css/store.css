@@ -65,7 +65,9 @@
 .module-deal{padding: 30px;}
 .pay-all{ color: #B7BBC2;}
 .pay-all em{ font-style: normal; font-size: 36px;}
-
+/*--------------------------------------------Shop trading-------------------------------------------------*/
+.module-tab2{padding: 10px 0 0;}
+.module-tab2 .nav-tabs{margin: 0 30px 20px;}
 /*---------------------------------income--------------------------------------------*/
 .income .common-white h4, h3, h6 {
       text-align: center;
@@ -169,6 +171,7 @@
 .module-deal{padding: 15px;}
 .module-deal h1{font-weight: bold;}
 .pay-all em{ font-style: normal; font-size: 20px;}
+/*--------------------------------------------Shop trading-------------------------------------------------*/
 
 /*-------income----*/
 .income .common-white {
