@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>我的收藏</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+  <!--#include file="inc/common.shtml"-->
+    <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+    <link rel="stylesheet" type="text/css" href="css/store.css">
+    <link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+    <link rel="stylesheet" type="text/css" href="css/template-color.css">
+</head>
+<body>
+<div class="wrap">
+	<div class="wrap-content">
+    <div class="module module-white min-height">
+  		<div class="module-tab0 module-tab2">
+        <ul class="nav nav-tabs" id="myTab">
+          <li class="active"><a href="#home">店铺收藏</a></li>
+          <li><a href="#profile">搭配收藏</a></li>
+        </ul>
+         
+        <div class="tab-content">
+          <div class="tab-pane active" id="home">
+            <div class="module-table-box module-record">
+              <div class="module common-white">
+                <div class="txt-block detail-contact">
+                    <div class="row-fluid">
+                      <div class="span3"><img class="img-rounded" src="../images/no-image.jpg"></div>
+                      <div class="span9">
+                        <p class="txt2 txt-red">HQS-happy</p>
+                        <p class="txt2">电话：18612345678</p>
+                      </div>
+                    </div>
+                </div>
+              </div>
+              <div class="module common-white">
+                <div class="txt-block detail-contact">
+                    <div class="row-fluid">
+                      <div class="span3"><img class="img-rounded" src="../images/no-image.jpg"></div>
+                      <div class="span9">
+                        <p class="txt2 txt-red">HQS-happy</p>
+                        <p class="txt2">电话：18612345678</p>
+                      </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="profile">
+            <div class="module-table-box module-record">
+              <div class="module common-white">
+                <div class="txt-block detail-contact">
+                    <div class="row-fluid">
+                      <div class="span3"><img class="img-rounded" src="../images/no-image.jpg"></div>
+                      <div class="span9">
+                        <p class="txt2 txt-red">HQS-happy</p>
+                        <p class="txt2">电话：18612345678</p>
+                      </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+<script>
+    $('#myTab a').click(function (e) {
+    e.preventDefault();
+    $(this).tab('show');
+    })
+</script>
