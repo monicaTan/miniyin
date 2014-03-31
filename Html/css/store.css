@@ -54,6 +54,13 @@
 .module-password .password-nitice{ color: #b7bbc2;}
 .pass-button .btn{ margin-top: 70px;}
 
+/*---------------------------------Return Applications--------------------------------------------*/
+.module-formblock{ padding: 30px;}
+.module-formblock .form-defined input{ font-size: 24px;}
+.module-formblock .form-defined input,
+.module-formblock .form-defined select,
+.module-formblock .password-nitice{ color: #b7bbc2;}
+.block-button .btn{ margin-top: 70px;}
 /*---------------------------------Pay Fails--------------------------------------------*/
 .module-pay{ padding: 30px;}
 .module-pay .pay-h1 i{ margin-right: 4px; display: inline-block; height: 64px; width: 64px; background: url(../images/sad.png) left center no-repeat transparent; vertical-align: middle;}
@@ -159,6 +166,11 @@
 .module-password .form-defined input{ font-size: 14px;}
 .module-password .form-defined p{ margin-bottom: 5px;}
 .pass-button .btn{ margin-top: 35px;}
+/*---------------------------------Change Password--------------------------------------------*/
+.module-formblock{ padding: 15px;}
+.module-formblock .form-defined input{ font-size: 14px;}
+.module-formblock .form-defined p{ margin-bottom: 5px;}
+.block-button .btn{ margin-top: 35px;}
 
 /*---------------------------------Pay Fails--------------------------------------------*/
 .module-pay{ padding: 15px;}

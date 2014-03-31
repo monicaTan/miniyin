@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>退货申请</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+  <!--#include file="inc/common.shtml"-->
+    <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+    <link rel="stylesheet" type="text/css" href="css/store.css">
+    <link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+    <link rel="stylesheet" type="text/css" href="css/template-color.css">
+</head>
+<body>
+<div class="wrap">
+	<div class="wrap-content">
+		<div class="module module-white">
+      <div class="module-formblock min-height">
+        <form class="form-defined">
+          <div class="controls-defined defined-large">
+            <p class="txt1">退货原因</p>
+            <select class="large-block">
+              <option>1</option>
+              <option>2</option>
+              <option>3</option>
+              <option>4</option>
+              <option>5</option>
+            </select>
+            <input class="input-block-level large-block" type="password" placeholder="其他理由">
+          </div>
+          <div class="controls-defined defined-large">
+            <p class="txt1">退货说明（可选）</p>
+            <input class="input-block-level large-block" type="password" placeholder="退货申请备注">
+          </div>
+          <p class="txt4 password-nitice"><i class="fa fa-exclamation-circle txt-red"></i> 提交提现申请后，我们将尽快对您的申请进行审核。请您耐心等待！祝您购物愉快！</p>
+          <p class="block-button"><button type="button" class="btn btn-danger btn-large btn-block">提交申请</button></p>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
