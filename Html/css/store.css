@@ -3,23 +3,9 @@
 .login-form .login-face{ margin: 64px 0 30px;}
 .login-form input{color: #B7BBC2;}
 .login-form .img-circle{ border:4px solid #f4f3f3; width: 144px; height: 144px;}
-/*.login-form div {
-    text-align: center;
-    margin: 15px;
-  }*/
- /* .login-form div:last-child {
-    margin-top: 40px; 
-  }
-*/
+
   .login-form p { margin-bottom: 70px;}
-/*
-  .login-form input {
-     margin-bottom: 0;
-     height: 50px;
-     width: 100%;
-     color: #abadb3;
-     font-size: 18px;
-  }*/
+
   .login-form .tips i{
   margin: 0 4px;
   color: #5d9cec;
