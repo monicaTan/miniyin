@@ -86,73 +86,85 @@
 .shop-information2 p:last-child{ border-bottom:0; padding: 0;}
 /*---------------------------------income--------------------------------------------*/
 .income .common-white h4, h3, h6 {
-      text-align: center;
-    }
-    .income .common-white h3 span {
-      color: #f86b9f;
-    }
+  text-align: center;
+}
+.income .common-white h3 span {
+  color: #f86b9f;
+}
 
-    .income .common-white {
-      font-size: 20px;
-    }
-    .income .common-white a span {
-      color: #b7bac0;
-    }
+.income .common-white {
+  font-size: 20px;
+}
+.income .common-white a span {
+  color: #b7bac0;
+}
 
-    .income a i:last-child {
-      float: right;
-      color: #f86b9f;
-    }
+.income a i:last-child {
+  float: right;
+  color: #f86b9f;
+}
 
-    .income a i span {
-      color: #b7bac0;
-      float: left;
-      padding-right: 8px;
-    }
-    .income .tips {
-      padding: 10px 30px;
-      margin-top: -15px;
-      height: 60px;
-      color: #b7bac0;
-    }
-    .income .tips span {
-      font-size: 18px;
-    }
-    .income .common-white .income-menu4 span {
-      color: #f86b9f;
-    }
+.income a i span {
+  color: #b7bac0;
+  float: left;
+  padding-right: 8px;
+}
+.income .tips {
+  padding: 10px 30px;
+  margin-top: -15px;
+  height: 60px;
+  color: #b7bac0;
+}
+.income .tips span {
+  font-size: 18px;
+}
+.income .common-white .income-menu4 span {
+  color: #f86b9f;
+}
 
-    .income .module-gray {
-       background-color: #f2f1f1;
-       border-top: 1px solid #dddddd;
-       border-bottom: 1px solid #dddddd;
-       padding: 5px 30px;
-       margin-top: 60px;
-    }
-    .income .module-gray div {
-       padding: 22px 0px;
-       float: right;
-    }
-    .income .module-gray div a {
-       color: #f86b9f;
-       font-size: 24px;
-    }
-    .income .module-gray div span {
-       padding-right: 10px;  
-    }
-    .income .common-white .fa {
-      color: #f86b9f;
-    }
+.income .module-gray {
+   background-color: #f2f1f1;
+   border-top: 1px solid #dddddd;
+   border-bottom: 1px solid #dddddd;
+   padding: 5px 30px;
+   margin-top: 60px;
+}
+.income .module-gray div {
+   padding: 22px 0px;
+   float: right;
+}
+.income .module-gray div a {
+   color: #f86b9f;
+   font-size: 24px;
+}
+.income .module-gray div span {
+   padding-right: 10px;  
+}
+.income .common-white .fa {
+  color: #f86b9f;
+}
 
  /*----------income list----------*/   
- .income-list .common-white div {
-    line-height: 37px;
-    height: 37px;
-    color: #636363;
-  }
-  .income-list .common-white div:last-child {
-    color: #f86b9f;         
-  }
+.income-list .common-white div {
+  line-height: 37px;
+  height: 37px;
+  color: #636363;
+}
+.income-list .common-white div:last-child {
+  color: #f86b9f;         
+}
+/*-----------recieve-list----------------------*/
+.recieve-list .common-white {
+  height: 93px;
+}
+.recieve-list .span3 {
+  height: 93px;
+  line-height: 93px;
+  color: #f86b9f;
+}
+.recieve-list .span3 span {
+  text-align: right;
+}
 
 
 @media screen and (max-width: 580px) {
@@ -240,6 +252,15 @@
 .income-list .common-white div {
   line-height: 22px;
   height: 22px;
+}
+/*-----------recieve-list----------------------*/
+.recieve-list .common-white {
+  height: 73px;
+}
+.recieve-list .span3 {
+  height: 73px;
+  line-height: 73px;
+  color: #f86b9f;
 }
 
 }
