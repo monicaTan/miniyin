@@ -96,11 +96,11 @@
 
         <div class="bottom-btnbox">
             <form class="form-inline">
-                <button class="btn btn-large btn-danger"><i class="fa fa-eye"></i>预 览</button>
-                <button class="btn btn-large btn-danger"><i class="fa fa-upload"></i>提交发布</button>
+                <button class="btn btn-small btn-danger">预 览</button>
+                <button class="btn btn-small btn-danger">提交发布</button>
             </form>
         </div>
-        <div class="popup-menu-box">
+        <div class="popup-menu-box" style="display:none">
             <div class="popup-menu">
                 <a class="txt1" href="#">新拍商品</a>
                 <a class="txt1" href="#">已拍商品</a>

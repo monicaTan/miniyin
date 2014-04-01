@@ -535,9 +535,15 @@ h6 small {font-size: 10px; line-height: 16px;}
 
   .btn{border-radius: 2px;}
 }
-
-
-
+/*-------------------------------Css Bootm btn---------------------------------*/
+.bottom-btnbox{ position: fixed; bottom: 0; width: 640px; padding: 20px 0; background-color: #f2f1f1; text-align: center; border: 1px solid #eeeeee; border-left: 0; border-right: 0;}
+.bottom-btnbox .btn{ margin-right: 20px; width: 42%;}
+.bottom-btnbox .btn:last-child{ margin-right: 0;}
+.bottom-btnbox form{margin: 0;}
+@media screen and (max-width: 580px) {
+.bottom-btnbox{width: 100%;padding: 10px 0;}
+.bottom-btnbox .btn{ margin-right: 10px; font-size: 14px; padding: 8px 12px;}
+}
 
 
 .wrap{max-width: 640px; margin:0 auto;}

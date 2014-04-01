@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>商品搭配</title>
+	<title>目录</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 <!--#include file="inc/common.shtml"-->
@@ -24,7 +24,7 @@
 <a target="_blank" href="shop-edit.shtml">店铺详情</a>
 <a target="_blank" href="my-collection.shtml">店铺收藏</a>
 <div>商品</div>
-<a target="_blank" href="combos-new.shtml">商品搭配（组合照）</a>
+<a target="_blank" href="combos-new.shtml">商品搭配（组合照）(popup-menu-box)</a>
 <a target="_blank" href="combos-show.shtml">商品搭配导购</a>
 <a target="_blank" href="goods-upload.shtml">新建产品</a>
 <a target="_blank" href="product-exist.shtml">已拍商品</a>
