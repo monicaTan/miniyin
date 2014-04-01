@@ -136,6 +136,7 @@
 .form-defined,
 .controls-defined,
 .form-defined input,
+.form-defined select,
 .form-defined textarea,
 [class*="col-"] > span{
 box-sizing:border-box;
@@ -178,7 +179,8 @@ font-family: "microsoft yahei";
 .col-11{width:91.6666%;}
 .col-12{width:100%;}
 
-[class*="col-"] input{
+[class*="col-"] input,
+[class*="col-"] select{
   border-radius: 5px;
   width: 100%;
   margin-bottom: 10px;
@@ -191,6 +193,9 @@ font-family: "microsoft yahei";
  display: inline-block;
  height: auto;
  color: #676767;
+}
+[class*="col-"] .txt-red{
+ color: #F16498;
 }
 .form-defined .input-block-level{
   margin-bottom: 10px;
@@ -213,12 +218,14 @@ label[class*="col-"]{
 /*------------------------------Defined Large------------------------------*/
 .defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
+.defined-large [class*="col-"] select,
 .defined-large label[class*="col-"],
 .form-defined .large-block{
   font-size: 30px;
 }
 .defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
+.defined-large [class*="col-"] select,
 .form-defined .large-block{
   height: 74px;
   line-height:normal;
@@ -244,12 +251,14 @@ label[class*="col-"]{
 /*------------------------------Defined Small------------------------------*/
 .defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
+.defined-small [class*="col-"] select,
 .defined-small label[class*="col-"],
 .form-defined .small-block{
   font-size: 24px;
 }
 .defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
+.defined-small [class*="col-"] select,
 .form-defined .small-block{
   height: 60px;
   line-height:normal;
@@ -275,12 +284,14 @@ label[class*="col-"]{
 /*------------------------------Defined Mini------------------------------*/
 .defined-mini [class*="col-"] > span,
 .defined-mini [class*="col-"] input,
+.defined-mini [class*="col-"] select,
 .defined-mini label[class*="col-"],
 .form-defined .mini-block{
   font-size: 20px;
 }
 .defined-mini [class*="col-"] > span,
 .defined-mini [class*="col-"] input,
+.defined-mini [class*="col-"] select,
 .form-defined .mini-block{
   height: 42px;
   line-height:normal;
@@ -304,6 +315,7 @@ label[class*="col-"]{
 
 @media screen and (max-width: 580px){
   [class*="col-"] input{border-radius: 2px;}
+  [class*="col-"] select{border-radius: 2px;}
   .col-1{width:100%;}
   div[class*="col-"]{padding-right: 5px;}
   div[class*="col-1"]{padding-right: 0;}
@@ -311,6 +323,7 @@ label[class*="col-"]{
 /*-----------------------------Defined Large---------------------------------*/
 .defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
+.defined-large [class*="col-"] select,
 .defined-large label[class*="col-"],
 .form-defined .large-block{
   font-size: 16px;
@@ -320,6 +333,7 @@ label[class*="col-"]{
 }
 .defined-large [class*="col-"] > span,
 .defined-large [class*="col-"] input,
+.defined-large [class*="col-"] select,
 .form-defined .large-block{
   height: 42px;
   line-height:normal;
@@ -345,6 +359,7 @@ label[class*="col-"]{
 }
 .defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
+.defined-small [class*="col-"] select,
 .defined-small label[class*="col-"],
 .form-defined .small-block{
   font-size: 12px;
@@ -356,6 +371,7 @@ label[class*="col-"]{
 
 .defined-small [class*="col-"] > span,
 .defined-small [class*="col-"] input,
+.defined-small [class*="col-"] select,
 .form-defined .small-block{
   height: 34px;
   line-height:normal;
@@ -378,6 +394,7 @@ label[class*="col-"]{
 }
 .defined-mini [class*="col-"] > span,
 .defined-mini [class*="col-"] input,
+.defined-mini [class*="col-"] select,
 .defined-mini label[class*="col-"],
 .form-defined .mini-block{
   font-size: 11px;
@@ -389,6 +406,7 @@ label[class*="col-"]{
 
 .defined-mini [class*="col-"] > span,
 .defined-mini [class*="col-"] input,
+.defined-mini [class*="col-"] select,
 .form-defined .mini-block{
   height: 24px;
   line-height:normal;

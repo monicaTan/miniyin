@@ -38,7 +38,7 @@
               </label> 
 
               <label class="checkbox" for="is_accept">
-              <input id="is_accept" name="is_accept" type="checkbox" value="1" class="valid"><a href="#">我已阅读并同意《银泰礼品卡服务协议》</a>
+              <input id="is_accept" name="is_accept" type="checkbox" value="1" class="valid"><span>我已阅读并同意<a href="#">《银泰礼品卡服务协议》</a></span>
               </label>
             </div> 
               <div class="module-btn text-center">
