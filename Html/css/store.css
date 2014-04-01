@@ -65,10 +65,8 @@
 .module-applications ol{ margin: 0; list-style-position: inside;}
 .module-applications ol li{ line-height: normal;}
 .module-applications .pay-h1{margin-bottom: 60px;}
-.module-applications .pay-h1 i{ margin-right: 4px; display: inline-block; height: 64px; width: 64px; background: url(../images/smail.png) left center no-repeat transparent; vertical-align: middle;}
 /*---------------------------------Pay Fails--------------------------------------------*/
 .module-pay{ padding: 30px;}
-.module-pay .pay-h1 i{ margin-right: 4px; display: inline-block; height: 64px; width: 64px; background: url(../images/sad.png) left center no-repeat transparent; vertical-align: middle;}
 .pay-link a{ text-decoration: underline;}
 .pay-link { margin-bottom: 100px;}
 /*---------------------------------Successful Deal--------------------------------------------*/
@@ -210,11 +208,9 @@
 .block-button .btn{ margin-top: 35px;}
 .module-applications{padding: 15px;}
 .module-applications .pay-h1{margin-bottom: 30px;}
-.module-applications .pay-h1 i{ margin-right: 4px; display: inline-block; height: 32px; width: 32px;background-size: 32px auto;}
 /*---------------------------------Pay Fails--------------------------------------------*/
 .module-pay{ padding: 15px;}
 .module-pay .pay-h1{margin-bottom: 0;}
-.module-pay .pay-h1 i{ margin-right: 4px; display: inline-block; height: 32px; width: 32px;background-size: 32px auto;}
 .pay-link { margin-bottom: 50px;}
 
 /*---------------------------------Successful Deal--------------------------------------------*/
