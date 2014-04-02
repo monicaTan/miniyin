@@ -438,6 +438,7 @@ label[class*="col-"]{
 <div class="module-btn">
     <p><button class="btn btn-danger btn-large btn-block" type="button"><i class="fa fa-share-square-o"></i>font-size:30px  btn-block</button></p>
     <p><button class="btn btn-danger btn-large" type="button">font-size:30px</button></p>
+    <p><a class="btn btn-danger btn-large">font-size:30px</a></p>
     <p><button class="btn btn-danger btn-small" type="button"><i class="fa fa-share-square-o"></i>font-size:24px</button></p>
     <p><button class="btn btn-danger btn-mini" type="button">font-size:20px</button></p>
 </div>
