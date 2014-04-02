@@ -35,7 +35,6 @@
                     <li class="active"><a href="#tab1" data-toggle="tab">价格</a></li>
                     <li><a href="#tab2" data-toggle="tab">折扣</a></li>
                     <li><a href="#tab3" data-toggle="tab">品牌</a></li>
-                    <li><a href="#tab4" data-toggle="tab">关键字</a></li>
                 </ul>
                 <div class="tab-content">
                     <div class="tab-pane active" id="tab1">
@@ -60,14 +59,6 @@
                             <a href="#">阿依莲</a>
                             <a href="#">淑女屋</a>
                             <a href="#">太平鸟</a>
-                        </div>
-                    </div>
-                    <div class="tab-pane" id="tab4">
-                         <div class="search-condition">
-                            <a href="#">衣服</a>
-                            <a href="#">鞋子</a>
-                            <a href="#">连衣裙</a>
-                            <a href="#">牛仔裤</a>
                         </div>
                     </div>
                 </div>
