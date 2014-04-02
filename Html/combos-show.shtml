@@ -74,7 +74,7 @@
       <div class="p-price1 clearfix">
         <span class="txt3 pull-left">打包价：<em>￥180.00</em></span>
         <span class="txt4 pull-right"><i class="fa fa-star-o"></i> 收藏</span>
-        <!-- <span class="txt4 pull-right txt-red"><i class="fa fa-star-o"></i> 已收藏</span> -->
+        <!-- <span class="txt4 pull-right txt-red"><i class="fa fa-star"></i> 已收藏</span> -->
       </div>
     </div>
 
