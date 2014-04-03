@@ -227,6 +227,8 @@ font-family: "microsoft yahei";
   line-height:normal;
   vertical-align: middle;
   font-family: "microsoft yahei";
+  border-color: rgba(227, 228, 232, 1) rgba(227, 228, 232, 1) rgba(227, 228, 232, 1);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0) inset, 0 1px 2px rgba(0, 0, 0, 0)
 }
 [class*="col-"] > span{
  display: inline-block;
@@ -620,9 +622,9 @@ footer{ position: fixed; bottom:0; width: 640px;}
 .inline-horizontal{margin-bottom: 10px;}
 .form-box form .newly{ color:#2E5BE2; text-decoration: underline;}
 .block-box{margin-top: 70px;}
-.goods-size a{ display: inline-block; margin:0 5px 5px 0; padding: 4px 10px; border-radius: 2px; border:2px solid #eeeeee; color: #c3c6cb; font-family: arial;}
+.goods-size a{ display: inline-block; float: left; margin:0 5px 5px 0; padding: 4px 10px; border-radius: 2px; border:2px solid #eeeeee; color: #c3c6cb; font-family: arial;}
 .goods-size a.active{border:2px solid #f16498; color: #676767;}
-.defined-large [class*="col-"] > span.goods-size { height: auto;}
+.defined-small [class*="col-"] > span.goods-size { height: auto;}
 
 
 /*--------------------------------Advice write---------------------------------*/

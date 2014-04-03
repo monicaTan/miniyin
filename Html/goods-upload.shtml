@@ -43,7 +43,7 @@
         <div class="module module-bg-white2">
             <div class="form-box">
                 <form class="form-defined">
-                    <div class="controls-defined defined-large">
+                    <div class="controls-defined defined-small">
                         <label class="col-4 text-right"><abbr class="txt-red">*</abbr>品牌：</label>
                         <div class="col-8">
                             <select>
@@ -55,9 +55,9 @@
                             </select>
                         </div>
                     </div>
-                    <div class="controls-defined defined-large">
+                    <div class="controls-defined defined-small">
                         <label class="col-4 text-right"><abbr class="txt-red">*</abbr>销售编码：</label>
-                        <div class="col-6">
+                        <div class="col-5">
                             <select>
                                 <option>1</option>
                                 <option>2</option>
@@ -66,28 +66,28 @@
                                 <option>5</option>
                             </select>
                         </div>
-                        <div class="col-2"><span><a class="txt8 newly" href="#">新增</a></span></div>
+                        <div class="col-3"><span><a class="txt8 newly" href="#">新增</a></span></div>
                     </div>
-                    <div class="controls-defined defined-large">
+                    <div class="controls-defined defined-small">
                         <label class="col-4 text-right"><abbr class="txt-red">*</abbr>货号：</label>
                         <div class="col-8"><input type="text" placeholder=""></div>
                     </div>
-                    <div class="controls-defined defined-large">
+                    <div class="controls-defined defined-small">
                         <label class="col-4 text-right"><abbr class="txt-red">*</abbr>吊牌价：</label>
                         <div class="col-8"><input type="text" placeholder=""></div>
                     </div>
-                    <div class="controls-defined defined-large">
+                    <div class="controls-defined defined-small">
                         <label class="col-4 text-right"><abbr class="txt-red">*</abbr>微信价：</label>
                         <div class="col-8"><input type="text" placeholder=""></div>
                     </div>
-                    <div class="controls-defined defined-large">
+                    <div class="controls-defined defined-small">
                         <label class="col-4 text-right"><abbr class="txt-red">*</abbr>分类：</label>
                         <div class="col-8"><input type="text" placeholder=""></div>
                     </div>
-                    <div class="controls-defined defined-large">
+                    <div class="controls-defined defined-small">
                         <label class="col-4 text-right"><abbr class="txt-red">*</abbr>尺码：</label>
                         <div class="col-8">
-                        <span class="goods-size">
+                            <span class="goods-size clearfix">
                                 <a class="active" href="#">S</a>
                                 <a href="#">M</a>
                                 <a href="#">L</a>
