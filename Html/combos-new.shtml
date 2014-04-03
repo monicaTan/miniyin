@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>商品搭配</title>
-	<meta name="description" content="">
-	<meta name="keywords" content="">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>商品搭配</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
 <!--#include file="inc/common.shtml"-->
 <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
 <link rel="stylesheet" type="text/css" href="css/back-end.css">
@@ -18,89 +18,90 @@
 </a>
 <div class="wrap">
 
-	<div class="wrap-inner back-wrap-inner">
-		<div class="module module-bg-white">
-            <div class="module-title2">
-                <div class="row-fluid">
-                    <div class="span6"><h3><i class="fa fa-heart"></i>搭配组合照</h3></div>
-                    <div class="span6">
-                        <div class="text-right"><a class="title-link" href="#">商品搭配教程<i class="fa fa-angle-right"></i></a></div>
+    <div class="wrap-inner back-wrap-inner">
+        <form class="form-defined goods-describe">
+            <div class="module module-bg-white">
+                <div class="module-title2">
+                    <div class="row-fluid">
+                        <div class="span6"><h3><i class="fa fa-heart"></i>搭配组合照</h3></div>
+                        <div class="span6">
+                          <a class="title-link" href="#">商品搭配教程<i class="fa fa-angle-right"></i></a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="module-pull">
-               <div class="row-fluid">
-                   <div class="span2">&nbsp;</div>
-                   <div class="span8">
-                       <div class="show-imgbox-no"><!-- 没有上传图片时class="show-imgbox-no" ;有上传后的图片时class="show-imgbox-yes" -->
-                           <img src="../images/no-image.jpg" alt="img-name"><!-- 400px * 400px 没有上传图片时显示默认图片no-image.jpg-->
+                <div class="module-pull">
+                   <div class="row-fluid">
+                       <div class="span2">&nbsp;</div>
+                       <div class="span8">
+                           <div class="show-imgbox-no"><!-- 没有上传图片时class="show-imgbox-no" ;有上传后的图片时class="show-imgbox-yes" -->
+                               <img src="../images/no-image.jpg" alt="img-name"><!-- 400px * 400px 没有上传图片时显示默认图片no-image.jpg-->
+                           </div>
                        </div>
+                       <div class="span2">&nbsp;</div>
                    </div>
-                   <div class="span2">&nbsp;</div>
-               </div>
-            </div>
-            <div class="mini-imgbox">
-                <ul class="inline">
-                    <li><i></i><img src="../images/suit-11.jpg"></li><!-- 100px * 100px -->
-                    <li><i></i><img src="../images/suit-11.jpg"></li>
-                    <li><i></i><img src="../images/suit-11.jpg"></li>
-                    <li><i></i><img src="../images/suit-11.jpg"></li>
-                    <li class="add-link"><a href="#"><img src="../images/add-img.png"></a></li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="module module-bg-white">
-            <div class="module-title2">
-                <div class="row-fluid">
-                    <div class="span12"><h3><i class="fa fa-heart"></i>搭配商品上传</h3></div>
+                </div>
+                <div class="mini-imgbox">
+                    <ul class="inline">
+                        <li><i></i><img src="../images/suit-11.jpg"></li><!-- 100px * 100px -->
+                        <li><i></i><img src="../images/suit-11.jpg"></li>
+                        <li><i></i><img src="../images/suit-11.jpg"></li>
+                        <li><i></i><img src="../images/suit-11.jpg"></li>
+                        <li class="add-link"><a href="#"><img src="../images/add-img.png"></a></li>
+                    </ul>
                 </div>
             </div>
-            <div class="upload-img">
-                <ul class="inline">
-                    <li><i></i><img src="../images/suit-11.jpg"></li><!-- 100px * 100px -->
-                    <li><i></i><img src="../images/suit-11.jpg"></li>
-                    <li class="add-link"><a href="#"><img src="../images/add-img.png"></a></li>
-                </ul>
-            </div>
-        </div>
 
-        <div class="module module-bg-white">
-            <div class="module-title2">
-                <div class="row-fluid">
-                    <div class="span4"><h3><i class="fa fa-pencil-square-o"></i>搭配描述</h3></div>
-                    <div class="span8">
-                        <div class="text-right"><small><i class="fa fa-exclamation-circle"></i> 支持最多128，最少20个字符</small></div>
+            <div class="module module-bg-white">
+                <div class="module-title2">
+                    <div class="row-fluid">
+                        <div class="span12"><h3><i class="fa fa-heart"></i>搭配商品上传</h3></div>
+                    </div>
+                </div>
+                <div class="upload-img">
+                    <ul class="inline">
+                        <li><i></i><img src="../images/suit-11.jpg"></li><!-- 100px * 100px -->
+                        <li><i></i><img src="../images/suit-11.jpg"></li>
+                        <li class="add-link"><a href="#"><img src="../images/add-img.png"></a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="module module-bg-white">
+                <div class="module-title2">
+                    <div class="row-fluid">
+                        <div class="span4"><h3><i class="fa fa-pencil-square-o"></i>搭配描述</h3></div>
+                        <div class="span8">
+                            <div class="text-right"><small><i class="fa fa-exclamation-circle"></i> 支持最多128，最少20个字符</small></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="goods-describe">
+                    <textarea placeholder="GUESS时尚女包,D&G衬衫,ONLY牛仔裤|"></textarea>
+                </div>
+            </div>
+
+            <div class="module module-bg-white">
+                <div class="module-title2">
+                    <div class="row-fluid">
+                        <div class="span12"><h3><i class="fa fa-user"></i>定制对象</h3></div>
+                    </div>
+                </div>
+                <div class="module-formbox">
+                    <input type="text" placeholder="顾客姓名或昵称" class="input-block-level small-block">
+                    <textarea placeholder="GUESS时尚女包,D&G衬衫,ONLY牛仔裤|"></textarea>
+                    <div class="controls-defined defined-small module-choose">
+                        <label class="col-4"><input type="radio" name="module">模板一</label>
+                        <label class="col-4"><input type="radio" name="module">模板二</label>
+                        <label class="col-4"><input type="radio" name="module">模板三</label>
                     </div>
                 </div>
             </div>
-            <div class="goods-describe">
-                <form>
-                    <textarea placeholder="GUESS时尚女包,D&G衬衫,ONLY牛仔裤|"></textarea>
-                </form>
-            </div>
-        </div>
 
-        <div class="module module-bg-white">
-            <div class="module-title2">
-                <div class="row-fluid">
-                    <div class="span12"><h3><i class="fa fa-user"></i>定制对象</h3></div>
-                </div>
-            </div>
-            <div class="module-formbox">
-                    <form class="form-defined goods-describe">
-                        <input type="text" placeholder="顾客姓名或昵称" class="input-block-level small-block">
-                        <textarea placeholder="GUESS时尚女包,D&G衬衫,ONLY牛仔裤|"></textarea>
-                    </form>
-            </div>
-        </div>
-
-        <div class="bottom-btnbox">
-            <form class="form-inline">
+            <div class="bottom-btnbox">
                 <button class="btn btn-small btn-danger">预 览</button>
                 <button class="btn btn-small btn-danger">提交发布</button>
-            </form>
-        </div>
+            </div>
+        </form>
         <div class="popup-menu-box" style="display:none">
             <div class="popup-menu">
                 <a class="txt1" href="#">新拍商品</a>
@@ -109,7 +110,7 @@
                 <button class="btn btn-large btn-danger btn-block txt1">取消</button>
             </div>
         </div>
-	</div>
+    </div>
 
 </div>
 
