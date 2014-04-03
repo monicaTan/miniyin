@@ -88,8 +88,9 @@
                 </div>
             </div>
             <div class="module-formbox">
-                    <form class="form-inline">
-                        <input type="text" class="input-small"><span class="help-inline help-inlinetext">顾客姓名或昵称</span>
+                    <form class="form-defined goods-describe">
+                        <input type="text" placeholder="顾客姓名或昵称" class="input-block-level small-block">
+                        <textarea placeholder="GUESS时尚女包,D&G衬衫,ONLY牛仔裤|"></textarea>
                     </form>
             </div>
         </div>
