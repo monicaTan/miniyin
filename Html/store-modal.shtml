@@ -9,7 +9,6 @@
 <!--#include file="inc/common.shtml"-->
 <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
 <link rel="stylesheet" type="text/css" href="css/mobile-media.css">
-<link rel="stylesheet" type="text/css" href="css/jquery.modal.css">
 <link rel="stylesheet" type="text/css" href="css/template-color.css">
 <script type="text/javascript" src="js/jquery.modal.js"></script>
 </head>
