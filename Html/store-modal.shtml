@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>模态框</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+<!--#include file="inc/common.shtml"-->
+<link rel="stylesheet" type="text/css" href="css/mini-yin.css">
+<link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+<link rel="stylesheet" type="text/css" href="css/jquery.modal.css">
+<link rel="stylesheet" type="text/css" href="css/template-color.css">
+<script type="text/javascript" src="js/jquery.modal.js"></script>
+</head>
+<body>
+
+<div class="wrap">
+    <!-- header -->
+    <header id="TOP">
+     <div class="header-box">
+        <div class="head-img"><img src="../images/shop-browse.jpg"></div>
+        <div class="shop-head" id="head-menu">
+            <div class="shop-head-inner">
+                <div class="row-fluid">
+                    <div class="span12">
+                        <div class="row-fluid">
+                            <div class="span3"><img class="img-polaroid face-img" src="../images/face-img.jpg"></div>
+                            <div class="span9">
+                                <h2 class="shop-name">FACE&小铺</h2>
+                                <ul class="inline browerse-icon">
+                                    <li>
+                                        <a href="#"><i class="hd btn-tel"></i><span>联系店主</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="hd btn-star"></i><span>收藏店铺</span></a>
+                                        <!-- <a href="#"><i class="hd btn-star-active"></i><span>已收藏</span></a> -->
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="hd btn-share"></i><span>分享给好友</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </div>
+    </header>
+    <!-- /header -->
+
+	<div class="wrap-inner">
+     <div class="module module-white">
+         <!-- Modal HTML embedded directly into document -->
+          <div id="ex1" style="display:none;">
+            <form class="form-defined">
+                <div class="controls-defined defined-small">
+                    <label class="col-4 text-right">销售编码</label>
+                    <div class="col-8"><input type="text" placeholder=""></div>
+                    <div class="col-12">
+                        <a class="btn btn-danger btn-small btn-block btn-modal">提 交</a>
+                    </div>
+                </div>
+            </form>
+          </div>
+
+          <!-- Link to open the modal -->
+          <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
+
+          <div id="ex2" style="display:none;">
+            <div class="text-center">
+                <div class="txt4 txt-red">温馨提示</div>
+                <div class="txt4">商品信息成功上传！</div>
+                <a class="btn btn-danger btn-small btn-block btn-modal">OK</a>
+            </div>
+          </div>
+          <p><a href="#ex2" rel="modal:open">Open Modal2</a></p>
+     </div>
+    </div>
+
+</div>
+
+</body>
+</html>
