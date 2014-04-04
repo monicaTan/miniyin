@@ -32,6 +32,7 @@
                                     </li>
                                     <li>
                                         <a href="#"><i class="hd btn-star"></i><span>收藏店铺</span></a>
+                                        <!-- <a href="#"><i class="hd btn-star-active"></i><span>已收藏</span></a> -->
                                     </li>
                                     <li>
                                         <a href="#"><i class="hd btn-share"></i><span>分享给好友</span></a>
@@ -55,7 +56,12 @@
             <div class="module-content module-content-card">
                 <div class="img-box"><a href="#"><img src="../images/card.jpg" alt=""></a></div>
                 <p><a href="#">银泰礼品卡在线销售，史无前例的O2O行为，把握机会，不容错过！</a></p>
-                <div class="clearfix"><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
+                <div class="clearfix">
+                    <p class="pull-left price-box">
+                        <span><button type="button" class="btn btn-danger btn-small">点击购买</button></span>
+                    </p>
+                    <a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a>
+                </div>
             </div>
         </div>
         <div class="module module-ele">
@@ -82,7 +88,13 @@
                 
                 
                 <p><a href="#">短袖衬衫十分贴合的颈部和肩部裁剪，自胸线以下扩张的轮廓线，对腰部线条不做任何强调，会令人显得更为苗条。</a></p>
-                <div class="clearfix"><p class="pull-left price-box"><span>打包价：<em>&yen;368.00</em></span><span>吊牌价：&yen;368.00</span></p><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
+                <div class="clearfix">
+                    <p class="pull-left price-box">
+                        <span>打包价：<em>&yen;368.00</em></span>
+                        <span><button type="button" class="btn btn-danger btn-small">点击购买</button></span>
+                    </p>
+                    <a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a>
+                </div>
             </div>
         </div>
 
@@ -107,7 +119,13 @@
                 
                 
                 <p><a href="#">短袖衬衫十分贴合的颈部和肩部裁剪，自胸线以下扩张的轮廓线，对腰部线条不做任何强调，会令人显得更为苗条。</a></p>
-                <div class="clearfix"><p class="pull-left price-box"><span>打包价：<em>&yen;368.00</em></span><span>吊牌价：&yen;368.00</span></p><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
+                <div class="clearfix">
+                    <p class="pull-left price-box">
+                        <span>打包价：<em>&yen;368.00</em></span>
+                        <span><button type="button" class="btn btn-danger btn-small">点击购买</button></span>
+                    </p>
+                    <a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a>
+                </div>
             </div>
         </div>
 	</div>
