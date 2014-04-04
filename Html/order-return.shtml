@@ -85,7 +85,7 @@
         <div class="bottom-button indent-btn">
           <div class="form-defined">
             <div class="controls-defined defined-large">
-              <div class="col-12"><button class="btn btn-danger btn-large btn-block">申请退货</button></div>
+              <div class="col-12"><button class="btn btn-danger btn-large btn-block">继续申请退货</button></div>
             </div>
           </div>
       </div>
