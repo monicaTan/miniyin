@@ -64,10 +64,10 @@
                 </div>
             </div>
         </div>
+        <div class="module-title">
+            <h3>精品搭配推荐</h3>
+        </div>
         <div class="module module-ele">
-            <div class="module-title">
-                <h3>精品搭配推荐</h3>
-            </div>
             <div class="module-content module-content-img">
                 <div class="suit-box clearfix">
                     <div class="row-fluid">
