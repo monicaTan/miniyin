@@ -46,6 +46,7 @@
 <a target="_blank" href="product-show.shtml">商品展示</a>
 <a target="_blank" href="product-buy.shtml">商品购买</a>
 <a target="_blank" href="order-detail.shtml">订单详情</a>
+<a target="_blank" href="order-return.shtml">订单-已申请退货</a>
 <a target="_blank" href="pay-fails.shtml">订单尚未支付成功</a>
 <a target="_blank" href="successful-deal.shtml">交易成功</a>
 <a target="_blank" href="my-order.shtml">我的订单</a>
