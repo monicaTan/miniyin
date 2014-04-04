@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>店铺浏览</title>
-	<meta name="description" content="">
-	<meta name="keywords" content="">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>店铺浏览</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
 <!--#include file="inc/common.shtml"-->
 <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
 <link rel="stylesheet" type="text/css" href="css/mobile-media.css">
@@ -48,8 +48,8 @@
     </header>
     <!-- /header -->
 
-	<div class="wrap-inner">
-		<div class="module">
+    <div class="wrap-inner">
+        <div class="module">
             <div class="module-title">
                 <h3>银泰礼品卡</h3>
             </div>
@@ -71,18 +71,18 @@
             <div class="module-content module-content-img">
                 <div class="suit-box clearfix">
                     <div class="row-fluid">
-                    	<div class="span8">
-                    		<div class="suit-left">
-		                    	<a class="img-box img-posi" href="#"><img src="../images/suit-03.jpg" alt=""><img class="mark-img" src="../images/jingpin.png" alt=""></a>
-		                    </div>
-                    	</div>
-	                    <div class="span4">
-	                    	<div class="suit-right">
-	                            <a class="img-box" href="#"><img src="../images/suit-06.jpg" alt=""></a>
-	                            <a class="img-box" href="#"><img src="../images/suit-09.jpg" alt=""></a>
-	                            <a class="img-box" href="#"><img src="../images/suit-11.jpg" alt=""></a>
-	                    	</div>
-	                    </div>
+                        <div class="span8">
+                            <div class="suit-left">
+                                <a class="img-box img-posi" href="#"><img src="../images/suit-03.jpg" alt=""><img class="mark-img" src="../images/jingpin.png" alt=""></a>
+                            </div>
+                        </div>
+                        <div class="span4">
+                            <div class="suit-right">
+                                <a class="img-box" href="#"><img src="../images/suit-06.jpg" alt=""></a>
+                                <a class="img-box" href="#"><img src="../images/suit-09.jpg" alt=""></a>
+                                <a class="img-box" href="#"><img src="../images/suit-11.jpg" alt=""></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 
@@ -128,7 +128,7 @@
                 </div>
             </div>
         </div>
-	</div>
+    </div>
 
 </div>
 
