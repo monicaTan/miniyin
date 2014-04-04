@@ -593,7 +593,14 @@ h6 small {font-size: 10px; line-height: 16px;}
   border-radius: 8px;
 }
 .btn-modal{margin-top: 20px;}
-
+.modal-transparent {
+    border: 0;
+    border-radius: 0;
+    box-shadow: 0 0 0 #000000;
+    background-color: transparent;
+    border: 0 solid rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
 
 /*-------------------------------Css Bootm btn---------------------------------*/
 .bottom-btnbox{ position: fixed; bottom: 0; width: 640px; padding: 20px 0; background-color: #f2f1f1; text-align: center; border: 1px solid #eeeeee; border-left: 0; border-right: 0;}
