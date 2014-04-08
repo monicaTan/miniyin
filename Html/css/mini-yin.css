@@ -564,7 +564,15 @@ h6 small {font-size: 10px; line-height: 16px;}
   -ms-box-shadow: 0 0 10px #000;
   box-shadow: 0 0 10px #000;
 }
-
+.modal-grey{ 
+  border:0;
+  background-color: rgba(0, 0, 0, 0);
+  -webkit-box-shadow: 0 0 0 #000;
+  -moz-box-shadow: 0 0 0 #000;
+  -o-box-shadow: 0 0 0 #000;
+  -ms-box-shadow: 0 0 0 #000;
+  box-shadow: 0 0 0 #000;
+}
 .modal a.close-modal {
   position: absolute;
   top: -12.5px;
@@ -800,6 +808,7 @@ footer{ position: fixed; bottom:0; width: 640px;}
 /*-----------------------------------Css Modal------------------------------------*/
 .modal { width: 60%; padding: 15px;}
 }
+.modal-grey{width: 100%;}
 
 @media screen and (max-width: 480px) {
   .browerse-icon { top: 26px;}

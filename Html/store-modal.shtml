@@ -75,6 +75,14 @@
             </div>
           </div>
           <p><a href="#ex2" rel="modal:open">Open Modal2</a></p>
+
+          <div id="ex3" class="modal-grey" style="display:none;">
+            <div class="text-center">
+                <div class=""><img src="../images/right-top.png"></div>
+            </div>
+          </div>
+          <p><a href="#ex3" rel="modal:open">Open Modal3</a></p>
+
      </div>
     </div>
 
