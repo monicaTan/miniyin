@@ -15,14 +15,14 @@
 <body>
 <div class="wrap">
 	<div class="wrap-content">
-		<div class="module module-white module-card-img">
-      <img src="../images/card1.jpg">
-      <div class="text-right">
-        <a class="txt3" href="#"><i class="fa fa-hand-o-up"></i> 点击支付</a>
+		<div class="module-card module-card-scan">
+      <h1 class="text-center">礼品卡余额：123.00元</h1>
+      <div class="text-center card-wrap">
+        <img src="../images/card-self.png">
       </div>
-    </div> 
-    <div class="module module-form module-remaining">
-      <button type="submit" class="btn btn-large btn-block btn-danger">我要购卡</button>
+      <div class="btn-already">
+        <button type="button" class="btn btn-defult btn-large btn-block">我要购卡</button>
+      </div>
       <h1 class="text-center no-bingding">您还未绑定银泰礼品卡？<a href="#">我要绑卡</a></h1>
     </div> 
     <div class="module-user-change">

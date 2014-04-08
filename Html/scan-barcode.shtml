@@ -18,11 +18,14 @@
 		<div class="module module-white">
       <div class="module-card module-card-scan">
           <h1 class="text-center">礼品卡余额：123.00元</h1>
-          <div class="text-center card-wrap">
-            <img src="../images/card-t.png">
+          <div class="text-center card-wrap barcord-box">
+            <img src="../images/card-saoma.png">
+            <div class="tel-nun bar-code">
+              123456789123
+            </div>
           </div>
           <div class="btn-scan">
-            <button type="button" class="btn btn-danger btn-large btn-block">支付完成</button>
+            <button type="button" class="btn btn-defult btn-large btn-block">支付完成</button>
           </div>
           <div class="module module-notice">
             <h4><i class="fa fa-exclamation-circle"></i> 温馨提示</h4>

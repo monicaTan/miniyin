@@ -16,7 +16,10 @@
 <div class="wrap">
 	<div class="wrap-content">
 		<div class="module module-white">
-      <div class="module-card module-card-posi"></div>
+      <div class="module-card module-card-posi">
+        <h1 class="text-center">&nbsp;</h1>
+        <img src="../images/card-self.png">
+      </div>
     </div>  
     <div class="bottom-button">
         <div class="form-defined">

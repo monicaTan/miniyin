@@ -18,7 +18,8 @@
 		<div class="module module-white">
       <div class="module-card module-card-posi">
           <h1 class="text-center">恭喜您，成功领取王某人的礼品卡</h1>
-          <p class="txt1 text-center txt-money">礼品卡金额：<em class="txt-red">123.00元</em></p>
+          <p class="txt1 text-center txt-money">礼品卡金额：<em>123.00元</em></p>
+          <img src="../images/card-self.png">
       </div>
     </div>  
     <div class="bottom-button">

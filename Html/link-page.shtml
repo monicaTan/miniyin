@@ -65,6 +65,7 @@
 <a target="_blank" href="change-password.shtml">修改密码</a>
 <a target="_blank" href="user-vericode.shtml">验证码</a>
 <a target="_blank" href="top-up-success.shtml">充值成功</a>
+<a target="_blank" href="user-no-binding.shtml">未绑卡</a>
 <a target="_blank" href="user-already-binding.shtml">已经购卡</a>
 <a target="_blank" href="user-card1.shtml">收到礼品卡</a>
 <a target="_blank" href="user-card5.shtml">赠卡信息填写</a>
