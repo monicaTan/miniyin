@@ -64,6 +64,18 @@
                 </div>
             </div>
         </div>
+
+
+        <!-- 搜索页面为空时显示为以下内容 -->
+        <div class="empty-box min-height">
+            <div><i class="sad-icon"></i></div>
+            <h1 class="empyt-h1">没有符合你的商品</h1>
+        </div>
+        <!-- 其他页面为空时显示为以下内容 -->
+        <div class="empty-box min-height">
+            <div><i class="sad-icon"></i></div>
+            <h1 class="empyt-h1">目前没有任何记录</h1>
+        </div>
 	</div>
 
 </div>
