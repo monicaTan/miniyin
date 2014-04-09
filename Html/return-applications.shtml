@@ -27,11 +27,11 @@
               <option>4</option>
               <option>5</option>
             </select>
-            <input class="input-block-level large-block" type="password" placeholder="其他理由">
+            <input class="input-block-level large-block" type="text" placeholder="其他理由">
           </div>
           <div class="controls-defined defined-large">
             <p class="txt1">退货说明（可选）</p>
-            <input class="input-block-level large-block" type="password" placeholder="退货申请备注">
+            <input class="input-block-level large-block" type="text" placeholder="退货申请备注">
           </div>
           <p class="txt4 password-nitice"><i class="fa fa-exclamation-circle txt-red"></i> 提交提现申请后，我们将尽快对您的申请进行审核。请您耐心等待！祝您购物愉快！</p>
           <p class="block-button"><button type="button" class="btn btn-danger btn-large btn-block">提交申请</button></p>

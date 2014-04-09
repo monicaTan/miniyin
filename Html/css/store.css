@@ -51,15 +51,12 @@
 /*---------------------------------Change Password--------------------------------------------*/
 .module-password{ padding: 30px;}
 .module-password .form-defined input{ font-size: 24px;}
-.module-password .form-defined input,
 .module-password .password-nitice{ color: #b7bbc2;}
 .pass-button .btn{ margin-top: 70px;}
 
 /*---------------------------------Return Applications--------------------------------------------*/
 .module-formblock{ padding: 30px;}
 .module-formblock .form-defined input{ font-size: 24px;}
-.module-formblock .form-defined input,
-.module-formblock .form-defined select,
 .module-formblock .password-nitice{ color: #b7bbc2;}
 .block-button .btn{ margin-top: 70px;}
 .module-applications{padding: 30px;}
@@ -94,7 +91,7 @@
 .withdrawal-notice ol{ list-style-position: inside;margin: 0;}
 .withdrawal-notice ol li{ margin-bottom: 5px; line-height: 30px;}
 .withdrawal-notice .btn-block{ margin-top: 50px;}
-.module-withdrawal [class*="col-"] input{margin-bottom: 0; border:0;}
+.module-withdrawal [class*="col-"] input{margin-bottom: 0;}
 
 /*---------------------------------Product Manage--------------------------------------------*/
 .product-card{border:0; margin-bottom: 20px;r}
@@ -252,7 +249,7 @@
 .module-withdrawal .defined-small label[class*="col-"],
 .module-withdrawal .form-defined .small-block{font-size: 14px;}
 
-.module-withdrawal [class*="col-"] input{margin-bottom: 0; border:0;}
+.module-withdrawal [class*="col-"] input{margin-bottom: 0;}
 .withdrawal-notice ol li{ line-height: 20px;}
 .withdrawal-notice{ padding: 15px;}
 .withdrawal-notice .btn-block{ margin-top: 24px;}
