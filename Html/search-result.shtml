@@ -39,7 +39,7 @@
                 <div class="row-fluid">
                     <div class="span4">
                         <div class="goods-box">
-                            <div class="imgs"><img src="../images/no-image.jpg"><div class="goods-price">￥300.00</div></div>
+                            <div class="imgs"><img src="../images/img640.jpg"><div class="goods-price">￥300.00</div></div>
                             <div class="goods-text">
                                 <a href="#">nike男士专用运动鞋</a>
                                 <span><a class="btn btn-danger btn-mini btn-block">选择搭配</a></span>
@@ -138,6 +138,8 @@
 	</div>
 
 </div>
-
+<script type="text/javascript">
+    $(".goods-box .imgs").each(function(){$(this).css("height", $(this).width())});
+</script>
 </body>
 </html>
