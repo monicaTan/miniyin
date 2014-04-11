@@ -94,6 +94,11 @@
       </div>             
     </div>
 </div>
-
+<script>
+    $(".p-pic").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+</script>
 </body>
 </html>
