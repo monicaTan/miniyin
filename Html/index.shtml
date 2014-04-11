@@ -54,7 +54,14 @@
                 
                 
                 <p><a href="#">短袖衬衫十分贴合的颈部和肩部裁剪，自胸线以下扩张的轮廓线，对腰部线条不做任何强调，会令人显得更为苗条。</a></p>
-                <div class="clearfix"><p class="pull-left price-box"><span>打包价：<em>&yen;368.00</em></span><span>吊牌价：&yen;368.00</span></p><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
+                <div class="clearfix">
+                    <p class="pull-left price-box">
+                        <span>打包价：<em>&yen;368.00</em></span>
+                        <span class="pull-right countdown">
+                            <span>距离本场结束</span><em>6</em><span>天</span><em>2</em><em>1</em>:<em>2</em><em>4</em>:<em>2</em><em>4</em>
+                        </span>
+                    </p>
+                </div>
             </div>
         </div>
 
@@ -79,7 +86,14 @@
                 
                 
                 <p><a href="#">短袖衬衫十分贴合的颈部和肩部裁剪，自胸线以下扩张的轮廓线，对腰部线条不做任何强调，会令人显得更为苗条。</a></p>
-                <div class="clearfix"><p class="pull-left price-box"><span>打包价：<em>&yen;368.00</em></span><span>吊牌价：&yen;368.00</span></p><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
+                <div class="clearfix">
+                    <p class="price-box clearfix">
+                        <span class="pull-left">打包价：<em>&yen;368.00</em></span>
+                        <span class="pull-right countdown">
+                            <span>距离本场结束</span><em>6</em><span>天</span><em>2</em><em>1</em>:<em>2</em><em>4</em>:<em>2</em><em>4</em>
+                        </span>
+                    </p>
+                </div>
             </div>
         </div>
 	</div>
@@ -88,16 +102,13 @@
 </div>
 <script type="text/javascript">
     $(".img-posi").each(function(){
-/*        
-        $($(this).children()[0]).css('height', 'auto');
-        console.log($($(this).children()[0]));  */
         $(this).css("height", $(this).width()*1.5);
-       
-        /*alert($($(this).children()[0]).height());*/
-
         $(this).css("line-height", $(this).height()+"px")
     });
-    $(".suit-right .img-box").each(function(){$(this).css("height", $(this).width())});
+    $(".suit-right .img-box").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
 </script>
 </body>
 </html>
