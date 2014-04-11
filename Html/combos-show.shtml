@@ -71,10 +71,22 @@
     </div>
     <div class="p-title">
       <h4>欧美范套装 简简单单的色彩 上面没有一丝累赘设计，干净利落非常精神</h4>
-      <div class="p-price1 clearfix">
+<!--       <div class="p-price1 clearfix">
         <span class="txt3 pull-left">打包价：<em>￥180.00</em></span>
         <span class="txt4 pull-right"><a href="#"><i class="fa fa-star-o"></i> 收藏</a></span>
         <span class="txt4 pull-right txt-red"><a href=""><i class="fa fa-star"></i> 已收藏</a></span>
+      </div> -->
+      <div class="clearfix p-price1">
+          <p class="pull-left price-box">
+              <span>打包价：<em>&yen;368.00</em></span>
+          </p>
+          <p class="pull-left price-box">
+              <span class="pull-left countdown">
+                  <em>6</em><span>天</span><em>2</em><em>1</em>:<em>2</em><em>4</em>:<em>2</em><em>4</em><span>后下架</span>
+              </span>
+              <!-- <span class="txt4 pull-right"><a href="#"><i class="fa fa-star-o"></i> 收藏</a></span> -->
+              <span class="txt4 pull-right txt-red"><a href=""><i class="fa fa-star"></i> 已收藏</a></span>
+          </p>
       </div>
     </div>
 
