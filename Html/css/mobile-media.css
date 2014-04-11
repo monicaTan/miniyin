@@ -24,7 +24,7 @@
 .form-box form select{ line-height: 30px; height: 30px;}
 .block-box{margin-top: 20px;}
 .img-posi img.mark-img{width: 70px;}
-.suit-right .img-box{ display: inline-block;}
+.suit-right .img-box{ display: block;}
 /*------------------Css Search Result---------------------*/
 .goods-box {margin-bottom: 5px;}
 .goods-box .goods-text { padding: 5px;}

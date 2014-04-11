@@ -43,11 +43,11 @@
                 </div>
                 <div class="mini-imgbox">
                     <ul class="inline">
-                        <li><i></i><img src="../images/ceshi.jpg"></li><!-- 100px * 100px -->
-                        <li><i></i><img src="../images/suit-11.jpg"></li>
-                        <li><i></i><img src="../images/delate.png"></li>
-                        <li><i></i><img src="../images/imgs-08.jpg"></li>
-                        <li class="add-link"><a href="#"><img src="../images/add-img.png"></a></li>
+                        <li><i></i><span class="img-span"><img src="../images/ceshi.jpg"></span></li><!-- 100px * 100px -->
+                        <li><i></i><span class="img-span"><img src="../images/suit-11.jpg"></span></li>
+                        <li><i></i><span class="img-span"><img src="../images/delate.png"></span></li>
+                        <li><i></i><span class="img-span"><img src="../images/imgs-08.jpg"></span></li>
+                        <li class="add-link"><span class="img-span"><a href="#"><img src="../images/add-img.png"></a></span></li>
                     </ul>
                 </div>
             </div>
@@ -60,9 +60,9 @@
                 </div>
                 <div class="upload-img">
                     <ul class="inline">
-                        <li><i></i><img src="../images/card-tbg.jpg"></li><!-- 100px * 100px -->
-                        <li><i></i><img src="../images/ceshi.jpg"></li>
-                        <li class="add-link"><a href="#"><img src="../images/add-img.png"></a></li>
+                        <li><i></i><span class="img-span"><img src="../images/card-tbg.jpg"></span></li><!-- 100px * 100px -->
+                        <li><i></i><span class="img-span"><img src="../images/ceshi.jpg"></span></li>
+                        <li class="add-link"><span class="img-span"><a href="#"><img src="../images/add-img.png"></a></span></li>
                     </ul>
                 </div>
             </div>
@@ -115,9 +115,19 @@
 
 </div>
 <script type="text/javascript">
-    $(".show-imgbox-no").each(function(){$(this).css("height", $(this).width())});
-    $(".upload-img li").each(function(){$(this).css("height", $(this).width())});
-    $(".mini-imgbox li").each(function(){$(this).css("height", $(this).width())});
+    $(".show-imgbox-no").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+    $(".upload-img li").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+    $(".mini-imgbox li").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+
 </script>
 </body>
 </html>
