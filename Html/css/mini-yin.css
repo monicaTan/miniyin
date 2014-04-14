@@ -9,8 +9,10 @@ button a:active,
 button a:hover,
 button a:focus{ color: white;}
 .common-white{padding: 20px 30px; margin-bottom: 15px; border-top:1px solid #eeeeee; border-bottom:1px solid #eeeeee; background: white;}
+  .bottom-distance{margin-bottom: 100px;}
 @media screen and (max-width: 580px) {
   .common-white{padding: 10px 10px; margin-bottom: 8px;}
+  .bottom-distance{margin-bottom: 80px;}
 }
 .module-white{background: white;}
 .module-grey{background: #faf9f9;}
