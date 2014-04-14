@@ -43,11 +43,11 @@
                 </div>
                 <div class="mini-imgbox">
                     <ul class="inline">
-                        <li><i></i><span class="img-span"><img src="../images/ceshi.jpg"></span></li><!-- 100px * 100px -->
-                        <li><i></i><span class="img-span"><img src="../images/suit-11.jpg"></span></li>
-                        <li><i></i><span class="img-span"><img src="../images/delate.png"></span></li>
-                        <li><i></i><span class="img-span"><img src="../images/imgs-08.jpg"></span></li>
-                        <li class="add-link"><span class="img-span"><a href="#"><img src="../images/add-img.png"></a></span></li>
+                        <li><i></i><span class="img-spa"><img src="../images/ceshi.jpg"></span></li><!-- 100px * 100px -->
+                        <li><i></i><span class="img-spa"><img src="../images/suit-11.jpg"></span></li>
+                        <li><i></i><span class="img-spa"><img src="../images/delate.png"></span></li>
+                        <li><i></i><span class="img-spa"><img src="../images/imgs-08.jpg"></span></li>
+                        <li class="add-link"><span class="img-spa"><a href="#"><img src="../images/add-img.png"></a></span></li>
                     </ul>
                 </div>
             </div>
@@ -60,9 +60,9 @@
                 </div>
                 <div class="upload-img">
                     <ul class="inline">
-                        <li><i></i><span class="img-span"><img src="../images/card-tbg.jpg"></span></li><!-- 100px * 100px -->
-                        <li><i></i><span class="img-span"><img src="../images/ceshi.jpg"></span></li>
-                        <li class="add-link"><span class="img-span"><a href="#"><img src="../images/add-img.png"></a></span></li>
+                        <li><i></i><span class="img-spa"><img src="../images/card-tbg.jpg"></span></li><!-- 100px * 100px -->
+                        <li><i></i><span class="img-spa"><img src="../images/ceshi.jpg"></span></li>
+                        <li class="add-link"><span class="img-spa"><a href="#"><img src="../images/add-img.png"></a></span></li>
                     </ul>
                 </div>
             </div>

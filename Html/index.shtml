@@ -22,7 +22,7 @@
                 <h3>商品套装推荐</h3>
             </div>
             <div class="module-content module-content-card">
-                <div class="img-box"><a href="#"><img src="../images/card.jpg" alt=""></a></div>
+                <div class="img-box"<a href="#"><img src="../images/card.jpg" alt=""></a></div>
                 <p><a href="#">银泰礼品卡在线销售，史无前例的O2O行为，把握机会，不容错过！</a></p>
                 <div class="clearfix"><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
             </div>
@@ -106,6 +106,10 @@
         $(this).css("line-height", $(this).height()+"px")
     });
     $(".suit-right .img-box").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+    $(".img-spa").each(function(){
         $(this).css("height", $(this).width())
         $(this).css("line-height", $(this).height()+"px")
     });

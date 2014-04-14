@@ -28,7 +28,7 @@
               <div class="module common-white">
                 <div class="txt-block detail-contact">
                     <div class="row-fluid">
-                      <div class="span3"><span class="img-span"><img class="img-rounded" src="../images/no-image.jpg"></span></div>
+                      <div class="span3"><span class="img-spa"><img class="img-rounded" src="../images/no-image.jpg"></span></div>
                       <div class="span9">
                         <div class="collection-p collection-pbox">
                           <p class="txt2 txt-red">HQS-happy</p>
@@ -41,7 +41,7 @@
               <div class="module common-white">
                 <div class="txt-block detail-contact">
                     <div class="row-fluid">
-                      <div class="span3"><span class="img-span"><img class="img-rounded" src="../images/no-image.jpg"></span></div>
+                      <div class="span3"><span class="img-spa"><img class="img-rounded" src="../images/no-image.jpg"></span></div>
                       <div class="span9">
                         <div class="collection-p collection-pbox">
                           <p class="txt2 txt-red">HQS-happy</p>
@@ -54,7 +54,7 @@
               <div class="module common-white">
                 <div class="txt-block detail-contact">
                     <div class="row-fluid">
-                      <div class="span3"><span class="img-span"><img class="img-rounded" src="../images/no-image.jpg"></span></div>
+                      <div class="span3"><span class="img-spa"><img class="img-rounded" src="../images/no-image.jpg"></span></div>
                       <div class="span9">
                         <div class="collection-p collection-pbox">
                           <p class="txt2 txt-red">HQS-happy</p>
@@ -71,7 +71,7 @@
               <div class="module common-white">
                 <div class="txt-block detail-contact">
                     <div class="row-fluid">
-                      <div class="span3"><span class="img-span"><img class="img-rounded" src="../images/no-image.jpg"></span></div>
+                      <div class="span3"><span class="img-spa"><img class="img-rounded" src="../images/no-image.jpg"></span></div>
                       <div class="span9">
                         <div class="collection-p collection-pbox">
                           <p class="txt2">女士欧美范时尚套装</p>
@@ -95,7 +95,7 @@
     $('#myTab a').click(function (e) {
     e.preventDefault();
     $(this).tab('show');
-     $(".img-span").each(function(){
+     $(".img-spa").each(function(){
         $(this).css("height", $(this).width())
         $(this).css("line-height", $(this).height()+"px")
     });
