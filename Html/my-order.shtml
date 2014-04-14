@@ -81,6 +81,11 @@
     </div>     
 	</div>
 </div>
-
+<script type="text/javascript">
+    $(".detail-imgbox").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+</script>
 </body>
 </html>
