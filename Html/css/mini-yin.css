@@ -10,6 +10,10 @@ button a:hover,
 button a:focus{ color: white;}
 .common-white{padding: 20px 30px; margin-bottom: 15px; border-top:1px solid #eeeeee; border-bottom:1px solid #eeeeee; background: white;}
   .bottom-distance{margin-bottom: 100px;}
+
+
+a,button,input,textarea{-webkit-tap-highlight-color:rgba(255,0,0,0);}/* 1.去除android a/button/input标签被点击时产生的边框 2.去除ios a标签被点击时产生的半透明灰色背景 */
+
 @media screen and (max-width: 580px) {
   .common-white{padding: 10px 10px; margin-bottom: 8px;}
   .bottom-distance{margin-bottom: 80px;}
@@ -692,13 +696,14 @@ footer{ position: fixed; bottom:0; width: 640px;}
 .footer-inner .btn-group.open .btn.dropdown-toggle{background-color: transparent;}
 .footer-inner .btn-group.open .btn.dropdown-toggle.nav4{ background-image: url(../images/nav-img.png); text-decoration: none; background-position: center -870px;}
 .footer-inner .btn-group .btn.dropdown-toggle.nav4{text-decoration: none;}
-.footer-inner .dropdown-menu.pull-right{right: -15px; text-align: left; min-width: 160px;border:0;}
+.footer-inner .dropdown-menu.pull-right{right: 0; text-align: left; min-width: 160px;border:0;}
 .footer-inner .dropdown-menu > li > a{ font-size: 18px; padding: 10px 24px 10px 50px; background-image: url(../images/more.png); background-size: 20px auto; background-repeat: no-repeat;}
 .footer-inner .dropdown-menu > li.nav-down1 > a{ background-position: 20px 11px;}
 .footer-inner .dropdown-menu > li.nav-down2 > a{background-position: 20px -56px;}
 .footer-inner .dropdown-menu > li.nav-down3 > a{background-position: 20px -124px;}
+.footer-inner .btn-group.dropup { width: 100%;}
 .nav-caret{height: 1px; line-height: 0;}
-.bottom-caret .caret { position: relative; bottom: -6px; left: 66%; border-bottom: 10px solid rgba(0, 0, 0, 0);border-top: 10px solid rgba(248, 107, 159, 0.85);border-left: 10px solid rgba(0, 0, 0, 0); border-right: 10px solid rgba(0, 0, 0, 0);content: "";}
+.bottom-caret .caret { position: relative; margin-left: -5px; bottom: -6px; left: 50%; border-bottom: 10px solid rgba(0, 0, 0, 0);border-top: 10px solid rgba(248, 107, 159, 0.85);border-left: 10px solid rgba(0, 0, 0, 0); border-right: 10px solid rgba(0, 0, 0, 0);content: "";}
 .nav-fixed{position:fixed;top:0; max-height: 200px; z-index:10; left: auto; width: 640px; /*opacity: 0.9;*/}
 .nav-fixed .shop-head-inner{border-bottom: 1px solid #eeeeee; background-color: rgba(255, 255, 255, 0.85); /*opacity: 0.9;*/}
 
