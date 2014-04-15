@@ -22,7 +22,7 @@
                 <h3>商品套装推荐</h3>
             </div>
             <div class="module-content module-content-card">
-                <div class="img-box"><a href="#"><img src="../images/card.jpg" alt=""></a></div>
+                <div class="img-box"<a href="#"><img src="../images/card.jpg" alt=""></a></div>
                 <p><a href="#">银泰礼品卡在线销售，史无前例的O2O行为，把握机会，不容错过！</a></p>
                 <div class="clearfix"><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
             </div>
@@ -36,14 +36,17 @@
                     <div class="row-fluid">
                     	<div class="span8">
                     		<div class="suit-left">
-		                    	<a class="img-box img-posi" href="#"><img src="../images/suit-03.jpg" alt=""><img class="mark-img" src="../images/jingpin.png" alt=""></a>
+		                    	<a class="img-box img-posi" href="#">
+                                <img src="../images/img640.jpg" alt="" class='main-img'>
+                                <img class="mark-img" src="../images/jingpin.png" alt="">
+                                </a>
 		                    </div>
                     	</div>
 	                    <div class="span4">
 	                    	<div class="suit-right">
-	                            <a class="img-box" href="#"><img src="../images/suit-06.jpg" alt=""></a>
-	                            <a class="img-box" href="#"><img src="../images/suit-09.jpg" alt=""></a>
-	                            <a class="img-box" href="#"><img src="../images/suit-11.jpg" alt=""></a>
+	                            <a class="img-box" href="#"><img src="../images/ceshi1.jpg" alt=""></a>
+	                            <a class="img-box" href="#"><img src="../images/ceshi1.jpg" alt=""></a>
+	                            <a class="img-box" href="#"><img src="../images/ceshi1.jpg" alt=""></a>
 	                    	</div>
 	                    </div>
                     </div>
@@ -51,7 +54,14 @@
                 
                 
                 <p><a href="#">短袖衬衫十分贴合的颈部和肩部裁剪，自胸线以下扩张的轮廓线，对腰部线条不做任何强调，会令人显得更为苗条。</a></p>
-                <div class="clearfix"><p class="pull-left price-box"><span>打包价：<em>&yen;368.00</em></span><span>吊牌价：&yen;368.00</span></p><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
+                <div class="clearfix">
+                    <p class="pull-left price-box">
+                        <span>打包价：<em>&yen;368.00</em></span>
+                        <span class="pull-right countdown">
+                            <span>距离本场结束</span><em>6</em><span>天</span><em>2</em><em>1</em>:<em>2</em><em>4</em>:<em>2</em><em>4</em>
+                        </span>
+                    </p>
+                </div>
             </div>
         </div>
 
@@ -61,14 +71,14 @@
                     <div class="row-fluid">
                         <div class="span8">
                             <div class="suit-left">
-                                <a class="img-box img-posi" href="#"><img src="../images/suit-03.jpg" alt=""><img class="mark-img" src="../images/jingpin.png" alt=""></a>
+                                <a class="img-box img-posi" href="#"><img src="../images/card1.jpg" alt="" class='main-img'><img class="mark-img" src="../images/jingpin.png" alt=""></a>
                             </div>
                         </div>
                         <div class="span4">
                             <div class="suit-right">
-                                <a class="img-box" href="#"><img src="../images/suit-06.jpg" alt=""></a>
-                                <a class="img-box" href="#"><img src="../images/suit-09.jpg" alt=""></a>
-                                <a class="img-box" href="#"><img src="../images/suit-11.jpg" alt=""></a>
+                                <a class="img-box" href="#"><img src="../images/ceshi.jpg" alt=""></a>
+                                <a class="img-box" href="#"><img src="../images/ceshi1.jpg" alt=""></a>
+                                <a class="img-box" href="#"><img src="../images/ceshi1.jpg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -76,13 +86,33 @@
                 
                 
                 <p><a href="#">短袖衬衫十分贴合的颈部和肩部裁剪，自胸线以下扩张的轮廓线，对腰部线条不做任何强调，会令人显得更为苗条。</a></p>
-                <div class="clearfix"><p class="pull-left price-box"><span>打包价：<em>&yen;368.00</em></span><span>吊牌价：&yen;368.00</span></p><a class="share-link" href="#"><i class="fa fa-share-square-o"></i></a></div>
+                <div class="clearfix">
+                    <p class="price-box clearfix">
+                        <span class="pull-left">打包价：<em>&yen;368.00</em></span>
+                        <span class="pull-right countdown">
+                            <span>距离本场结束</span><em>6</em><span>天</span><em>2</em><em>1</em>:<em>2</em><em>4</em>:<em>2</em><em>4</em>
+                        </span>
+                    </p>
+                </div>
             </div>
         </div>
 	</div>
 
 <!--#include file="inc/footer.shtml"-->
 </div>
-
+<script type="text/javascript">
+    $(".img-posi").each(function(){
+        $(this).css("height", $(this).width()*1.5);
+        $(this).css("line-height", $(this).height()+"px")
+    });
+    $(".suit-right .img-box").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+    $(".img-spa").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+</script>
 </body>
 </html>

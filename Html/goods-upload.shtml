@@ -107,6 +107,11 @@
 	</div>
 
 </div>
-
+<script type="text/javascript">
+    $(".show-imgbox-no").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+</script>
 </body>
 </html>

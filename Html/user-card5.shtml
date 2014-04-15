@@ -16,7 +16,7 @@
 <div class="wrap">
 	<div class="wrap-content">
 		<div class="module module-white">
-      <div class="module-card module-card-posi module-card-info">
+      <div class="module-card module-card-info">
           <h1 class="text-center">礼品卡金额：123.00元</h1>
           <img src="../images/card-self.png">
       </div>
@@ -28,8 +28,8 @@
           <div class="col-12"><textarea rows="3"placeholder="说点什么"></textarea></div>
         </div>
         <div class="controls-defined defined-small">
-          <label class="col-4 text-right"><i class="fa fa-phone"></i>好友联系方式</label>
-          <div class="col-8"><input type="text" placeholder="请输入11位手机号码"></div>
+          <label class="col-5 text-left"><i class="fa fa-phone"></i>好友联系方式</label>
+          <div class="col-7"><input type="text" placeholder="请输入11位手机号码"></div>
         </div>
         <button type="button" class="btn btn-danger btn-large btn-block">确认赠送</button>
       </form>

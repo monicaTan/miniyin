@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="wrap">
-	<div class="wrap-content">
+	<div class="wrap-content wrap-mar">
 		<div class="module module-white">
       <div class="module-card module-card-scan">
           <h1 class="text-center">礼品卡余额：123.00元</h1>

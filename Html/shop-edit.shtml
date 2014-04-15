@@ -20,7 +20,7 @@
         <div class="txt-block detail-contact shop-information">
             <div class="row-fluid">
             <div class="span8"><span class="txt2 shop-title">修改店铺LOGO</span></div>
-            <div class="span3 text-right"><a href="#"><img src="../images/img800.jpg" class="img-rounded"></a></div>
+            <div class="span3 text-right"><a class="shop-logo" href="#"><img src="../images/img800.jpg"></a></div>
             </div>
         </div>
       </div>
@@ -41,4 +41,11 @@
     e.preventDefault();
     $(this).tab('show');
     })
+
+    /*--------------------img----------------------------*/
+    $(".shop-logo").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+
 </script>

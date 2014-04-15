@@ -25,8 +25,8 @@
                 <div class="module-title2">
                     <div class="row-fluid">
                         <div class="span6"><h3><i class="fa fa-heart"></i>搭配组合照</h3></div>
-                        <div class="span6">
-                          <a class="title-link" href="#">商品搭配教程<i class="fa fa-angle-right"></i></a>
+                        <div class="span6 text-right">
+                            <div class="text-right"><a class="title-link" href="#">商品搭配教程<i class="fa fa-angle-right"></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -43,11 +43,11 @@
                 </div>
                 <div class="mini-imgbox">
                     <ul class="inline">
-                        <li><i></i><img src="../images/suit-11.jpg"></li><!-- 100px * 100px -->
-                        <li><i></i><img src="../images/suit-11.jpg"></li>
-                        <li><i></i><img src="../images/suit-11.jpg"></li>
-                        <li><i></i><img src="../images/suit-11.jpg"></li>
-                        <li class="add-link"><a href="#"><img src="../images/add-img.png"></a></li>
+                        <li><i></i><span class="img-spa"><img src="../images/ceshi.jpg"></span></li><!-- 100px * 100px -->
+                        <li><i></i><span class="img-spa"><img src="../images/suit-11.jpg"></span></li>
+                        <li><i></i><span class="img-spa"><img src="../images/delate.png"></span></li>
+                        <li><i></i><span class="img-spa"><img src="../images/imgs-08.jpg"></span></li>
+                        <li class="add-link"><span class="img-spa"><a href="#"><img src="../images/add-img.png"></a></span></li>
                     </ul>
                 </div>
             </div>
@@ -60,9 +60,9 @@
                 </div>
                 <div class="upload-img">
                     <ul class="inline">
-                        <li><i></i><img src="../images/suit-11.jpg"></li><!-- 100px * 100px -->
-                        <li><i></i><img src="../images/suit-11.jpg"></li>
-                        <li class="add-link"><a href="#"><img src="../images/add-img.png"></a></li>
+                        <li><i></i><span class="img-spa"><img src="../images/card-tbg.jpg"></span></li><!-- 100px * 100px -->
+                        <li><i></i><span class="img-spa"><img src="../images/ceshi.jpg"></span></li>
+                        <li class="add-link"><span class="img-spa"><a href="#"><img src="../images/add-img.png"></a></span></li>
                     </ul>
                 </div>
             </div>
@@ -114,6 +114,20 @@
     </div>
 
 </div>
+<script type="text/javascript">
+    $(".show-imgbox-no").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+    $(".upload-img li").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+    $(".mini-imgbox li").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
 
+</script>
 </body>
 </html>

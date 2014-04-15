@@ -11,7 +11,7 @@
  			<div class="row-fluid">
 		 		<div class="span7">
 		 			<div class="row-fluid">
-		 				<div class="span5"><img class="img-polaroid face-img" src="../images/face-img.jpg"></div>
+		 				<div class="span5"><span class="img-spa"><img class="face-img" src="../images/face-img.jpg"></span></div>
 		 				<div class="span7"><h2 class="shop-name">FACE&小铺</h2></div>
 		 			</div>
 		 		</div>
