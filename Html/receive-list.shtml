@@ -14,59 +14,32 @@
 </head>
 <body>
 <div class="wrap">
-  <div class="wrap-inner back-wrap-inner">
-    <div class="row-fluid">
-        <div class="recieve-list">
-           <div class="common-white">
-              <div class="span9 txt2">
-                <div><span>订单时间：2014-09-08 19:00:00</span></div>  
-                <div><span>开户银行：中国建设银行</span></div>  
-                <div><span>卡号：23225678990021</span></div>  
-              </div>
-              <div class="span3 txt2">
-               <span>￥230.00</span>
-              </div>
-           </div>
-        </div>    
-
-        <div class="recieve-list">
-           <div class="common-white">
-              <div class="span9 txt2">
-                <div><span>订单时间：2014-09-08 19:00:00</span></div>  
-                <div><span>开户银行：中国建设银行</span></div>  
-                <div><span>卡号：23225678990021</span></div>  
-              </div>
-              <div class="span3 txt2">
-               <span>￥230.00</span>
-              </div>
-           </div>
-        </div>    
-
-        <div class="recieve-list">
-           <div class="common-white">
-              <div class="span9 txt2">
-                <div><span>订单时间：2014-09-08 19:00:00</span></div>  
-                <div><span>开户银行：中国建设银行</span></div>  
-                <div><span>卡号：23225678990021</span></div>  
-              </div>
-              <div class="span3 txt2">
-               <span>￥230.00</span>
-              </div>
-           </div>
-        </div>    
-
-        <div class="recieve-list">
-           <div class="common-white">
-              <div class="span9 txt2">
-                <div><span>订单时间：2014-09-08 19:00:00</span></div>  
-                <div><span>开户银行：中国建设银行</span></div>  
-                <div><span>卡号：23225678990021</span></div>  
-              </div>
-              <div class="span3 txt2">
-               <span>￥230.00</span>
-              </div>
-           </div>
-        </div>    
+  <div class="wrap-content">
+      <div class="recieve-list">
+         <div class="common-white">
+          <div class="row-fluid">
+            <div class="span9 txt2">
+              <div><span>订单时间：2014-09-08 19:00:00</span></div>  
+              <div><span>开户银行：中国建设银行</span></div>  
+              <div><span>卡号：23225678990021</span></div>  
+            </div>
+            <div class="span3 txt2">
+             <span>￥230.00</span>
+            </div>
+         </div>
+        </div> 
+        <div class="common-white">
+          <div class="row-fluid">
+            <div class="span9 txt2">
+              <div><span>订单时间：2014-09-08 19:00:00</span></div>  
+              <div><span>开户银行：中国建设银行</span></div>  
+              <div><span>卡号：23225678990021</span></div>  
+            </div>
+            <div class="span3 txt2">
+             <span>￥230.00</span>
+            </div>
+         </div>
+        </div>           
     </div>
   </div>
 </div>
