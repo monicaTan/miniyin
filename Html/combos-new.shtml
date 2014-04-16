@@ -123,7 +123,7 @@
         $(this).css("height", $(this).width())
         $(this).css("line-height", $(this).height()+"px")
     });
-    $(".mini-imgbox li").each(function(){
+    $(".mini-imgbox .img-spa").each(function(){
         $(this).css("height", $(this).width())
         $(this).css("line-height", $(this).height()+"px")
     });
