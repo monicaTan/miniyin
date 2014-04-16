@@ -122,8 +122,8 @@
 .shop-name{margin-top: 10px; font-size:18px; }
 .btn-share0{ font-size: 12px; padding: 8px 8px;}
 .shop-head{ bottom: -36px;}
-.shop-head-inner{padding: 0 5px;}
-.wrap-inner{margin-top: 50px; margin-bottom: 80px; padding: 10px 5px;}
+.shop-head-inner{padding: 0 10px 0 10px;}
+.wrap-inner{ padding: 10px 5px;}
 .module-content p a{ font-size: 13px; line-height: 20px;}
 .suit-right .img-box{margin-bottom: 4px;}
 .module-content .price-box{margin: 8px 0 2px;}
@@ -155,7 +155,7 @@
 .bottom-caret .caret{left: 74%;}
 
 /*---------------------------------Css Back-end-------------------------------------*/
-.back-wrap-inner{/*margin: 0; */padding: 0;}
+.back-wrap-inner{padding: 0;}
 .module-bg-white{ padding:10px 5px 20px; background:white;}
 .module-bg-white2{ padding:10px 10px 10px; margin: 0 5px 5px;}
 .module-title2 h3{ font-size: 15px;}
