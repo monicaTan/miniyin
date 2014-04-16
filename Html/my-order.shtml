@@ -30,7 +30,7 @@
            </div>
            <div class="span9">
                <div class="price-detail">
-                   <h3><a href="#">Adidas独家定制靴Adidas独家定制靴Adidas独家定制靴</a></h3>
+                   <h3 class="two-line"><a href="#">Adidas独家定制靴Adidas独家定制靴Adidas独家定制靴</a></h3>
                    <p class="txt3 clearfix"><span class="pull-left">打包价：<em>￥300.00</em></span><span class="pull-right">数量：12</span></p>
                </div>
            </div>
@@ -63,7 +63,7 @@
            </div>
            <div class="span9">
                <div class="price-detail">
-                   <h3><a href="#">Adidas独家定制靴Adidas独家定制靴Adidas独家定制靴</a></h3>
+                   <h3 class="two-line"><a href="#">Adidas独家定制靴Adidas独家定制靴Adidas独家定制靴</a></h3>
                    <p class="txt3 clearfix"><span class="pull-left">打包价：<em>￥300.00</em></span><span class="pull-right">数量：12</span></p>
                </div>
            </div>

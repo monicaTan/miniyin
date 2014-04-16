@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="wrap">
-	<div class="wrap-content">
+	<div class="wrap-content bottom-distance">
     <div class="module module-white min-height">
   		<div class="module-tab0 module-tab2 module-product">
         <ul class="nav nav-tabs" id="myTab">
@@ -37,7 +37,7 @@
                     <div class="row-fluid">
                       <div class="span3"><span class="img-spa"><img class="img-rounded" src="../images/img640.jpg"></span></div>
                       <div class="span9 collection-p">
-                        <p class="txt2">Nike运动休闲手套；Nike运</p>
+                        <p class="txt2 one-line">Nike运动休闲手套；Nike运</p>
                         <p class="txt2 txt-red">组合价：￥300.00</p>
                         <div class="shelves"><a type="button" class="btn btn-danger btn-small">上 架</a></div>
                       </div>
