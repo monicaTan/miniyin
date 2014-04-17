@@ -1,29 +1,6 @@
 <a class="top-link" href="#TOP">
 	<i class="fa fa-arrow-up"></i>
 </a>
-
-<!-- header -->
-<!-- <header id="TOP">
- <div class="header-box header-box-index">
- 	<div class="head-img"><img src="../images/top-img-2x.jpg"></div>
- 	<div class="shop-head" id="head-menu">
- 		<div class="shop-head-inner">
- 			<div class="row-fluid">
-		 		<div class="span7">
-		 			<div class="row-fluid">
-		 				<div class="span5"><span class="img-spa"><img class="face-img" src="../images/face-img.jpg"></span></div>
-		 				<div class="span7"><h2 class="shop-name">FACE&小铺</h2></div>
-		 			</div>
-		 		</div>
-		 		<div class="span5">
-		 			<button class="btn btn-small btn-danger btn-share0 pull-right"><i class="fa fa-share-square-o"></i> 分享给好友</button>
-		 		</div>
-		 	</div>
- 		</div>
- 	</div>
- </div>
-</header> -->
-<!-- /header -->
 <!-- header -->
     <header id="TOP">
      <div class="header-box header-box-index">
