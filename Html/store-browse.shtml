@@ -23,21 +23,25 @@
                 <div class="row-fluid">
                     <div class="span12">
                         <div class="row-fluid">
-                            <div class="span3"><img class="img-polaroid face-img" src="../images/face-img.jpg"></div>
+                            <div class="span3">
+                                <span class="img-spa"><img src="../images/face-img.jpg" class="face-img"></span>
+                            </div>
                             <div class="span9">
-                                <h2 class="shop-name">FACE&小铺</h2>
-                                <ul class="inline browerse-icon">
-                                    <li>
-                                        <a href="#"><i class="hd btn-tel"></i><span>联系店主</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="hd btn-star"></i><span>收藏店铺</span></a>
-                                        <!-- <a href="#"><i class="hd btn-star-active"></i><span>已收藏</span></a> -->
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="hd btn-share"></i><span>分享给好友</span></a>
-                                    </li>
-                                </ul>
+                                <h2 class="shop-name browerse-shop-name">FACE&小铺</h2>
+                                <div class="browerse-icon">
+                                    <div class="row-fluid">
+                                        <div class="span4 text-center">
+                                            <a class="browerse-nav-link nav-link-fist" href="#"><i class="hd btn-tel"></i><span>联系店主</span></a>
+                                        </div>
+                                        <div class="span4 text-center">
+                                            <a class="browerse-nav-link"  href="#"><i class="hd btn-star"></i><span>收藏店铺</span></a>
+                                            <!-- <a href="#"><i class="hd btn-star-active"></i><span>已收藏</span></a> -->
+                                        </div>
+                                        <div class="span4 text-center">
+                                            <a class="browerse-nav-link"  href="#"><i class="hd btn-share"></i><span>分享给好友</span></a>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -140,6 +144,10 @@
 
 </div>
 <script type="text/javascript">
+    $(".img-spa").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
     $(".img-posi").each(function(){
         $(this).css("height", $(this).width()*1.5);
         $(this).css("line-height", $(this).height()+"px")

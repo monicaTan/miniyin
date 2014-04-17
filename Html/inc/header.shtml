@@ -3,8 +3,8 @@
 </a>
 
 <!-- header -->
-<header id="TOP">
- <div class="header-box">
+<!-- <header id="TOP">
+ <div class="header-box header-box-index">
  	<div class="head-img"><img src="../images/top-img-2x.jpg"></div>
  	<div class="shop-head" id="head-menu">
  		<div class="shop-head-inner">
@@ -22,5 +22,37 @@
  		</div>
  	</div>
  </div>
-</header>
+</header> -->
 <!-- /header -->
+<!-- header -->
+    <header id="TOP">
+     <div class="header-box header-box-index">
+        <div class="head-img"><img src="../images/shop-browse.jpg"></div>
+        <div class="shop-head" id="head-menu">
+            <div class="shop-head-inner">
+                <div class="row-fluid">
+                    <div class="span12">
+                        <div class="row-fluid">
+                            <div class="span3">
+                                <span class="img-spa"><img src="../images/face-img.jpg" class="face-img"></span>
+                            </div>
+                            <div class="span9">
+                                <h2 class="shop-name index-shop-name">FACE&小铺</h2>
+                                <div class="index-share clearfix">
+                                    <button class="btn btn-small btn-danger btn-share0 pull-right"><i class="fa fa-share-square-o"></i> 分享给好友</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </div>
+    </header>
+    <!-- /header -->
+    <script type="text/javascript">
+    $(".img-spa").each(function(){
+        $(this).css("height", $(this).width())
+        $(this).css("line-height", $(this).height()+"px")
+    });
+   </script>
