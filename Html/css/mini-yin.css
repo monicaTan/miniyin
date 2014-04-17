@@ -646,7 +646,7 @@ h6 small {font-size: 10px; line-height: 16px;}
 .index-share {padding-top: 4px;}
 .shop-name{ margin:10px 0 0; font-size: 30px; font-weight: normal; line-height: 1em}
 .browerse-shop-name{margin-bottom: 10%;}
-/*.btn-share0{margin-top: 22%; padding: 18px 38px;}*/
+.btn-share0{ padding: 18px 20px;}
 .shop-head{position: absolute; left: 0; bottom: -24%;width: 100%;}
 .header-box-index .shop-head{ bottom: -22%;}
 .shop-head-inner{padding: 0 4% 0;}
@@ -787,7 +787,7 @@ footer{ position: fixed; bottom:0; width: 640px;}
 .btn-star{background-position: center -252px;}
 .btn-star-active{background-position: center -126px;}
 .btn-share{background-position: center -378px;}
-.browerse-icon {/*position: relative; top: 34px; */width: 100%;}
+.browerse-icon { width: 100%;}
 .browerse-icon .span4{margin: 0; width: 33.3%;}
 .browerse-nav-link{ display: inline-block; text-align: center; border-left:1px solid #dddddd; color: #676767; font-size: 21px; line-height: 1em; width: 100%;box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
 .nav-link-fist{border-left:0;}
