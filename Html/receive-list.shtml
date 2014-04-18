@@ -21,9 +21,9 @@
             <div class="span9 txt2">
               <div><span>订单时间：2014-09-08 19:00:00</span></div>  
               <div><span>开户银行：中国建设银行</span></div>  
-              <div><span>卡号：23225678990021</span></div>  
+              <div><span class="tel-nun">卡号：23225678990021</span></div>  
             </div>
-            <div class="span3 txt2">
+            <div class="span3 txt2 recieve-money">
              <span>￥230.00</span>
             </div>
          </div>
@@ -33,9 +33,9 @@
             <div class="span9 txt2">
               <div><span>订单时间：2014-09-08 19:00:00</span></div>  
               <div><span>开户银行：中国建设银行</span></div>  
-              <div><span>卡号：23225678990021</span></div>  
+              <div><span class="tel-nun">卡号：23225678990021</span></div>  
             </div>
-            <div class="span3 txt2">
+            <div class="span3 txt2 recieve-money">
              <span>￥230.00</span>
             </div>
          </div>
