@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="wrap">
-	<div class="wrap-content">
+	<div class="wrap-content bottom-distance">
 		<div class="module module-white">
       <div class="module-card">
         <h1 class="text-center">&nbsp;</h1>
