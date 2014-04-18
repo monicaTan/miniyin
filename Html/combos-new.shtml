@@ -42,7 +42,7 @@
                    </div>
                 </div>
                 <div class="mini-imgbox">
-                    <ul class="inline">
+                    <ul class="inline clearfix">
                         <li><i></i><span class="img-spa"><img src="../images/ceshi.jpg"></span></li><!-- 100px * 100px -->
                         <li><i></i><span class="img-spa"><img src="../images/suit-11.jpg"></span></li>
                         <li><i></i><span class="img-spa"><img src="../images/delate.png"></span></li>
