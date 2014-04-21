@@ -16,7 +16,7 @@
 <div class="wrap">
 	<div class="wrap-content">
     <div class="module module-white min-height">
-  		<div class="module-tab0 module-tab2">
+  		<div class="module-tab0 module-tab2 tabs-fixed">
         <ul class="nav nav-tabs" id="myTab">
           <li class="active"><a href="#home">礼品卡</a></li>
           <li><a href="#profile">其他订单</a></li>
