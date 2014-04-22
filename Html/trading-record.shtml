@@ -16,7 +16,7 @@
 <div class="wrap">
 	<div class="wrap-content">
     <div class="module module-white min-height">
-  		<div class="module-tranding">
+  		<div class="module-tab0 module-tab2 module-tranding tabs-fixed">
         <ul class="nav nav-tabs" id="myTab">
           <li class="active"><a href="#home">自己购买</a></li>
           <li><a href="#profile">好友赠送</a></li>
