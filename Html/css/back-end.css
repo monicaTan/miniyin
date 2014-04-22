@@ -20,7 +20,6 @@
 .mini-imgbox ul li .img-spa:focus,
 .mini-imgbox ul li .img-spa:hover,
 .mini-imgbox ul li .img-spa:active{ border:2px solid #f86b9f;}
-.mini-imgbox ul li i,
 .mini-imgbox ul li i{ position: absolute;left: -4%; top: -20%;display:block; width: 28px; height: 28px; background-image:url(../images/delate.png); background-position: center center; background-repeat: no-repeat; background-color: transparent; background-size: 24px auto;}
 .mini-imgbox ul li img{ width: auto; height: auto;}
 .mini-imgbox ul li.add-link a{ display: block;}
@@ -66,8 +65,8 @@
 .wrap-goodssearch{margin: 0;}
 .module-searchinput{ padding: 10px 20px;}
 .module-searchinput form{ margin: 0;}
-.module-searchinput input{ width: 80%; height: 50px;font: 24px/50px "microsoft yahei"; text-indent: 44px;}
-.module-searchinput .btn{ background:white; color: #F86B9F; padding: 18px 24px; font-size: 22px;}
+.module-searchinput input{ width: 80%; height: 50px;font: 24px/50px "microsoft yahei"; padding-left: 44px;}
+.module-searchinput .btn{ background:white; color: #F86B9F; padding: 14px 24px; font-size: 22px;}
 .bg-img{background-image:url(../images/search.png); background-position: 10px center; background-repeat: no-repeat; background-color: transparent;}
 .module-tab .nav-tabs { margin: 0; background: white; width: 100%;}
 .module-tab .nav-tabs > li{ width: 33.3%; text-align: center;}
