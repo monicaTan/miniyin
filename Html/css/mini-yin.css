@@ -164,8 +164,8 @@ body .wrap form input{ box-shadow: 0 1px 1px rgba(0, 0, 0, 0) inset !important;}
 .btn-large i{font-size: 16px; vertical-align: middle;}
 
 .btn-small {
-  padding: 2px 14px;
-  font-size: 12px;
+  padding: 4px 14px;
+  font-size: 13px;
   -webkit-border-radius: 2px;
      -moz-border-radius: 2px;
           border-radius: 2px;
@@ -823,7 +823,7 @@ footer{ position: fixed; bottom:0; width: 640px; z-index: 1000;}
 #loading-box {
   text-align: center;
   background-color: rgba(0, 0, 0, 0.4);
-  color:#333333;
+  color:white;
   top: 30%;
   left: 50%;
   width: 150px !important;

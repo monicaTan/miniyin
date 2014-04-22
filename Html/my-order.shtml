@@ -41,7 +41,7 @@
           <div class="detail-block detail-contact-bd">
             <p class="txt4 clearfix"><span class="pull-left"><b>订单号：11401185642</b></span></p>
             <p class="txt4 clearfix"><span><b>下单时间：2014-02-08&nbsp;&nbsp;10:08:33</b></span></p>
-            <p class="immediate-payment"><button type="button" class="btn btn-danger btn-mini">立即支付</button></p>
+            <p class="immediate-payment"><button type="button" class="btn btn-danger btn-small">立即支付</button></p>
           </div>
         </div>
       </div>
@@ -74,7 +74,7 @@
           <div class="detail-block detail-contact-bd">
             <p class="txt4 clearfix"><span class="pull-left"><b>订单号：11401185642</b></span></p>
             <p class="txt4 clearfix"><span><b>下单时间：2014-02-08&nbsp;&nbsp;10:08:33</b></span></p>
-            <p class="immediate-payment"><button type="button" class="btn btn-danger btn-mini">立即支付</button></p>
+            <p class="immediate-payment"><button type="button" class="btn btn-danger btn-small">立即支付</button></p>
           </div>
         </div>
       </div>
