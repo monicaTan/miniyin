@@ -29,6 +29,7 @@
         <li><a class="clearfix popup-menu1" href="#"><span>修改密码</span><i class="fa fa-angle-right"></i></a></li>
         <li><a class="clearfix popup-menu2" href="#"><span>找回密码</span><i class="fa fa-angle-right"></i></a></li>
         <li><a class="clearfix popup-menu3" href="#"><span>交易记录</span><i class="fa fa-angle-right"></i></a></li>
+        <li><a class="clearfix popup-menu4" href="#"><span>完善信息</span><i class="fa fa-angle-right"></i></a></li>
       </ul>
     </div>
   </div>
