@@ -74,7 +74,7 @@
 .size-detail dd li a{ padding: 4px 8px; border-radius: 2px;font-size:14px;}
 .wx-payment{margin-top: 15px; padding: 0 15px;}
 .p-detail { margin: 10px 10px 10px;}
-.modal-buy { padding: 0; margin: 0 auto; left:auto; right: auto; width: 90%;}
+.modal-buy { padding: 0; margin: 0 auto; left:5%; right: auto; width: 90%;}
 .current-choose{ margin-top: 10px; padding: 10px 0 0;}
 .modal-buy .modal-header{padding: 0 15px;}
 .modal-buy .modal-header .close{ right: 10px; top: 5px; margin: 0; font-size: 30px; line-height:22px;}
@@ -160,7 +160,7 @@
 .title-link i{ margin-left: 5px; font-size: 14px;}
 .module-pull{margin-top: 0;}
 .mini-imgbox {margin-top: 25px;}
-.mini-imgbox ul li i{ position: absolute;left: -18%; top: -24%;display: block; width: 30px; height: 30px; background-size: 16px auto;}
+.mini-imgbox ul li i{ position: absolute;left: -4%; top: -20%;display: block; width: 20px; height: 20px; background-size: 16px auto;}
 .upload-img {margin-top: 0;}
 .upload-img ul li{ margin-right: 2px; width: 28.2%;}
 .upload-img ul li i{ top: -10%; width: 20px; height: 20px; background-size: 20px auto;}
