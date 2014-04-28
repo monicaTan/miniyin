@@ -3,7 +3,7 @@
 <footer>
   <div class="footer-inner">
     <div class="row-fluid">
-      <div class="span3"><a class="nav1" href="#"><img src="../images/main-index.png"></a></div>
+      <div class="span3"><a class="nav1" href="#">商品管理</a></div>
       <div class="span3">
         <a class="nav2 nav-current" href="#">成交记录</a>
       </div>
