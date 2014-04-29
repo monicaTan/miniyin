@@ -38,7 +38,7 @@
                       <div class="span9 collection-p">
                         <p class="txt2 one-line">Nike运动休闲手套；Nike运</p>
                         <p class="txt2 txt-red">组合价：￥300.00</p>
-                        <div class="shelves"><a type="button" class="btn btn-danger btn-small">上 架</a></div>
+                        <div class="shelves"><a type="button" class="btn btn-success btn-small">上 架</a> <a type="button" class="btn btn-gray btn-small">下架</a></div>
                       </div>
                     </div>
                 </div>
