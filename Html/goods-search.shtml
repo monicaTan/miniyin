@@ -9,8 +9,7 @@
 <!--#include file="inc/common.shtml"-->
 <link rel="stylesheet" type="text/css" href="css/mini-yin.css">
 <link rel="stylesheet" type="text/css" href="css/back-end.css">
-<link rel="stylesheet" type="text/css" href="css/color.css">
-<link rel="stylesheet" type="text/css" href="css/mobile-media.css">
+<!--#include file="inc/common2.shtml"-->
 </head>
 <body>
 <a class="top-link" href="#TOP">
@@ -22,9 +21,11 @@
         <div class="module module-searchinput">
             <div class="row-fluid">
                 <div class="span12">
-                    <form class="form-inline">
-                        <input type="text" class="input-small bg-img" placeholder="搜索宝贝">
-                        <button type="submit" class="btn">搜 索</button>
+                    <form class="form-defined">
+                        <div class="controls-defined defined-small">
+                            <div class="col-9"><input class="bg-img" type="text" placeholder="搜索宝贝"></div>
+                            <div class="col-3"><button type="button" class="btn btn-danger btn-small btn-block">搜 索</button></div>
+                          </div>
                     </form>
                 </div>
             </div>

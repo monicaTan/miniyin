@@ -134,7 +134,6 @@
 .size-detail dd li {float: left;}
 .size-detail dd li a{display: inline-block; padding: 14px 14px; border-radius: 5px;font-size:28px;}
 .detail-block{ background-position: 99% center; background-repeat: no-repeat;}
-.detail-contact-bd{ background-image: none;}
 .detail-block p{margin: 0 6% 0 0; line-height: 50px; font-size: 21px;}
 .detail-contact-bd > p{margin:0;}
 .detail-contact{cursor: pointer;}

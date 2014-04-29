@@ -60,6 +60,7 @@
 .module-card h1{ font-size: 32px;margin-top: 0;}
 .module-card-posi{ position: relative; padding: 60px 40px 0; min-height:820px; background-position: center -20px; background-repeat: no-repeat;}
 .module-card-scan{ position: relative; padding: 60px 40px 20px; margin-bottom: 0; height:auto; background-position: center -20px; background-repeat: no-repeat;}
+.module-card-info{margin-bottom: 0;}
 .posi-txt{ padding: 20px 40px 0; }
 .txt-money em{ font-style: normal;}
 .card-form-box{padding: 30px; margin-bottom: 40px; }
